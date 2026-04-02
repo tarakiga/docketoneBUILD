@@ -9,7 +9,7 @@ id: "spaceship-fuel",
     howTo: "Input your ship's dry mass and your target Delta-V (change in velocity). We'll tell you exactly how much fuel you need to reach your destination without becoming a permanent satellite.",
     tips: ["Staging your rocket is the most efficient way to gain velocity.", "Vacuum engines have much higher efficiency than sea-level ones.", "Always leave 5% extra for maneuvers."],
     tags: ["Space", "Physics"]
---- ID: procrastination-roi ---Lines: 1704-1713
+--- ID: procrastination-roi ---Lines: 1707-1716
 id: "procrastination-roi",
     title: "Procrastination ROI",
     description: "Visualize when the Panic Monster will strike.",
@@ -20,7 +20,7 @@ id: "procrastination-roi",
     howTo: "Input your deadline and your current 'distraction level'. We'll map the growth of the 'Panic Monster' and predict exactly when you'll actually start working.",
     tips: ["Break big tasks into tiny, non-scary steps.", "The '5-Minute Rule': just do it for 5 minutes, and then you can stop.", "Your future self will thank you for starting now."],
     tags: ["Productivity", "Psychology"]
---- ID: social-media-addiction ---Lines: 1716-1725
+--- ID: social-media-addiction ---Lines: 1746-1755
 id: "social-media-addiction",
     title: "Social Media Addiction",
     description: "How many years of your life are spent scrolling?",
@@ -31,7 +31,7 @@ id: "social-media-addiction",
     howTo: "Estimate your daily usage across all platforms. We'll extrapolate that into years, months, and days, showing you what else you could have accomplished with that time.",
     tips: ["Turn off non-essential notifications.", "Set a grayscale filter on your phone to make it less appealing.", "Try a 'Digital Detox' Sunday."],
     tags: ["Digital Health", "Psychology"]
---- ID: coffee-code ---Lines: 1728-1737
+--- ID: coffee-code ---Lines: 1786-1795
 id: "coffee-code",
     title: "Coffee to Code Efficiency",
     description: "Calculate caffeine-fueled productivity.",
@@ -42,7 +42,7 @@ id: "coffee-code",
     howTo: "Log your caffeine intake and track your lines of code (or finished tasks). We'll find the peak efficiency point where your focus is laser-sharp before the jitters take over.",
     tips: ["Hydrate with water between cups of coffee.", "Coffee-fueled productivity peaks about 45 minutes after ingestion.", "Avoid caffeine 6 hours before your intended sleep time."],
     tags: ["Productivity", "Work"]
---- ID: unspent-potential ---Lines: 1740-1749
+--- ID: unspent-potential ---Lines: 1825-1834
 id: "unspent-potential",
     title: "Unspent Potential Tax",
     description: "Quantify the hidden cost of procrastination.",
@@ -53,7 +53,7 @@ id: "unspent-potential",
     howTo: "Input your task and the time you've spent delaying it. We'll calculate your 'Leisure Fine' and the resulting spike in your 'Cortisol Index'.",
     tips: ["Completing a task resets your Cortisol Index to zero immediately.", "Leisure debt is unpaid relaxation you've stolen from your weekend.", "Procrastination is often just a fear of the 'Unspent Potential' itself."],
     tags: ["Psychology", "Motivation"]
---- ID: pepper-scale ---Lines: 1836-1845
+--- ID: pepper-scale ---Lines: 1942-1951
 id: "pepper-scale",
     title: "How Hot Is That Pepper?",
     description: "Scoville scale visualizer & survival guide.",
@@ -64,7 +64,7 @@ id: "pepper-scale",
     howTo: "Select a pepper or input a Scoville Heat Unit (SHU) value. We'll show you the heat intensity and provide a survival guide for your taste buds.",
     tips: ["Milk and bread help neutralise capsaicin better than water.", "Don't touch your eyes after handling hot peppers!", "Heat tolerance is a skill you can train over time."],
     tags: ["Food", "Science"]
---- ID: should-i-engage ---Lines: 1848-1857
+--- ID: should-i-engage ---Lines: 1978-1987
 id: "should-i-engage",
     title: "Should I Engage?",
     description: "Strategic decision tree for conversations.",
@@ -75,7 +75,7 @@ id: "should-i-engage",
     howTo: "Answer a few questions about the person, the topic, and your current mood. We'll give you a 'Go/No-Go' recommendation for the engagement.",
     tips: ["If it won't matter in 5 years, don't spend more than 5 minutes on it.", "Pick your battles wisely.", "Sometimes, 'Okay' is the most powerful response."],
     tags: ["Social", "Mental Health"]
---- ID: elevator-dilemma ---Lines: 1860-1869
+--- ID: elevator-dilemma ---Lines: 2014-2023
 id: "elevator-dilemma",
     title: "The Elevator Dilemma",
     description: "Wait for the lift or take the stairs? Optimization for the impatient.",
