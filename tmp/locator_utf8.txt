@@ -1,0 +1,88 @@
+--- ID: spaceship-fuel ---Lines: 770-779
+id: "spaceship-fuel",
+    title: "Spaceship Fuel Planner",
+    description: "Plan your interstellar fuel loadout.",
+    category: "geekgalaxy",
+    slug: "spaceship-fuel",
+    icon: "⛽",
+    origin: "Tsiolkovsky's Rocket Equation is a cruel mistress. The more fuel you carry, the more fuel you need just to move that fuel. This planner helps you find the 'sweet spot' for your mission.",
+    howTo: "Input your ship's dry mass and your target Delta-V (change in velocity). We'll tell you exactly how much fuel you need to reach your destination without becoming a permanent satellite.",
+    tips: ["Staging your rocket is the most efficient way to gain velocity.", "Vacuum engines have much higher efficiency than sea-level ones.", "Always leave 5% extra for maneuvers."],
+    tags: ["Space", "Physics"]
+--- ID: procrastination-roi ---Lines: 1704-1713
+id: "procrastination-roi",
+    title: "Procrastination ROI",
+    description: "Visualize when the Panic Monster will strike.",
+    category: "lifehacks",
+    slug: "procrastination-roi",
+    icon: "💣",
+    origin: "Based on Tim Urban's 'Wait But Why' procrastination theory. We track the delicate balance between the Rational Decision Maker and the Instant Gratification Monkey.",
+    howTo: "Input your deadline and your current 'distraction level'. We'll map the growth of the 'Panic Monster' and predict exactly when you'll actually start working.",
+    tips: ["Break big tasks into tiny, non-scary steps.", "The '5-Minute Rule': just do it for 5 minutes, and then you can stop.", "Your future self will thank you for starting now."],
+    tags: ["Productivity", "Psychology"]
+--- ID: social-media-addiction ---Lines: 1716-1725
+id: "social-media-addiction",
+    title: "Social Media Addiction",
+    description: "How many years of your life are spent scrolling?",
+    category: "lifehacks",
+    slug: "social-media-addiction",
+    icon: "📱",
+    origin: "Social media apps are designed for 'infinite scroll' to keep you engaged. This tool calculates the cumulative impact of those 'just 5 more minutes' sessions over a lifetime.",
+    howTo: "Estimate your daily usage across all platforms. We'll extrapolate that into years, months, and days, showing you what else you could have accomplished with that time.",
+    tips: ["Turn off non-essential notifications.", "Set a grayscale filter on your phone to make it less appealing.", "Try a 'Digital Detox' Sunday."],
+    tags: ["Digital Health", "Psychology"]
+--- ID: coffee-code ---Lines: 1728-1737
+id: "coffee-code",
+    title: "Coffee to Code Efficiency",
+    description: "Calculate caffeine-fueled productivity.",
+    category: "lifehacks",
+    slug: "coffee-code",
+    icon: "☕",
+    origin: "Computer science legend says that a programmer is a machine for turning coffee into code. This tool calculates the 'Goldilocks Zone' of caffeination for maximum output.",
+    howTo: "Log your caffeine intake and track your lines of code (or finished tasks). We'll find the peak efficiency point where your focus is laser-sharp before the jitters take over.",
+    tips: ["Hydrate with water between cups of coffee.", "Coffee-fueled productivity peaks about 45 minutes after ingestion.", "Avoid caffeine 6 hours before your intended sleep time."],
+    tags: ["Productivity", "Work"]
+--- ID: unspent-potential ---Lines: 1740-1749
+id: "unspent-potential",
+    title: "Unspent Potential Tax",
+    description: "Quantify the hidden cost of procrastination.",
+    category: "lifehacks",
+    slug: "unspent-potential",
+    icon: "⚖️",
+    origin: "Inspired by the 'Emotional Debt' of procrastination. Every hour spent delaying a task is a 'tax' paid by your future self's leisure time.",
+    howTo: "Input your task and the time you've spent delaying it. We'll calculate your 'Leisure Fine' and the resulting spike in your 'Cortisol Index'.",
+    tips: ["Completing a task resets your Cortisol Index to zero immediately.", "Leisure debt is unpaid relaxation you've stolen from your weekend.", "Procrastination is often just a fear of the 'Unspent Potential' itself."],
+    tags: ["Psychology", "Motivation"]
+--- ID: pepper-scale ---Lines: 1836-1845
+id: "pepper-scale",
+    title: "How Hot Is That Pepper?",
+    description: "Scoville scale visualizer & survival guide.",
+    category: "lifehacks",
+    slug: "pepper-scale",
+    icon: "🌶️",
+    origin: "The Scoville Scale measures the concentration of capsaicin. From the mild bell pepper to the soul-crushing Carolina Reaper, we map the journey from 'Tingly' to 'Regretty'.",
+    howTo: "Select a pepper or input a Scoville Heat Unit (SHU) value. We'll show you the heat intensity and provide a survival guide for your taste buds.",
+    tips: ["Milk and bread help neutralise capsaicin better than water.", "Don't touch your eyes after handling hot peppers!", "Heat tolerance is a skill you can train over time."],
+    tags: ["Food", "Science"]
+--- ID: should-i-engage ---Lines: 1848-1857
+id: "should-i-engage",
+    title: "Should I Engage?",
+    description: "Strategic decision tree for conversations.",
+    category: "lifehacks",
+    slug: "should-i-engage",
+    icon: "🤔",
+    origin: "Based on social intelligence frameworks. Not every argument needs an answer, and not every comment needs a rebuttal. This tool helps you preserve your mental energy.",
+    howTo: "Answer a few questions about the person, the topic, and your current mood. We'll give you a 'Go/No-Go' recommendation for the engagement.",
+    tips: ["If it won't matter in 5 years, don't spend more than 5 minutes on it.", "Pick your battles wisely.", "Sometimes, 'Okay' is the most powerful response."],
+    tags: ["Social", "Mental Health"]
+--- ID: elevator-dilemma ---Lines: 1860-1869
+id: "elevator-dilemma",
+    title: "The Elevator Dilemma",
+    description: "Wait for the lift or take the stairs? Optimization for the impatient.",
+    category: "lifehacks",
+    slug: "elevator-dilemma",
+    icon: "🛗",
+    origin: "The 'wait calculation' is a daily subconscious battle. Often, the perceived effort of stairs outweighs the hidden cost of waiting, leading to net time loss and missed cardio.",
+    howTo: "Input your floor number and the estimated crowd level. We'll tell you if you should press the button or hit the stairwell.",
+    tips: ["Taking the stairs burns ~0.17 calories per step.", "Waiting for an elevator feels 2x longer than it actually is.", "Avoiding eye contact in a lift requires advanced spatial awareness."],
+    tags: ["Time", "Health", "Efficiency"]
