@@ -1,58 +1,480 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/195c216f52dae3f8.js","/_next/static/chunks/6b6dcc3f4a270b5b.js","/_next/static/chunks/20cdf99d33ab622f.js","/_next/static/chunks/a06b3bba24403791.js","/_next/static/chunks/2d2bb8f3b3c5d461.js","/_next/static/chunks/1269288e82030b4b.js","/_next/static/chunks/19847245418af887.js"],""]
-8:I[45924,["/_next/static/chunks/195c216f52dae3f8.js","/_next/static/chunks/6b6dcc3f4a270b5b.js","/_next/static/chunks/20cdf99d33ab622f.js","/_next/static/chunks/a06b3bba24403791.js","/_next/static/chunks/2d2bb8f3b3c5d461.js","/_next/static/chunks/1269288e82030b4b.js","/_next/static/chunks/19847245418af887.js"],"FilteredCalculatorGrid"]
-b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/3677defb19fe9037.js"],"OutletBoundary"]
-c:"$Sreact.suspense"
-0:{"buildId":"rmAR5LrQEbExPJLQQGqb1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-background","children":[["$","div",null,{"className":"relative overflow-hidden border-b bg-gradient-to-br from-green-500/20 to-emerald-500/20 pt-16 pb-20","children":[["$","div",null,{"className":"absolute right-0 top-1/2 -translate-y-1/2 translate-x-1/4 select-none pointer-events-none opacity-[0.04] text-[30vw] leading-none mix-blend-overlay filter blur-[2px]","children":"🔐"}],["$","div",null,{"className":"container relative z-10 px-4 md:px-6","children":[["$","$L2",null,{"href":"/#categories","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left mr-2 h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to Categories"],"data-slot":"button","data-variant":"ghost","data-size":"default","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent dark:hover:bg-accent/50 h-9 px-4 py-2 has-[>svg]:px-3 mb-8 -ml-4 text-muted-foreground hover:text-primary transition-colors","ref":null}],["$","div",null,{"className":"max-w-6xl","children":[["$","div",null,{"className":"flex flex-col md:flex-row md:items-center gap-4 mb-4","children":[["$","span",null,{"className":"text-5xl md:text-6xl drop-shadow-sm","children":"🔐"}],["$","h1",null,{"className":"text-4xl md:text-6xl font-extrabold tracking-tight text-foreground text-balance","children":"Cipher Lab"}]]}],["$","p",null,{"className":"text-xl md:text-2xl font-medium text-foreground/80 mb-8 max-w-3xl text-balance","children":"Codes & Security"}],["$","div",null,{"className":"bg-background/40 backdrop-blur-xl rounded-3xl p-6 md:p-10 border border-foreground/5 shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:shadow-[0_8px_30px_rgb(255,255,255,0.02)] relative z-20","children":["$","article",null,{"className":"prose prose-neutral dark:prose-invert max-w-none prose-p:leading-relaxed prose-p:text-muted-foreground md:columns-2 gap-10","children":["$","div",null,{"className":"space-y-4","children":[["$","p",null,{"children":"Welcome to the Cipher Lab, the definitive hub for cryptographic exploration and codebreaking. For millennia, humanity has been obsessed with hiding information. From Julius Caesar encoding military orders using simple alphabetical shifts, to the impenetrable Enigma machines of World War II, the art of cryptography has literally altered the course of human history. Today, in the era of digital privacy, understanding how ciphers encrypt, obfuscate, and protect data is more critical than ever before. This suite of tools allows you to plunge headfirst into the mechanics of secure communication."}],["$","p",null,{"children":"Cryptography is ultimately a battle of applied mathematics. Our calculators give you hands-on experience with the logic gates and scrambling algorithms that modern security systems are built upon. You can analyze string entropy, decrypt archaic historical puzzles, or translate your modern texts into visually stunning runic ciphers. We have digitized everything from substitution algorithms to phonetic military alphabets, ensuring that whatever secret you are trying to encode or decode is processed with maximum accuracy."}],"$L3"]}]}]}]]}]]}]]}],"$L4"]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+2:I[22016,["/_next/static/chunks/195c216f52dae3f8.js","/_next/static/chunks/6b6dcc3f4a270b5b.js","/_next/static/chunks/20cdf99d33ab622f.js","/_next/static/chunks/ebb3ae36ab65a3ea.js","/_next/static/chunks/2d2bb8f3b3c5d461.js","/_next/static/chunks/1269288e82030b4b.js","/_next/static/chunks/19847245418af887.js"],""]
+8:I[45924,["/_next/static/chunks/195c216f52dae3f8.js","/_next/static/chunks/6b6dcc3f4a270b5b.js","/_next/static/chunks/20cdf99d33ab622f.js","/_next/static/chunks/ebb3ae36ab65a3ea.js","/_next/static/chunks/2d2bb8f3b3c5d461.js","/_next/static/chunks/1269288e82030b4b.js","/_next/static/chunks/19847245418af887.js"],"FilteredCalculatorGrid"]
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/3677defb19fe9037.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+0:{"buildId":"fDwEFnxxcCXYdyPGQaI0N","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-background","children":[["$","div",null,{"className":"relative overflow-hidden border-b bg-gradient-to-br from-green-500/20 to-emerald-500/20 pt-16 pb-20","children":[["$","div",null,{"className":"absolute right-0 top-1/2 -translate-y-1/2 translate-x-1/4 select-none pointer-events-none opacity-[0.04] text-[30vw] leading-none mix-blend-overlay filter blur-[2px]","children":"🔐"}],["$","div",null,{"className":"container relative z-10 px-4 md:px-6","children":[["$","$L2",null,{"href":"/#categories","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left mr-2 h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to Categories"],"data-slot":"button","data-variant":"ghost","data-size":"default","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent dark:hover:bg-accent/50 h-9 px-4 py-2 has-[>svg]:px-3 mb-8 -ml-4 text-muted-foreground hover:text-primary transition-colors","ref":null}],["$","div",null,{"className":"max-w-6xl","children":[["$","div",null,{"className":"flex flex-col md:flex-row md:items-center gap-4 mb-4","children":[["$","span",null,{"className":"text-5xl md:text-6xl drop-shadow-sm","children":"🔐"}],["$","h1",null,{"className":"text-4xl md:text-6xl font-extrabold tracking-tight text-foreground text-balance","children":"Cipher Lab"}]]}],["$","p",null,{"className":"text-xl md:text-2xl font-medium text-foreground/80 mb-8 max-w-3xl text-balance","children":"Codes & Security"}],["$","div",null,{"className":"bg-background/40 backdrop-blur-xl rounded-3xl p-6 md:p-10 border border-foreground/5 shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:shadow-[0_8px_30px_rgb(255,255,255,0.02)] relative z-20","children":["$","article",null,{"className":"prose prose-neutral dark:prose-invert max-w-none prose-p:leading-relaxed prose-p:text-muted-foreground md:columns-2 gap-10","children":["$","div",null,{"className":"space-y-4","children":[["$","p",null,{"children":"Welcome to the Cipher Lab, the definitive hub for cryptographic exploration and codebreaking. For millennia, humanity has been obsessed with hiding information. From Julius Caesar encoding military orders using simple alphabetical shifts, to the impenetrable Enigma machines of World War II, the art of cryptography has literally altered the course of human history. Today, in the era of digital privacy, understanding how ciphers encrypt, obfuscate, and protect data is more critical than ever before. This suite of tools allows you to plunge headfirst into the mechanics of secure communication."}],["$","p",null,{"children":"Cryptography is ultimately a battle of applied mathematics. Our calculators give you hands-on experience with the logic gates and scrambling algorithms that modern security systems are built upon. You can analyze string entropy, decrypt archaic historical puzzles, or translate your modern texts into visually stunning runic ciphers. We have digitized everything from substitution algorithms to phonetic military alphabets, ensuring that whatever secret you are trying to encode or decode is processed with maximum accuracy."}],"$L3"]}]}]}]]}]]}]]}],"$L4"]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
 3:["$","p",null,{"children":"Crucially, every tool here provides a transparent \"How the Math Works\" breakdown, allowing you to peek behind the algorithmic curtain. We expose the exact cryptographic offsets, binary shifts, and character substitutions taking place in real-time. Whether you are an aspiring ethical hacker, a tabletop puzzle designer, or simply fascinated by the history of espionage, the Cipher Lab is equipped to handle your most complex encryption challenges."}]
-9:T52c,
-## The First Military Encryption
+9:T1bc2,
+## A General Who Didn't Trust His Couriers
 
-Julius Caesar didn't trust his messengers. When sending orders to his generals, he shifted every letter by 3.
-*   A -> D
-*   B -> E
-*   C -> F
-If the messenger was captured, the enemy would just see gibberish like "**VHGXFH DJDLQVW**".
+Roughly two thousand years ago, Julius Caesar had a problem familiar to every commander since: the orders he sent to his generals had to travel through hostile territory in the hands of a single messenger. If that courier was captured, the dispatch was captured too. Caesar's solution was elegant and, for its time, devastatingly effective. He shifted every letter of his message three places down the alphabet, turning readable Latin into apparent nonsense.
 
-### Why It's Weak
-Caesar Cipher is a "Monoalphabetic Substitution." That means 'E' always becomes 'H'.
-Because 'E' is the most common letter in English, a codebreaker can simply count the letter frequencies (Frequency Analysis) to crack the code in minutes.
+The Roman historian Suetonius, writing about a century later, described the method directly: where Caesar meant the letter A he wrote D, where he meant B he wrote E, and so on through the alphabet. A captured letter looked like gibberish. To anyone holding the secret, "shift everything back by three," it unlocked instantly. This is why the technique is now called the **Caesar cipher**, and it is one of the earliest documented uses of encryption in military history.
 
-### Steps to Crack It
-1.  Find the most common letter in the secret message.
-2.  Assume it is 'E'.
-3.  Shift it back to 'E' and see if the rest of the message makes sense.
+He didn't invent the idea of secret writing. The Spartans had used a device called the _scytale_ centuries earlier, wrapping a strip of parchment around a rod of fixed thickness so the letters only lined up correctly on a matching rod. But Caesar's shift is the first well-recorded field use of **letter substitution**, and its sheer simplicity is exactly why it still gets taught first.
+
+## How the Shift Works
+
+The cipher treats the alphabet as a loop rather than a line. Picture the 26 letters arranged in a circle. To encrypt, you rotate each letter forward by a fixed number of positions called the **shift** or the **key**. When you run off the end past Z, you simply wrap around to the beginning at A. That wrap-around is the whole trick, and it is why a shift of 25 is the same as shifting backward by one.
+
+A few properties fall straight out of this design:
+
+- The key is just a number from 1 to 25. A shift of 0 (or 26) leaves the text unchanged, so it is useless.
+- **Encrypting and decrypting are mirror images.** If you encoded with a forward shift of 3, you decode with a backward shift of 3. The tool above lets you enter a negative shift to run the wheel in reverse.
+- Spaces, digits, and punctuation are normally left untouched, which is convenient but also leaks the shape of the message, an early hint at why the cipher is weak.
+- The same plaintext letter always maps to the same ciphertext letter. Every E becomes the same coded letter, every time. Cryptographers call this a **monoalphabetic substitution**, and it is the cipher's fatal flaw.
+
+## A Worked Example: Encoding HELLO
+
+Let's encrypt the word HELLO with the classic shift of 3. Work one letter at a time, counting three steps forward in the alphabet and wrapping around past Z when needed.
+
+- H moves forward 3 to become K
+- E moves forward 3 to become H
+- L moves forward 3 to become O
+- L moves forward 3 to become O
+- O moves forward 3 to become R
+
+Read the results in order and HELLO becomes **KHOOR**.
+
+Now decode it. Take KHOOR and shift every letter three places _backward_:
+
+- K back 3 returns to H
+- H back 3 returns to E
+- O back 3 returns to L
+- O back 3 returns to L
+- R back 3 returns to O
+
+You are back to HELLO. Notice the wrap-around in action elsewhere: a Z shifted forward by 3 lands on C, because after Z you start counting again from A. The same logic in numbers is what programmers mean by "modulo 26", arithmetic that loops back to zero, but you never need a formula to do it by hand. Just walk the wheel.
+
+## Why It Falls Apart in Seconds
+
+The Caesar cipher offers almost no real security, and there are two independent ways to break it that both work in well under a minute.
+
+The first is **brute force**. There are only 25 meaningful keys. A codebreaker, or a computer, can simply try every shift from 1 to 25 and scan the 25 candidate decryptions for the one that reads as English. A modern processor runs through all 25 faster than you can blink. With so tiny a keyspace, secrecy of the _method_ buys you nothing once the method is known.
+
+The second, more elegant attack is **frequency analysis**, the technique that broke this whole family of ciphers historically. Because every E always becomes the same letter, the statistical fingerprint of the language survives encryption. In ordinary English, E is by far the most common letter, followed by T, A, and O. So a codebreaker can:
+
+- Count how often each letter appears in the ciphertext.
+- Assume the most frequent ciphertext letter stands for E.
+- Measure the gap between that letter and E to guess the shift.
+- Apply that shift to the whole message and confirm it reads sensibly.
+
+Ironically, the cipher held up for centuries less because it was strong than because most of Caesar's adversaries simply could not read at all. Against a literate, motivated codebreaker it never stood a chance.
+
+## ROT13: The Cipher's Comic Afterlife
+
+One specific Caesar shift earned a second life on the early internet: **ROT13**, a rotation of exactly 13 places. Thirteen is special because it is precisely half of 26, which makes ROT13 its own inverse. Encrypt a message with ROT13, run the result through ROT13 again, and you are back where you started. One function both scrambles and unscrambles.
+
+Nobody ever pretended ROT13 was secure. It was used on Usenet and early forums as a courtesy veil, hiding spoilers, punchlines, and answers to puzzles so that readers had to make a deliberate choice to reveal them. It is the digital equivalent of printing an answer upside down. The "encryption" is purely social: it stops your eye from reading something by accident, not a determined adversary from reading it on purpose.
+
+## Why a Broken Cipher Still Matters
+
+If the Caesar cipher is trivially breakable, why learn it at all? Because it is the cleanest possible doorway into how all encryption thinks. Strip away the math and every cipher shares the same skeleton this one exposes: a reversible transformation controlled by a secret **key**. Modern systems like AES use keys with astronomically many possibilities and transformations that destroy the statistical fingerprint frequency analysis relies on, but the underlying question, "how do I scramble a message so only a key-holder can restore it?", is exactly Caesar's question.
+
+It also teaches the single most important lesson in cryptography by negative example: **a small keyspace is no security at all**, and any scheme that preserves the structure of the original language hands an attacker the thread that unravels it. Generations of students have had their first "aha" moment counting letter frequencies to crack a shift cipher, and that intuition scales all the way up to why serious modern keys are hundreds of bits long.
+
+So treat the tool above as a learning instrument and a toy, not a vault. Use it to pass spoilers to a friend, to puzzle out the ROT13 jokes scattered across the web, to set classroom challenges, or simply to feel for yourself how a two-thousand-year-old idea quietly seeded the entire field of cryptography. Just never use it to protect anything you would actually mind a stranger reading.
+a:T157e,
+## Why "M as in Mancy" Never Works
+
+Pick up a bad phone line and try to read out a serial number. The voice on the other end writes down a "B," but you said "D." Or was it "P"? Or "T," or "V," or "C," or "E," or "G," or "Z"? That whole cluster of letters shares the same vowel sound and differs only in a tiny consonant burst that static, cheap speakers, and accents happily erase. This is not carelessness. The information that distinguishes those letters is genuinely fragile.
+
+The fix is a **spelling alphabet**: instead of the letter, you say a whole word that begins with it. "D" becomes "Delta," "B" becomes "Bravo." Even if half the word is lost, no other code word is close enough to be confused with it. That is the entire job of the **NATO phonetic alphabet** — more precisely the **ICAO Radiotelephony Spelling Alphabet** — and it is what the tool above produces: type any text, and each letter is mapped one-to-one to its agreed code word, ready to read aloud or play through the **Transmit** button using your browser's built-in speech voice.
+
+## The Full A to Z
+
+Here is the complete modern alphabet. The first sound of each word is the letter it stands for (this is called an _acrophonic_ design).
+
+- A — Alpha
+- B — Bravo
+- C — Charlie
+- D — Delta
+- E — Echo
+- F — Foxtrot
+- G — Golf
+- H — Hotel
+- I — India
+- J — Juliett
+- K — Kilo
+- L — Lima
+- M — Mike
+- N — November
+- O — Oscar
+- P — Papa
+- Q — Quebec
+- R — Romeo
+- S — Sierra
+- T — Tango
+- U — Uniform
+- V — Victor
+- W — Whiskey
+- X — X-ray
+- Y — Yankee
+- Z — Zulu
+
+Numbers get the same treatment, and they are deliberately distorted in radio use so they cannot be mistaken for each other or for words: **Zero, Wun, Too, Tree, Fower, Fife, Six, Seven, Ait, Niner**. "Niner" gets its extra syllable specifically so it is never confused with the German "nein," and "Tree" sidesteps the "th" sound that many non-native English speakers do not use.
+
+## A Worked Example
+
+Say you need to read out the confirmation code **BK7Q** to a call-center agent. Spoken normally, "B" and "Q" are both easy to lose. In NATO, you would say:
+
+> Bravo — Kilo — Seven — Quebec.
+
+There is no plausible way to mishear that. "Bravo" cannot collapse into "Delta," and "Quebec" shares nothing with any other code word. The agent writes B, K, 7, Q with full confidence. That is the practical magic: you trade four quick syllables of effort for the elimination of an entire class of errors.
+
+## Where It Came From
+
+Spelling alphabets are older than NATO. Early-1900s telephony and military signals used homegrown lists, and during World War II the Allies used the **Able–Baker** alphabet (Able, Baker, Charlie, Dog, Easy, Fox). It worked for English speakers but fell apart across the many nationalities flying after the war. So the **International Civil Aviation Organization (ICAO)** ran linguistic and acoustic testing through the early 1950s, screening candidate words for intelligibility across French, Spanish, English, and other speakers under noisy conditions. The result was adopted around **1956** and taken up by **NATO**, the **International Telecommunication Union**, and maritime authorities — which is why the same 26 words now sit at the center of global aviation.
+
+That testing left visible fingerprints. The official documents spell "Alpha" as **Alfa** and "Juliet" as **Juliett**, precisely so that French and Spanish speakers do not silence the "ph" or the final "t." Nothing here is arbitrary; every word survived a deliberate cull.
+
+## Where It Is Actually Used Today
+
+This is not aviation trivia. The same alphabet runs quietly through a surprising amount of daily life:
+
+- **Aviation and air traffic control**, where a misheard altitude or runway number is a genuine safety issue and "Cleared to runway Two Seven" must be unambiguous.
+- **Military and emergency services**, for call signs, grid references, and vehicle plates over radios that are far worse than any phone.
+- **Call centers and tech support**, for reading back booking references, case numbers, and serial numbers without the dreaded "was that an F or an S?" loop.
+- **Banking, logistics, and IT**, anywhere a human reads a code to another human — tracking numbers, license keys, and long identifiers.
+
+The unifying thread is the same one from the very first line of this article: whenever a single misheard character has a real cost, you spell it phonetically.
+
+## How to Actually Learn It
+
+You do not memorize 26 words by staring at a list. A few tactics work far better:
+
+- **Spell things you already see.** Read license plates, signs, and your own name in NATO while you walk around. Repetition on real input sticks.
+- **Group the easy anchors first.** Several words are near-universal already — Alpha, Bravo, Charlie, Delta, Echo, and Zulu — so lean on those and fill the gaps.
+- **Use the hard cases as hooks.** The unusual words (Foxtrot, Quebec, X-ray, Yankee, Zulu) are actually easier to remember _because_ they stand out.
+- **Say it out loud, not just in your head.** This alphabet exists to be heard, so practicing silently trains the wrong muscle. Type a word into the tool above and hit **Transmit** to compare your pronunciation against the spoken readout.
+
+Within a week of casual practice, spelling "Bravo–Kilo–Seven–Quebec" stops being a lookup and becomes reflex — and you will quietly become the most clearly understood person on every bad phone line you are ever on.
+b:T17e8,
+## The Freemasons' Secret Alphabet
+
+The Pigpen cipher is one of the most recognisable secret writing systems ever invented, and yet most people have seen it without knowing its name. If you have ever spotted a row of little boxes, corners, and dotted shapes scratched into an old gravestone or scrawled in the margin of a puzzle book, you have met it. Formally it is a **monoalphabetic substitution cipher**, which is a long way of saying it swaps each letter of the alphabet for a fixed symbol. What makes it special is that the symbols are not random squiggles. They are fragments of a grid, and once you understand the grid, you can read and write the whole alphabet from memory. The tool above takes whatever you type and draws it back to you in these geometric shapes.
+
+The cipher is most famously tied to the **Freemasons**, who used it in the 18th century to keep lodge records and correspondence private as documents passed between chapters. For this reason it is also called the **Freemason's cipher** or the **Rosicrucian cipher**. Some accounts trace its roots back further, to medieval monastic and even Knights Templar traditions of grid-based writing, though the clean version we use today is firmly a product of Masonic record-keeping. It was never meant to defeat a determined codebreaker. It was meant to stop a casual snoop, a curious servant, or an illiterate passer-by from reading something they had no business reading.
+
+## How the Grid and Dots Work
+
+The whole system rests on four templates that hold the 26 letters between them. Picture two tic-tac-toe grids and two large X shapes:
+
+- **Grid one (plain tic-tac-toe)** holds the letters A through I, one letter per compartment.
+- **Grid two (the same tic-tac-toe but with a dot in each compartment)** holds J through R.
+- **The first X shape** holds S, T, U, and V in its four triangular wedges.
+- **The second X shape, with a dot in each wedge,** holds W, X, Y, and Z.
+
+To encode a letter, you do not draw the whole grid. You draw only the **lines that surround that letter's compartment**. The letter E, sitting in the dead centre of the first tic-tac-toe grid, is boxed on all four sides, so its symbol is a complete square. The letter A, tucked in the top-left corner, only has lines on its right and bottom, so its symbol is an open corner shape that looks a little like an upside-down L. The dotted grids produce the exact same shapes as their plain counterparts, with one difference: you **add a single dot** inside. That dot is the entire trick for telling A from J, B from K, and so on. As the tool's own tip notes, the dot simply signals the second letter living in the same grid position.
+
+This is why the finished writing looks like an alien language. Every character is built from straight lines, right angles, and the occasional dot, with no curves anywhere.
+
+## A Worked Example: Encoding "HELLO"
+
+Walking through a single word makes the logic click. Take the message **HELLO** and find each letter in the first tic-tac-toe grid, reading left to right, top to bottom, as A, B, C / D, E, F / G, H, I.
+
+- **H** sits in the bottom-centre compartment. It has a line above it and a line on each side, but nothing below, so its symbol is a shape open at the bottom, like a squared-off letter U turned upside down.
+- **E** is the centre square, enclosed on all four sides, drawn as a complete box.
+- **L** lives in the dotted second grid. Counting J, K, L across the top row, L is the top-right compartment, so it is an open corner shape, and because it is in the dotted grid you place a dot inside it.
+- The second **L** is identical to the first, dot and all.
+- **O** is also in the dotted grid, sitting in the centre, so it is a full box with a dot in the middle.
+
+Read in order, HELLO becomes: an open-bottom shape, a plain box, two dotted corners, and a dotted box. Decoding simply reverses the process. You match each drawn shape back to its compartment, check for a dot, and read off the letter.
+
+## Why It Is Weak (and Why That Is Fine)
+
+Here is the honest truth about Pigpen: as **security**, it is almost worthless against anyone who tries. Because every E is always the same box and every T is always the same wedge, the cipher preserves all the statistical fingerprints of ordinary English. A codebreaker does not even need to know the grid. They can count which symbol appears most often, guess it is E, look for a common three-symbol word and guess "the," and unravel the rest by **frequency analysis** in minutes. It is exactly as fragile as the Caesar cipher, just wearing a more dramatic costume.
+
+There is a famous, slightly grisly footnote to its history. Legend holds that the pirate Olivier Levasseur, nicknamed "La Buse," flung a necklace bearing a Pigpen cryptogram into the crowd at his 1730 execution and cried out for someone to find his treasure. Treasure hunters have chased that supposed message ever since, which tells you everything about the cipher's romantic reputation and nothing about its strength.
+
+## Modern Uses: Puzzles, Geocaching, and Teaching
+
+Stripped of any real cryptographic duty, Pigpen has found a happy second life as a tool for fun and learning:
+
+- **Escape rooms and treasure hunts** lean on it constantly, because it looks impenetrable but can be solved by a team in minutes once they find the key.
+- **Geocaching** uses it to hide coordinates and clues in plain sight on logs and laminated cards.
+- **Classroom cryptography** loves it, because it introduces the core idea of substitution without any maths, and children memorise the grid almost instantly.
+- **Puzzle books and tattoo design** use it for its purely visual appeal, since the angular symbols simply look striking.
+
+You can even bend the rules to make it your own. Because the cipher is just a mapping from letters to compartments, you and a friend can **scramble which letter goes in which slot**, creating a private key that the standard grid cannot crack. It will never be truly secure, but for passing notes, building a puzzle, or teaching someone their first real cipher, the Freemasons' old grid is hard to beat.
+c:T1922,
+## The Original Digital Code
+
+Long before binary reduced language to ones and zeros, Samuel Morse and Alfred Vail reduced it to two sounds: a short pulse and a long one. In the 1830s and 1840s they built a system that could fling a message across a continent in the time it took to tap a brass key. Before the telegraph, news travelled at the speed of a galloping horse or a sailing ship; a message from New York to Washington took days. After it, the same message took minutes. The tool above turns your typed text into these same pulses, showing the dots and dashes on screen and playing them aloud so you can hear the rhythm that once carried the world's news.
+
+### Who Built It and Why
+
+Samuel Morse was a portrait painter, not an engineer. The story goes that while he was away working, his wife fell ill and died before a letter could reach him. That loss reportedly fuelled his obsession with instant communication. Working with the mechanically gifted Alfred Vail and physicist Joseph Henry, Morse developed both the electric telegraph and the code that made it useful. The first official long-distance message, sent in 1844 from Washington to Baltimore, read "What hath God wrought." Within a few decades, telegraph wires laced across continents and under oceans, and Morse code became the closest thing the nineteenth century had to the internet.
+
+## How the Code Actually Works
+
+Morse code is built from just two signals, traditionally called the dit (a short pulse) and the dah (a long pulse). Every letter, number, and punctuation mark is a unique combination of these two. The genius is not the symbols themselves but the timing, which follows strict ratios so that operators can keep messages readable even through bursts of static.
+
+The timing is measured in units, where one unit is the length of a single dit:
+
+- A dit is one unit long.
+- A dah is three units long.
+- The gap between dits and dahs inside one letter is one unit.
+- The gap between two complete letters is three units.
+- The gap between two words is seven units.
+
+Get these proportions right and the message has a recognisable cadence; get them wrong and even a perfect sequence of pulses turns to mush. This is why a skilled operator's "fist" — their personal rhythm on the key — was once as identifiable as handwriting.
+
+### Why E Is Short and Q Is Long
+
+Morse and Vail did something clever that modern computer scientists would recognise instantly. They studied how often each letter appears in English and assigned the shortest codes to the most common letters. This is the same principle behind file compression: give frequent symbols short codes and rare symbols long ones, and the whole message gets faster to send.
+
+- E, the single most common letter in English, is just one dit.
+- T, the next most common, is a single dah.
+- A is dit-dah and N is dah-dit.
+- I is two dits and M is two dahs.
+- Q, which is rare, gets a long dah-dah-dit-dah.
+
+Vail reportedly estimated letter frequencies by counting the type pieces in a printer's tray, since printers stocked far more E's than Q's. That is why tapping out a sentence in Morse feels uneven: the common letters fly by while the rare ones drag.
+
+## SOS and Why It Endures
+
+The most famous sequence in Morse is the distress call SOS: dit dit dit, dah dah dah, dit dit dit. Contrary to popular belief, it does not stand for "Save Our Souls" or "Save Our Ship." Those are backronyms invented later. SOS was chosen in the early 1900s purely because its pattern is unmistakable and easy to loop. Sent as one unbroken string of three short, three long, three short, it produces a rhythm that no random burst of interference is likely to imitate, and a struggling operator can repeat it endlessly without losing their place.
+
+### A Worked Example
+
+Try spelling SOS yourself. S is three dits and O is three dahs, so the full call reads: dit dit dit, dah dah dah, dit dit dit. On the screen above it appears as three dots, three dashes, three dots. Notice the even spacing inside each letter and the slightly longer pause between letters. That visible, audible regularity is exactly what made it the international maritime distress signal for most of the twentieth century.
+
+## Where Morse Still Lives Today
+
+Morse code was officially retired as the maritime distress standard in 1999, replaced by satellite-based systems. But it is far from dead, and in several fields it remains genuinely useful.
+
+- Aviation: pilots still confirm they are tuned to the correct navigation beacon by listening for its three-letter Morse identifier, which the beacon transmits automatically.
+- Amateur (ham) radio: Morse, known to operators as CW for "continuous wave," punches through weak signals and noise that would swallow a voice transmission, letting low-power stations reach across the planet.
+- Accessibility: because Morse needs only one input — a single switch, a puff of breath, even a blink — it gives people with severe motor disabilities a way to type and speak through assistive devices.
+- Emergencies: a flashlight, a mirror, or a tapped pipe can carry Morse when every other system fails.
+
+That last point is not theoretical. During the Vietnam War, captured naval officer Jeremiah Denton blinked the word "torture" in Morse during a forced propaganda interview, smuggling the truth past his captors on live film.
+
+## Learning It Yourself
+
+The fastest way to learn Morse is to learn it by sound, not by sight. Memorising a chart of dots and dashes teaches your eyes; what you actually want is for your ears to hear a rhythm and think of the letter automatically. Most modern learners use the Koch method, which starts you at full speed with just two characters and adds a new one only once you have mastered the last. Pair that with the Farnsworth approach, which keeps each character at full speed but stretches the gaps between them, and your brain learns the true rhythm of each letter from the very first day.
+
+> Start with E and T, then A, N, I and M. These six cover a surprising share of everyday English and build the muscle memory for everything that follows.
+
+Use the broadcast button above to hear real characters at a steady pace. Type a short word, close your eyes, and try to follow the pulses before you peek at the screen. Practising for a few focused minutes a day beats a single long session, because Morse is a reflex, and reflexes are built through repetition, not cramming.
+d:T1b15,
+## Why a Hacker Would Rage at Your Password
+
+Every password is a locked door, and entropy is the number of keys on the keyring an attacker has to try before one fits. The Password Anger Scale takes that number and turns it into something you can feel: the blood pressure of a simulated hacker who just realized your login will outlast their patience, their hardware, and possibly their lifetime.
+
+Here is the honest truth the meter is built on. No password is unbreakable. Given infinite time and infinite electricity, every password falls. The entire game of password security is not building a wall that cannot be climbed, it is building one so tall that climbing it would take longer than the age of the universe. When the tool shows the hacker turning red, that is what it is really measuring: the gap between a few seconds and a few trillion years.
+
+## How Attackers Actually Crack Passwords
+
+Real attackers almost never start by guessing one character at a time. That is the slow, last-resort method. They start with the cheap wins, and only escalate when those fail.
+
+- **Dictionary attacks** run through lists of known words, names, and the most common passwords first. The string "123456" is the single most-used password on Earth, and any serious attacker tries the top ten thousand leaked passwords before doing any real work. If you are on that list, you are gone in a fraction of a second.
+- **Brute force** tries every possible combination in sequence. A modern graphics-card rig can test billions of guesses per second against a stolen password file. This is where length becomes your weapon, because each extra character multiplies the work.
+- **Credential stuffing** does not crack anything at all. Attackers take username and password pairs leaked from one breached website and replay them against your bank, your email, and your shopping accounts, betting that you reused the same password. They usually win that bet.
+
+That last one is why reusing passwords is so dangerous. The strongest password in the world is worthless the moment you use it on a site that gets breached and stores it carelessly.
+
+## Why Length Beats Complexity
+
+For decades, websites told you to add a capital letter, a number, and a symbol. That advice is mostly theater. A short, "complex" password like an eight-character scramble of symbols feels secure but lives in a small search space that fast hardware chews through quickly. Worse, humans satisfy those rules in predictable ways, capitalizing the first letter, putting the number and symbol at the end, swapping the letter "o" for a zero. Attackers know every one of these tricks and bake them into their guessing tools.
+
+Length is different because it attacks the math itself. Every character you add does not merely add to the difficulty, it multiplies it by the entire size of the character set. That compounding is something no amount of clever symbol-swapping can match. Twelve simple lowercase characters genuinely outlast eight characters of punctuation-laden chaos, and they are far easier to type.
+
+## A Worked Example: How Crack Time Scales
+
+Imagine an attacker who can test one trillion guesses every second, which is realistic for a well-funded rig attacking a leaked file. Now watch what happens as we add characters to a random lowercase password drawn from twenty-six possible letters.
+
+- **Six characters** give about 309 million combinations. At a trillion guesses per second, that falls in well under a thousandth of a second. Instant.
+- **Eight characters** give about 209 billion combinations. Still cracked in a fraction of a second.
+- **Ten characters** push past 141 trillion combinations, which buys you roughly two minutes. Annoying, but not safe.
+- **Twelve characters** reach about 95 quadrillion combinations, stretching the search to over a day.
+- **Sixteen characters** explode to about 43 sextillion combinations, which at the same blistering speed would take well over a thousand years.
+
+Notice the shape of this. The jump from ten to sixteen characters is not a little better, it is the difference between minutes and millennia. Every single character you add bends the curve harder in your favor, which is exactly why the anger meter climbs so steeply with length.
+
+## The Passphrase Trick
+
+So how do you get sixteen-plus characters you can actually remember? You stop thinking in characters and start thinking in words. String together four random, unrelated words and you get something like a phrase about a correct horse, a battery, and a staple. It is long, it is easy to picture, and the search space is enormous because the attacker must now guess from the dictionary of tens of thousands of words, raised to the power of four word slots.
+
+The genius here is that tricking a human is easy but tricking the math is hard. A tortured single word with a number jammed on the end is hard for you to remember and easy for software to guess. Four plain words are the reverse. The only rule that matters is that the words must be truly random. A famous movie quote or song lyric is itself a single entry in the attacker's dictionary and offers almost no protection.
+
+## Let a Password Manager Do the Work
+
+Here is the secret the security industry rarely says plainly: you are not supposed to remember most of your passwords. A password manager such as Bitwarden or 1Password generates a unique twenty-character string of random garbage for every single account, stores it encrypted, and types it for you. No human could ever guess it, and because every account gets its own, a breach at one site cannot cascade into the rest of your life.
+
+> You only have to personally remember one password: the master password to the vault. Make that one a four-word passphrase, turn on two-factor authentication, and you have outsourced the hard part to math.
+
+### How the Math Works
+
+The number this tool calls entropy is measured in bits, and it answers one question: how many times would you have to double the difficulty to cover every possible password? You find the total number of possible combinations by taking the size of the character set and raising it to the power of the password length. A lowercase-only password uses a set of twenty-six, adding uppercase makes it fifty-two, and adding digits and symbols pushes it toward ninety-five.
+
+So a password's combination count is the charset size multiplied by itself once for every character in the password. Entropy in bits is then the base-two logarithm of that combination count, which is simply the number of doublings needed to reach it. Each extra bit of entropy doubles the attacker's workload. This is why length wins: adding one character multiplies the combinations by the whole character set, adding a large chunk of entropy at once, while swapping a letter for a symbol barely nudges the number. Feed your own password into the meter above and watch the bits, and the hacker's anger, climb.
+e:T1664,
+## The Tree Alphabet of Early Medieval Ireland
+
+Ogham (pronounced roughly "OH-am") is the oldest written form of the Irish language. It is not a code invented for fun, but a genuine ancient script: a system of straight notches and strokes scored across or beside a single guiding line. This tool takes the modern letters you type and maps them onto that line so you can see your name or message rendered the way a stonemason would have cut it more than fifteen hundred years ago.
+
+Most surviving Ogham was carved into the squared edge of an upright stone, called an arris. The natural corner of the stone _became_ the central line of the writing, and the strokes branched off it like twigs from a branch. That physical fact shaped everything about how the script looks and reads.
+
+## How the Script Is Built
+
+Ogham uses a small, elegant logic. Every letter is defined by two things: which side of the central line its strokes sit on, and how many strokes there are (one through five). The letters are organised into four groups, each called an _aicme_ (plural _aicmí_), an Irish word meaning "family" or "class."
+
+- **First aicme** strokes sit to one side of the line: B, L, F (V), S, N.
+- **Second aicme** strokes sit to the other side: H, D, T, C, Q.
+- **Third aicme** strokes cross the line diagonally: M, G, Ng, Z (or St), R.
+- **Vowels** are short notches cut straight through or across the line: A, O, U, E, I.
+
+So a single stroke on the first side is B, two strokes is L, three is F, and so on. Counting strokes and noting their angle is genuinely all you need to decode an inscription. Because the system is so regular, it was easy to cut with a chisel and easy to read by running a finger along a weathered edge.
+
+On a standing stone the text is read **from the bottom upward**, climbing one edge and, on longer inscriptions, continuing across the top and down the other side. Our tool lays the same strokes out horizontally so they fit a screen comfortably, but the relationship between strokes and line is identical. Rotate the output ninety degrees and you have the monumental orientation.
+
+## Why It Is Called the Tree Alphabet
+
+Each Ogham letter carries a traditional name, and in the medieval Irish scholarly tradition many of these names are those of trees and shrubs. The first letter, B, is **Beith**, the birch. C is **Coll**, the hazel. D is **Dair**, the oak, the same root that gives us the word "druid." This is why Ogham is so often called the "tree alphabet" or "alphabet of the trees."
+
+A note of honest caution: scholars debate how original the tree associations really are. The letter names appear most fully in later manuscripts such as the _Auraicept na nÉces_ (the "Scholars' Primer") and the _Book of Ballymote_, written centuries after the stones were carved. Not every name is a tree, and some links look like later poetic systematising rather than the script's founding idea. The tree imagery is real and ancient, but treat it as a rich tradition layered onto the alphabet rather than proven fact about its inventors.
+
+## Where the Stones Still Stand
+
+Roughly four hundred Ogham stones survive, and the great majority are in Ireland, with a concentration in the southwest, especially counties Kerry, Cork, and Waterford. More are found in Wales, on the Isle of Man, and in parts of Scotland, where the script travelled with Irish-speaking settlers. The Welsh stones are especially valuable because many are bilingual, pairing Ogham Irish with Latin in the Roman alphabet, which is partly how the sound values were confirmed.
+
+The carved inscriptions themselves are short and formulaic. Most are memorials or boundary markers giving a personal name in the possessive, often in the form "of X, son of Y." They are, in effect, ancient name tags in stone. You can still see them in situ in fields and churchyards, and important collections are held at sites such as University College Cork and the museum at Ardmore.
+
+The stones are usually dated to roughly the fourth to sixth centuries AD. Ogham was almost certainly used earlier on wood and other perishable materials that have not survived, so the stones mark the durable tail end of a longer tradition rather than its beginning.
+
+## A Worked Example
+
+Say you want to write the name **CORA**. Work letter by letter, remembering the family and stroke count:
+
+- **C** belongs to the second aicme: four strokes on that side of the line.
+- **O** is a vowel: two notches across the line.
+- **R** belongs to the third aicme: five strokes crossing the line diagonally.
+- **A** is a vowel: one notch across the line.
+
+Place those four marks in order along the central line and you have CORA in Ogham. On a stone you would read it climbing upward; on screen the tool shows the same sequence left to right. Type it into the box above and compare your hand-worked version against the rendered strokes.
+
+## Modern Uses
+
+Ogham never fully disappeared from Irish cultural memory, and today it enjoys a genuine revival.
+
+- **Jewelry and gifts**: rings, pendants, and standing-stone replicas engraved with a name or a single meaningful word.
+- **Tattoos**: a popular choice for people with Irish heritage who want script that is both personal and visually unusual.
+- **Neopaganism and Druidry**: modern Druid revival movements use the tree-letter associations for meditation, divination, and ritual, an interpretive practice rather than a historical reconstruction.
+- **Learning and heritage**: a friendly doorway into the history of the Irish language and early medieval Ireland.
+
+> Ogham was practical writing, mostly names and memorials cut into stone. That plainness is exactly its charm: a real ancient script you can still read, stroke by stroke, today.
+f:T1d88,
+## Hiding in Plain Sight
+
+There are two ways to keep a secret. The first is to scramble it so that anyone who intercepts it sees gibberish; that is cryptography. The second is far older and sneakier: hide the fact that a secret exists at all. That is steganography, from the Greek _steganos_ (covered) and _graphein_ (writing). An encrypted file screams "I am hiding something." A photo of a cat does not. But that cat photo could carry a thousand words of hidden text tucked into its pixels, and nobody scrolling past would ever look twice.
+
+The distinction matters more than it sounds. Encryption protects the _content_ of a message. Steganography protects its _existence_. In a country where sending encrypted email gets you arrested, a scrambled file is a liability — it marks you as a person with something to hide. A holiday snapshot does not. The strongest setups use both at once: encrypt the message first so it is unreadable, then hide the encrypted blob inside an image so nobody knows to try.
+
+> Cryptography makes a message unreadable. Steganography makes it invisible. They are not rivals — they are layers.
+
+## A Very Old Trick
+
+Hiding messages is not a digital invention. The historian Herodotus records two cases from ancient Greece. In one, a man named Histiaeus shaved the head of a trusted slave, tattooed a message onto the scalp, waited for the hair to grow back, and sent him off — the recipient simply shaved the messenger again to read it. In another, a warning about a coming Persian invasion was scratched into the wood of a writing tablet, which was then covered over with a fresh layer of wax so it looked blank and unused.
+
+The toolkit grew over the centuries:
+
+- **Invisible ink** made from lemon juice, milk, or urine, which stays clear until gently heated and then darkens into legible writing.
+- **The microdot**, perfected by German intelligence in the World Wars: an entire page of text photographed and shrunk down to the size of a printed period, then glued over a real full stop in an ordinary letter.
+- **Null ciphers**, where the real message hides in the first letter of each word or each line, while the visible text reads as a dull, innocent note.
+
+Every one of these does the same job as a modern image stego tool. Only the hiding place has changed — from scalp to wax to a single dot of ink, and now to the color values of a digital picture.
+
+## How Digital Image Steganography Works
+
+A digital image is just a long grid of numbers. Each pixel is built from three color channels — red, green, and blue — and each channel is a value from 0 to 255 describing how bright that color is. A value of 255 for red is full, vivid red; 254 is very, very slightly less red. Your eye cannot tell those two apart. No human can.
+
+That tiny gap is the whole secret. The number 254 in binary is 11111110, and 255 is 11111111. The only thing that changed is the rightmost digit — the **least significant bit**, or LSB. It is "least significant" because flipping it nudges the color value by exactly one out of 256, a change so small it is invisible. So we can overwrite that last bit with our own data and the picture still looks identical.
+
+This is what the Steganography Brush is doing under its "Entropy Masking" label: it is riding the noise floor of the image, the natural random variation between pixels, and tucking a signal into the part of each color value too subtle for the eye to register. The decoder — the "Quantum Brush" — does the reverse, reading back those least significant bits and reassembling them into the original message.
+
+## A Worked Example, One Letter at a Time
+
+Say we want to hide the capital letter **A**. In the standard text encoding used by computers, A is the number 65, which in binary is eight bits: 0 1 0 0 0 0 0 1. We need eight pixels' worth of least-significant-bit space, so we will borrow eight color channels.
+
+Take the first pixel. Suppose its red channel holds the value 200. In binary that ends in a 0. The first bit of our letter A is also 0, so we leave red at 200 — nothing to do. The next bit of A is 1. Suppose the green channel holds 119, which ends in a 1 already, so again no change. Now the third bit of A is 0, but suppose the blue channel holds 175, which is odd and ends in 1. We must make it end in 0, so we shift it from 175 to 174 — a single step darker in blue, utterly invisible.
+
+We march on through the next pixels, bit by bit, nudging each color value to an even number for a 0 and an odd number for a 1, until all eight bits of A are stored. Across the whole letter we changed maybe three or four channels by a single unit each. The image is, to any eye and most screens, unchanged. To read A back, the decoder simply looks at whether each channel is even or odd, writes down 0 or 1 accordingly, and reads off 0 1 0 0 0 0 0 1 — the number 65 — the letter A.
 
 ## How the Math Works
 
-The cipher fundamentally relies on a basic modular arithmetic operation over the alphabet. 
-We assign a numerical, 0-indexed value to each letter ($A=0$, $B=1$, ... $Z=25$). To encrypt the message, we take the original letter's index ($x$), add your requested shift key ($K$), and apply modulo 26 to cleanly handle the wrap-around back to 'A'.
+The capacity of this method is easy to reason about. Each pixel gives you three channels — red, green, and blue — and the basic technique hides one bit per channel. So each pixel stores three bits of secret data. A modest photo of one thousand pixels wide by one thousand tall holds one million pixels, which at three bits each comes to three million bits. Divide by eight bits per character and you get roughly 375,000 characters of hidden text — comfortably an entire short novel — inside a single ordinary-looking image.
 
-$$ E(x) = (x + K) \pmod{26} $$
+The cost to image quality is tiny because the largest change to any channel is exactly one unit out of 256, which is under one half of one percent. That is far below the threshold where human vision can detect a difference, which is why the carrier picture looks pristine.
 
-It's essentially an ancient ring buffer data structure. Despite its mathematical simplicity today, in an era where most enemy forces were entirely illiterate, a basic $+3$ shift was impenetrable military-grade security.
-a:T5c5,
-## Alpha, Bravo, Charlie
+## Real Uses, Real Limits
 
-Have you ever tried to say "M as in Mancy" over a bad phone line?
-The **NATO Phonetic Alphabet** (technically the ICAO Radiotelephony Alphabet) solves this. It assigns a code word to every letter acrophonically (the first letter of the word is the letter itself).
+People reach for steganography for honest reasons: photographers and studios embed invisible watermarks to prove ownership, journalists and activists move information past censors who block obvious encryption, and privacy-minded users hide a file inside a vacation photo so its very existence is deniable. The same trick has darker uses — intelligence agencies have long suspected hidden channels in ordinary web images, and malware has been caught smuggling stolen data out of networks tucked inside innocent-looking pictures.
 
-### The "Fatal" Error
-In aviation, hearing "B" instead of "D" can be the difference between descending to 4,000 feet or 2,000 feet—which might put you inside a mountain.
-The words were scientifically chosen to sound distinct in almost any accent or static condition.
-*   **Tree** vs **Three**: Pronounced "Tree" in radio-speak to serve non-native English speakers.
-*   **Fower** vs **Four**: Emphasized to be distinct from "For".
+But honesty about the limits matters, and this is the crucial point: hiding is **not the same as securing**. Least-significant-bit steganography is "security through obscurity." It works only as long as nobody suspects the image. The moment an analyst runs statistical tests — checking whether the least significant bits are too random, too patterned, or too evenly balanced compared with an untouched photo — the hidden payload often gives itself away. The field that hunts for these traces is called steganalysis, and it is very good at its job.
 
-### Beyond Pilots
-Police, Military, Customer Support, and IT professionals use this daily. Memorizing it is an absolute superpower for clarity.
+There are practical fragilities too:
 
-## How the Math Works
+- **Re-saving as a JPEG destroys the message.** JPEG compression rounds off exactly the fine detail the LSB method relies on, so a single re-compression usually wipes the hidden bits clean.
+- **Resizing, cropping, or applying any filter** scrambles the pixel values and corrupts the payload.
+- **Screenshots and social-media uploads** almost always re-encode the image, erasing the secret in transit.
 
-Unlike complex cryptographic formulas, this tool relies on a highly optimized, 1-to-1 dictionary mapping script. 
+So treat a stego image as a fragile, deniable envelope, not a vault. If the contents truly must stay private, encrypt the message first and then hide it. That way, even an analyst who detects that something is buried in the pixels still finds nothing but noise — and the secret stays a secret.
+10:T1683,
+## A Playwright's War on Silent Letters
 
-Whenever you type a character, a listener function intercepts the keystroke, normalizes it to uppercase to prevent case-matching errors, and queries our phonetic dictionary array (e.g., mapping *"A"* to the string value *"Alpha"*). The resulting string arrays are visually rendered to your screen, and when you utilize the broadcast tool, that text data is passed into the browser's native *SpeechSynthesis* Web Speech API to synthetically broadcast the radio readout.
-4:["$","div",null,{"className":"container py-16 px-4 md:px-6 relative z-10 w-full","style":{"isolation":"isolate"},"children":["$","$L8",null,{"calculators":[{"id":"caesar-cipher","title":"Caesar Cipher","description":"Encrypt messages with the ancient Roman shift cipher.","category":"cipherlab","slug":"caesar-cipher","icon":"🏛️","origin":"Named after Julius Caesar, who used it to protect military secrets. It's one of the earliest and simplest forms of encryption, involving a simple 'shift' of the alphabet.","howTo":"Enter your message and select a shift value (the 'key'). Your text will instantly transform into a scrambled code that only someone with the key can decipher.","tips":["A shift of 3 was Caesar's personal favorite.","Try shifting by 13 (ROT13) for a classic internet-era cipher.","Use negative shifts to go backwards!"],"tags":["Cryptography","History"],"content":"$9","faq":[{"question":"Did Brutus crack it?","answer":"No. The Romans were surprisingly bad at cryptanalysis. The cipher remained highly secure for centuries simply because most enemies couldn't read the alphabet in the first place."},{"question":"What is ROT13?","answer":"ROT13 is a Caesar cipher locked to a shift of 13. Since the alphabet has 26 letters, applying ROT13 twice returns the original text. It became the early internet's favorite 'Spoiler Alert' masking tool."},{"question":"Is this secure today?","answer":"Absolutely not. A modern computer processor can brute-force all 25 possible alphabetical shifts in a literal nanosecond."},{"question":"Why does ROT13 use the number 13 specifically?","answer":"Because the English alphabet has 26 letters, shifting by 13 is perfectly symmetrical. If you apply ROT13 twice, it acts as its own reverse translation key, effortlessly returning you to the original text."},{"question":"Did Caesar invent encryption?","answer":"He didn't invent encryption as a concept (the Spartans famously used the 'Scytale' cipher hundreds of years prior), but his cipher is the first highly documented military field use of character substitution."}],"relatedCalculators":["pigpen-cipher","enigma-machine","password-anger"]},{"id":"nato-phonetic","title":"NATO Phonetic Alphabet","description":"Convert text to Alpha, Bravo, Charlie used by pilots.","category":"cipherlab","slug":"nato-phonetic","icon":"✈️","origin":"Developed in the 1950s by NATO and ICAO to ensure clear communication over crackly radio lines. Each word was carefully chosen to be unmistakable in any accent.","howTo":"Type any word or phrase to see its phonetic equivalent. Hit the 'Transmit' button to hear it spoken with pilot-grade clarity.","tips":["Great for spelling your name over the phone.","Notice how '9' is pronounced 'Niner' to avoid confusion with the German 'Nein'.","Used by everyone from astronauts to emergency services."],"tags":["Communication","Language"],"content":"$a","faq":[{"question":"Why 'Roger'?","answer":"In the old phonetic alphabet (pre-1956), 'R' was 'Roger'. It stood for 'Received'. Even though 'R' is now 'Romeo', 'Roger' stuck as the universal 'I understand'."},{"question":"What is 'Wilco'?","answer":"Short for 'Will Comply'. 'Roger' means I heard you; 'Wilco' means I will do what you commanded. You never say 'Roger Wilco' because it's completely redundant radio chatter."},{"question":"Is there a spelling for numbers?","answer":"Yes, and they are pronounced heavily! Zero, Wun, Too, Tree, Fower, Fife, Six, Seven, Ait, Niner."},{"question":"Why does 'Alpha' look like 'Alfa' in the official manual?","answer":"NATO intentionally spells it 'Alfa' and 'Juliett' in their official documents so native French and Spanish speakers don't accidentally mispronounce them based on their own complex language rules."},{"question":"Is the NATO alphabet used everywhere globally?","answer":"Yes! It's the absolute standard for the International Civil Aviation Organization (ICAO), meaning a pilot from Japan and an air-traffic controller in Germany will both use the exact same phonetic words to land a plane safely."}],"relatedCalculators":["morse-code","shavian-translator","binary-translator"]},{"id":"pigpen-cipher","title":"Pigpen Cipher","description":"Visual geometric cipher used by Freemasons.","category":"cipherlab","slug":"pigpen-cipher","icon":"🐷","origin":"A geometric substitution cipher that swaps letters for fragments of a grid. Historically used by the Freemasons in the 18th century to keep their records private.","howTo":"Type your message to see it drawn in geometric symbols. Each shape represents a specific letter's position in a tic-tac-toe or X-grid.","tips":["The dots indicate the second letter in the same grid segment.","Classic for 'treasure hunt' notes.","Looks like an alien language to the untrained eye!"],"tags":["Cryptography","History"],"content":"\n## The Freemason's Cipher\n\nIn the 18th Century, the Freemasons needed a way to keep their records passing between lodges secret. They created the **Pigpen Cipher** (or Rosicrucian Cipher).\n\n### How It Works\nIt replaces letters with symbols based on their position in a grid.\n*   **Grid 1 (Tic-Tac-Toe)**: Holds A-I.\n*   **Grid 2 (Dotted Tic-Tac-Toe)**: Holds J-R.\n*   **X-Shape 1**: Holds S-V.\n*   **X-Shape 2 (Dotted)**: Holds W-Z.\n\nIt gets its name because the grids look like \"pens\" for pigs.\n\n### Why It's Fun\nIt is surprisingly easy to memorize. Once you know the grid shape, you can read and write it as fluently as English. It remains the gold standard for Escape Rooms and scavenger hunts.\n","faq":[{"question":"Is it secure?","answer":"No. Like Caesar Cipher, it is a simple substitution. The symbols change, but the patterns (double letters, common words) remain."},{"question":"Did pirates use it?","answer":"Legend says the pirate Olivier Levasseur ('La Buse') threw a necklace with a Pigpen cryptogram into the crowd at his execution, shouting 'Find my treasure, he who receives it!'"},{"question":"Can I customize it?","answer":"Yes! You can scramble the order of letters in the grid to create your own key that only your friends know."}],"relatedCalculators":["caesar-cipher","steganography-brush","treasure-map"]},{"id":"morse-code","title":"Morse Code Broadcast","description":"Translate text to audible Morse Code dits and dahs.","category":"cipherlab","slug":"morse-code","icon":"📡","origin":"Invented by Samuel Morse and Alfred Vail in the 1830s. It revolutionized long-distance communication by sending electrical pulses through telegraph wires.","howTo":"Type your message to see the dots (dits) and dashes (dahs). Use the broadcast button to hear the rhythmic pulses of the 19th-century internet.","tips":["SOS is three dots, three dashes, three dots (... --- ...).","Short pulses are dits, long ones are dahs.","Experienced operators can 'read' Morse by sound faster than most people type."],"tags":["Communication","History"],"content":"\n## The Original Digital Code\n\nLong before binary (0s and 1s), there was Morse (Dits and Dahs).\nSamuel Morse revolutionized the world by proving you could send information instantly over a single wire.\n\n### The Rhythm of Language\nMorse isn't random. The code lengths are based on letter frequency in English (circa 1830).\n*   **E**: The most common letter. It is just one dot (.).\n*   **T**: The second most common. It is one dash (-).\n*   **Q**: Rare. It is (--.-).\nThis compression made messages faster to send—a concept we still use in ZIP files today!\n\n### The \"SOS\" Myth\nSOS (... --- ...) doesn't stand for \"Save Our Souls\" or \"Save Our Ship.\"\nIt was chosen because the pattern is unmistakable and easy to loop. It is a distinctive rhythm that cuts through static.\n","faq":[{"question":"Do people still use it?","answer":"It was officially retired for maritime distress in 1999 (replaced by GMDSS satellites), but Amateur Radio (Ham) operators still love it."},{"question":"Can I blink it?","answer":"Yes! Torture victims (like Jeremiah Denton) famously used eye-blink Morse to send messages in propaganda videos."},{"question":"How fast can you go?","answer":"World records exceed 75 words per minute, which is faster than most people type on a smartphone."}],"relatedCalculators":["nato-phonetic","binary-translator","shavian-translator"]},{"id":"password-anger","title":"Password Anger Scale","description":"How angry would a hacker get trying to crack your password?","category":"cipherlab","slug":"password-anger","icon":"😡","origin":"In the world of cybersecurity, time is money. This scale estimates the computational effort (and frustration) required to brute-force your digital fortress.","howTo":"Enter a password to see the 'Anger Meter'. The longer and more complex your password, the higher the blood pressure of our simulated hacker.","tips":["Length trumps complexity—12 simple characters are often better than 8 complex ones.","Avoid '123456' or 'Password' unless you want a very happy hacker.","Use a unique password for every site."],"tags":["Security","Tech"],"content":"\n## Entropy vs. Aggression\n\nThis calculator visualizes **Entropy** (mathematical randomness) as \"Hacker Anger.\"\nThe goal of a password isn't to be \"unbreakable\"—nothing is unbreakable given infinite time.\nThe goal is to make the time required to break it longer than the age of the universe.\n\n### Brute Force Physics\nA modern GPU rig can test billions of passwords per second.\n*   **\"p@ssword\"** (8 chars): Cracked in < 1 second.\n*   **\"CorrectHorseBatteryStaple\"**: (4 random words): Cracked in Trillions of years.\n\n### The XKCD Method\nTricking humans is easy; tricking math is hard. Using 4 random words is easier to remember than \"Tr0ub4dor&3\" and technically much stronger because the search space (dictionary words) is massive compared to short strings.\n","faq":[{"question":"Is my password sent to your server?","answer":"NO. The calculation happens entirely in your browser using JavaScript. We never see, store, or transmit what you type."},{"question":"Why not just use a password manager?","answer":"You should! bitwarden or 1Password generate 20-character random garbage that no human could guess. Use a strong Master Password (the 4-word trick!) for the vault."},{"question":"Does '123456' really matter?","answer":"Yes. It is the #1 password globally. Hackers try a 'Top 10,000' list before they even start brute-forcing. If you are on that list, you are gone in 0.001 seconds."}],"relatedCalculators":["steganography-brush","conspiracy-theory","binary-translator"]},{"id":"ogham-translator","title":"Ogham Translator","description":"Convert text to Ancient Irish tree alphabet.","category":"cipherlab","slug":"ogham-translator","icon":"🗿","origin":"Known as the 'alphabet of the trees,' Ogham was used in Early Medieval Ireland. It consists of notches carved along a vertical line, often on stone monuments.","howTo":"Type modern text and see it converted into ancient Irish runic notches. The strokes are read from bottom to top on stones or left to right on paper.","tips":["Each letter is named after a tree (e.g., 'Beith' for Birch).","Ancient Ogham inscriptions are still visible across Ireland today.","Perfect for creating mystical-looking designs."],"tags":["History","Language"],"content":"\n## The Alphabet of Trees\n\nOgham (pronounced 'Oh-am') is the transformation of the Latin alphabet into a series of notches and strokes designed to be carved into wood or stone edges.\n\n### A Vertical Code\nUnlike modern script which flows left-to-right, Ogham is traditionally read **Bottom-to-Top** up the edge of a standing stone.\n*   **Right Side Strokes**: B, L, F, S, N\n*   **Left Side Strokes**: H, D, T, C, Q\n*   **Across Strokes**: M, G, Ng, Z, R\n*   **Notches**: Vowels (A, O, U, E, I)\n\n### Druidic Origins?\nWhile often associated with Druids, the surviving stones date from the 4th-6th century AD. However, it was likely used on wood for centuries prior. The \"Tree Alphabet\" theory suggests each letter is named after a sacred tree (B = Beith = Birch, C = Coll = Hazel).\n","faq":[{"question":"Can I write a whole book in this?","answer":"You could, but it would be very long. Ogham takes up a lot of vertical space. It was mostly used for names, land boundaries, and short memorials."},{"question":"Is it magical?","answer":"It appears in many fantasy settings as 'Druid runes,' but historically it was a practical script. Though, names have power, so be careful what you carve."},{"question":"How do I read the output?","answer":"Imagine a vertical line. The markings branch off it like leaves on a stem. Our tool renders it horizontally for readability, but rotate it 90° for authenticity."}],"relatedCalculators":["shavian-translator","pigpen-cipher","nato-phonetic"]},{"id":"steganography-brush","title":"Steganography Brush","description":"Hide secret intent within digital noise.","category":"cipherlab","slug":"steganography-brush","icon":"🎨","origin":"Cryptography isn't always about unreadable text; sometimes it's about hiding the presence of a message entirely. This uses 'Entropy Masking' to conceal data.","howTo":"Encode your message into the Canvas. To reveal it, use the 'Quantum Brush' (cursor) on the decode tab to scan for hidden light-value shifts.","tips":["Entropy levels of 99% ensure non-detection by casual scans.","Quantum focal points reconstruct light data into readable intent.","Shattering intent across coordinate vectors is a classic spy tactic."],"tags":["Cryptography","Tech"],"content":"\n## Hiding in Plain Sight\n\nCryptography scrambles a message. Steganography **hides the existence** of the message.\nIf you send an encrypted file, the NSA knows you are hiding something.\nIf you send a picture of a cat, nobody looks twice. But that cat picture could contain the plans to the Death Star in the least significant bits of the pixel color data.\n\n### Entropy Masking\nThis tool simulates \"visual steganography\" by altering the pixel noise (entropy) of the canvas.\nTo the naked eye, it looks like digital static.\nTo the \"Quantum Brush\" (decoder), the subtle shifts in light value reveal the hidden intent.\n\n### Historical Context\n*   **Ancient Greece**: Writing a message on the wood of a wax tablet, then covering it with wax.\n*   **Microdots**: WWII spies shrinking a page of text to the size of a period (.) and gluing it to a letter.\n*   **Modern Day**: Embedding terrorist communication in eBay product image jpgs.\n","faq":[{"question":"Is this real encryption?","answer":"No, this is 'Best Effort' concealment (Security through Obscurity). A true forensic analysis of the pixel data would reveal statistical anomalies."},{"question":"Can I save the image?","answer":"Currently this tool works in browser memory (Canvas), but real steganography tools alter the actual file bytes."},{"question":"What is the 'Quantum Brush'?","answer":"It's a fancy name for a high-contrast filter that amplifies the differences between the 'background' noise and the 'signal' noise."}],"relatedCalculators":["password-anger","pigpen-cipher","conspiracy-theory"]},{"id":"shavian-translator","title":"Shavian Alphabet","description":"George Bernard Shaw's phonetic alphabet for English.","category":"cipherlab","slug":"shavian-translator","icon":"🇬🇧","origin":"Named after playwright George Bernard Shaw, who funded a competition to create a more efficient, phonetic alphabet for the English language to save time and paper.","howTo":"Type normal English text to see it rendered in Shaw's sleek, phonetic glyphs. Each character represents a specific sound, eliminating the need for silent letters.","tips":["There are no capital letters in Shavian.","It was used to publish a special edition of Shaw's play 'Androcles and the Lion'.","See if you can spot the 'tall' and 'deep' characters representing different sounds."],"tags":["Language","History"],"content":"\n## Why English Spelling is Broken\n\nGeorge Bernard Shaw (author of *Pygmalion*) hated English spelling. He famously pointed out that \"fish\" could be spelled **\"ghoti\"** (gh as in *tough*, o as in *women*, ti as in *nation*). To fix this, he funded the creation of the Shavian Alphabet.\n\n### How Shavian Works\nUnlike the Latin alphabet, Shavian is **phonetic**. Each character represents exactly one sound.\n*   **Tall Letters**: (7, 𐑐, 𐑑) represent voiceless consonants (p, t, k).\n*   **Deep Letters**: (𐑚, 𐑛, 𐑜) represent voiced consonants (b, d, g).\n*   **Short Letters**: (𐑨, 𐑩, 𐑪) represent vowels.\n\n### Why Learn It?\n1.  **Speed**: It was designed to be written faster than standard English.\n2.  **Secret Code**: It looks like alien script but is actually just efficient English.\n3.  **Efficiency**: \"Though,\" \"Thought,\" \"Through,\" and \"Tough\" are all completely different symbols, eliminating confusion.\n","faq":[{"question":"Why didn't this catch on?","answer":"Inertia. Changing the alphabet of a global language requires rewriting every book and signpost. It remains a niche hobby for linguists."},{"question":"Can I type this on my phone?","answer":"Yes! There are Unicode blocks for Shavian, and you can download custom keyboards (like 'Gboard' extensions) to write in it natively."},{"question":"Is this Elvish?","answer":"No, but it looks like it! Tolkien likely knew of it, but Shavian is strictly utilitarian, whereas Elvish (Tengwar) is artistic."}],"relatedCalculators":["nato-phonetic","ogham-translator","morse-code"]}]}]}]
+George Bernard Shaw — the Nobel-winning author of _Pygmalion_, the play that became _My Fair Lady_ — spent his life listening to how people actually speak. He grew convinced that English spelling was a national waste of time. Every silent letter, every redundant vowel, cost a fraction of a second to write and read, multiplied across millions of people for centuries. To Shaw, the wonky spelling of words like "knight" or "though" was not charming heritage; it was a tax on civilization, paid in ink and paper.
+
+So he wrote the problem into his will. When Shaw died in 1950, his estate set aside funds for a public competition to design a new alphabet for English: one that was strictly phonetic, with at least forty distinct letters, and bearing no resemblance to the Latin alphabet that had caused the trouble in the first place. The contest drew hundreds of entrants. The winning design — refined into the form we use today — came largely from a typographer named Ronald Kingsley Read, and the result is now called the Shavian alphabet in Shaw's honour. This tool renders your English directly into those glyphs.
+
+## Why English Spelling Is Genuinely Broken
+
+Shaw's favourite demonstration of the problem was the word **"ghoti."** Read it aloud as English spelling rules allow, and it spells _fish_:
+
+- **gh** as in "tou**gh**" gives you an "f" sound.
+- **o** as in "w**o**men" gives you a short "i" sound.
+- **ti** as in "na**ti**on" gives you a "sh" sound.
+
+Put them together — f, i, sh — and "ghoti" is "fish." The joke lands because every one of those sound-to-letter mappings is real and common in English. The language borrowed words from Latin, French, Norse, and Germanic roots, froze their spellings at different historical moments, and then kept pronouncing them however it pleased. The result is a writing system where the same letters make different sounds and the same sound is written a dozen different ways. Shavian was built to make that ambiguity impossible.
+
+## How the Shavian Alphabet Works
+
+The core idea is one symbol per **phoneme** — one written shape for each distinct sound in spoken English. There are no silent letters, because a letter that makes no sound has no reason to exist. There are also no capital letters at all; Shavian treats uppercase as another piece of inherited clutter and drops it entirely. Proper names are instead marked with a small dot called a "namer dot."
+
+The cleverest feature is how consonants are paired. Many English sounds come in voiced and voiceless twins — your tongue and lips do the same thing, but one version vibrates the vocal cords and the other does not. Shavian reflects this visually:
+
+- **Tall letters** rise above the writing line and represent **voiceless** consonants — the sounds in _p_, _t_, _k_, _f_, and _s_.
+- **Deep letters** drop below the line and represent the matching **voiced** consonants — _b_, _d_, _g_, _v_, and _z_.
+- **Short letters** sit on the line and carry the vowels.
+
+So the difference between "p" and "b" — or "t" and "d," or "s" and "z" — is just whether the same basic shape points up or down. The alphabet encodes the physical relationship between sounds into the look of the letters themselves, something the Latin alphabet never bothered to do.
+
+## A Worked Example
+
+Take the four words **"though," "thought," "through,"** and **"tough."** In English they share the maddening "ough" cluster, yet none of them rhymes and none is pronounced the way the spelling suggests.
+
+In Shavian, that shared spelling vanishes, because the words simply do not sound alike:
+
+- **"though"** is written with the voiced "th" sound followed by a long "oh."
+- **"thought"** uses the voiceless "th," an "aw" vowel, and a final "t."
+- **"through"** opens with "th" and "r," then closes on an "oo."
+- **"tough"** is just "t," "uh," and an "f" — that deceptive "gh" again.
+
+Four words that look like variations on a theme become four completely distinct strings of symbols. When you type them into the translator above, you can watch the false family resemblance disappear. That is the entire point of Shaw's project: the writing should track the speech, not the spelling's tangled history.
+
+## From Androcles to a Niche Revival
+
+The alphabet got its grand public debut in 1962, when a special bi-alphabetic edition of Shaw's own play **_Androcles and the Lion_** was published. Each page showed the Shavian script on one side and standard English on the facing page, so curious readers could teach themselves by comparison. It was meant to be the opening move in a quiet revolution.
+
+The revolution never arrived, for an unglamorous reason: **inertia.** Replacing the alphabet of a global language means reprinting every book, repainting every road sign, and re-educating every literate adult. No phonetic elegance can outweigh that cost. So Shavian settled into life as a beloved curiosity rather than a replacement.
+
+> An alphabet can be perfectly logical and still lose to the one everybody already knows.
+
+But it never quite died. Shavian has its own block in the Unicode standard, which means it can be typed, displayed, and shared on modern devices — there are even custom phone keyboards for writing it natively. Today it lives on among linguists, conlang enthusiasts, and hobbyists who enjoy a script that looks like alien runes yet decodes into plain English. People use it for private journals, for tattoos, and for the simple pleasure of writing a language they already know in a form almost nobody can read over their shoulder. Shaw wanted to reform the world; instead he left behind one of the most elegant secret codes ever commissioned, and the translator above lets you write in it instantly.
+4:["$","div",null,{"className":"container py-16 px-4 md:px-6 relative z-10 w-full","style":{"isolation":"isolate"},"children":["$","$L8",null,{"calculators":[{"id":"caesar-cipher","title":"Caesar Cipher","description":"Encrypt messages with the ancient Roman shift cipher.","category":"cipherlab","slug":"caesar-cipher","icon":"🏛️","origin":"Named after Julius Caesar, who used it to protect military secrets. It's one of the earliest and simplest forms of encryption, involving a simple 'shift' of the alphabet.","howTo":"Enter your message and select a shift value (the 'key'). Your text will instantly transform into a scrambled code that only someone with the key can decipher.","tips":["A shift of 3 was Caesar's personal favorite.","Try shifting by 13 (ROT13) for a classic internet-era cipher.","Use negative shifts to go backwards!"],"tags":["Cryptography","History"],"content":"$9","faq":[{"question":"Did Brutus crack it?","answer":"No. The Romans were surprisingly bad at cryptanalysis. The cipher remained highly secure for centuries simply because most enemies couldn't read the alphabet in the first place."},{"question":"What is ROT13?","answer":"ROT13 is a Caesar cipher locked to a shift of 13. Since the alphabet has 26 letters, applying ROT13 twice returns the original text. It became the early internet's favorite 'Spoiler Alert' masking tool."},{"question":"Is this secure today?","answer":"Absolutely not. A modern computer processor can brute-force all 25 possible alphabetical shifts in a literal nanosecond."},{"question":"Why does ROT13 use the number 13 specifically?","answer":"Because the English alphabet has 26 letters, shifting by 13 is perfectly symmetrical. If you apply ROT13 twice, it acts as its own reverse translation key, effortlessly returning you to the original text."},{"question":"Did Caesar invent encryption?","answer":"He didn't invent encryption as a concept (the Spartans famously used the 'Scytale' cipher hundreds of years prior), but his cipher is the first highly documented military field use of character substitution."}],"relatedCalculators":["pigpen-cipher","enigma-machine","password-anger"]},{"id":"nato-phonetic","title":"NATO Phonetic Alphabet","description":"Convert text to Alpha, Bravo, Charlie used by pilots.","category":"cipherlab","slug":"nato-phonetic","icon":"✈️","origin":"Developed in the 1950s by NATO and ICAO to ensure clear communication over crackly radio lines. Each word was carefully chosen to be unmistakable in any accent.","howTo":"Type any word or phrase to see its phonetic equivalent. Hit the 'Transmit' button to hear it spoken with pilot-grade clarity.","tips":["Great for spelling your name over the phone.","Notice how '9' is pronounced 'Niner' to avoid confusion with the German 'Nein'.","Used by everyone from astronauts to emergency services."],"tags":["Communication","Language"],"content":"$a","faq":[{"question":"Why 'Roger'?","answer":"In the old phonetic alphabet (pre-1956), 'R' was 'Roger'. It stood for 'Received'. Even though 'R' is now 'Romeo', 'Roger' stuck as the universal 'I understand'."},{"question":"What is 'Wilco'?","answer":"Short for 'Will Comply'. 'Roger' means I heard you; 'Wilco' means I will do what you commanded. You never say 'Roger Wilco' because it's completely redundant radio chatter."},{"question":"Is there a spelling for numbers?","answer":"Yes, and they are pronounced heavily! Zero, Wun, Too, Tree, Fower, Fife, Six, Seven, Ait, Niner."},{"question":"Why does 'Alpha' look like 'Alfa' in the official manual?","answer":"NATO intentionally spells it 'Alfa' and 'Juliett' in their official documents so native French and Spanish speakers don't accidentally mispronounce them based on their own complex language rules."},{"question":"Is the NATO alphabet used everywhere globally?","answer":"Yes! It's the absolute standard for the International Civil Aviation Organization (ICAO), meaning a pilot from Japan and an air-traffic controller in Germany will both use the exact same phonetic words to land a plane safely."}],"relatedCalculators":["morse-code","shavian-translator","binary-translator"]},{"id":"pigpen-cipher","title":"Pigpen Cipher","description":"Visual geometric cipher used by Freemasons.","category":"cipherlab","slug":"pigpen-cipher","icon":"🐷","origin":"A geometric substitution cipher that swaps letters for fragments of a grid. Historically used by the Freemasons in the 18th century to keep their records private.","howTo":"Type your message to see it drawn in geometric symbols. Each shape represents a specific letter's position in a tic-tac-toe or X-grid.","tips":["The dots indicate the second letter in the same grid segment.","Classic for 'treasure hunt' notes.","Looks like an alien language to the untrained eye!"],"tags":["Cryptography","History"],"content":"$b","faq":[{"question":"Is it secure?","answer":"No. Like Caesar Cipher, it is a simple substitution. The symbols change, but the patterns (double letters, common words) remain."},{"question":"Did pirates use it?","answer":"Legend says the pirate Olivier Levasseur ('La Buse') threw a necklace with a Pigpen cryptogram into the crowd at his execution, shouting 'Find my treasure, he who receives it!'"},{"question":"Can I customize it?","answer":"Yes! You can scramble the order of letters in the grid to create your own key that only your friends know."}],"relatedCalculators":["caesar-cipher","steganography-brush","treasure-map"]},{"id":"morse-code","title":"Morse Code Broadcast","description":"Translate text to audible Morse Code dits and dahs.","category":"cipherlab","slug":"morse-code","icon":"📡","origin":"Invented by Samuel Morse and Alfred Vail in the 1830s. It revolutionized long-distance communication by sending electrical pulses through telegraph wires.","howTo":"Type your message to see the dots (dits) and dashes (dahs). Use the broadcast button to hear the rhythmic pulses of the 19th-century internet.","tips":["SOS is three dots, three dashes, three dots (... --- ...).","Short pulses are dits, long ones are dahs.","Experienced operators can 'read' Morse by sound faster than most people type."],"tags":["Communication","History"],"content":"$c","faq":[{"question":"Do people still use it?","answer":"It was officially retired for maritime distress in 1999 (replaced by GMDSS satellites), but Amateur Radio (Ham) operators still love it."},{"question":"Can I blink it?","answer":"Yes! Torture victims (like Jeremiah Denton) famously used eye-blink Morse to send messages in propaganda videos."},{"question":"How fast can you go?","answer":"World records exceed 75 words per minute, which is faster than most people type on a smartphone."}],"relatedCalculators":["nato-phonetic","binary-translator","shavian-translator"]},{"id":"password-anger","title":"Password Anger Scale","description":"How angry would a hacker get trying to crack your password?","category":"cipherlab","slug":"password-anger","icon":"😡","origin":"In the world of cybersecurity, time is money. This scale estimates the computational effort (and frustration) required to brute-force your digital fortress.","howTo":"Enter a password to see the 'Anger Meter'. The longer and more complex your password, the higher the blood pressure of our simulated hacker.","tips":["Length trumps complexity—12 simple characters are often better than 8 complex ones.","Avoid '123456' or 'Password' unless you want a very happy hacker.","Use a unique password for every site."],"tags":["Security","Tech"],"content":"$d","faq":[{"question":"Is my password sent to your server?","answer":"NO. The calculation happens entirely in your browser using JavaScript. We never see, store, or transmit what you type."},{"question":"Why not just use a password manager?","answer":"You should! bitwarden or 1Password generate 20-character random garbage that no human could guess. Use a strong Master Password (the 4-word trick!) for the vault."},{"question":"Does '123456' really matter?","answer":"Yes. It is the #1 password globally. Hackers try a 'Top 10,000' list before they even start brute-forcing. If you are on that list, you are gone in 0.001 seconds."}],"relatedCalculators":["steganography-brush","conspiracy-theory","binary-translator"]},{"id":"ogham-translator","title":"Ogham Translator","description":"Convert text to Ancient Irish tree alphabet.","category":"cipherlab","slug":"ogham-translator","icon":"🗿","origin":"Known as the 'alphabet of the trees,' Ogham was used in Early Medieval Ireland. It consists of notches carved along a vertical line, often on stone monuments.","howTo":"Type modern text and see it converted into ancient Irish runic notches. The strokes are read from bottom to top on stones or left to right on paper.","tips":["Each letter is named after a tree (e.g., 'Beith' for Birch).","Ancient Ogham inscriptions are still visible across Ireland today.","Perfect for creating mystical-looking designs."],"tags":["History","Language"],"content":"$e","faq":[{"question":"Can I write a whole book in this?","answer":"You could, but it would be very long. Ogham takes up a lot of vertical space. It was mostly used for names, land boundaries, and short memorials."},{"question":"Is it magical?","answer":"It appears in many fantasy settings as 'Druid runes,' but historically it was a practical script. Though, names have power, so be careful what you carve."},{"question":"How do I read the output?","answer":"Imagine a vertical line. The markings branch off it like leaves on a stem. Our tool renders it horizontally for readability, but rotate it 90° for authenticity."}],"relatedCalculators":["shavian-translator","pigpen-cipher","nato-phonetic"]},{"id":"steganography-brush","title":"Steganography Brush","description":"Hide secret intent within digital noise.","category":"cipherlab","slug":"steganography-brush","icon":"🎨","origin":"Cryptography isn't always about unreadable text; sometimes it's about hiding the presence of a message entirely. This uses 'Entropy Masking' to conceal data.","howTo":"Encode your message into the Canvas. To reveal it, use the 'Quantum Brush' (cursor) on the decode tab to scan for hidden light-value shifts.","tips":["Entropy levels of 99% ensure non-detection by casual scans.","Quantum focal points reconstruct light data into readable intent.","Shattering intent across coordinate vectors is a classic spy tactic."],"tags":["Cryptography","Tech"],"content":"$f","faq":[{"question":"Is this real encryption?","answer":"No, this is 'Best Effort' concealment (Security through Obscurity). A true forensic analysis of the pixel data would reveal statistical anomalies."},{"question":"Can I save the image?","answer":"Currently this tool works in browser memory (Canvas), but real steganography tools alter the actual file bytes."},{"question":"What is the 'Quantum Brush'?","answer":"It's a fancy name for a high-contrast filter that amplifies the differences between the 'background' noise and the 'signal' noise."}],"relatedCalculators":["password-anger","pigpen-cipher","conspiracy-theory"]},{"id":"shavian-translator","title":"Shavian Alphabet","description":"George Bernard Shaw's phonetic alphabet for English.","category":"cipherlab","slug":"shavian-translator","icon":"🇬🇧","origin":"Named after playwright George Bernard Shaw, who funded a competition to create a more efficient, phonetic alphabet for the English language to save time and paper.","howTo":"Type normal English text to see it rendered in Shaw's sleek, phonetic glyphs. Each character represents a specific sound, eliminating the need for silent letters.","tips":["There are no capital letters in Shavian.","It was used to publish a special edition of Shaw's play 'Androcles and the Lion'.","See if you can spot the 'tall' and 'deep' characters representing different sounds."],"tags":["Language","History"],"content":"$10","faq":[{"question":"Why didn't this catch on?","answer":"Inertia. Changing the alphabet of a global language requires rewriting every book and signpost. It remains a niche hobby for linguists."},{"question":"Can I type this on my phone?","answer":"Yes! There are Unicode blocks for Shavian, and you can download custom keyboards (like 'Gboard' extensions) to write in it natively."},{"question":"Is this Elvish?","answer":"No, but it looks like it! Tolkien likely knew of it, but Shavian is strictly utilitarian, whereas Elvish (Tengwar) is artistic."}],"relatedCalculators":["nato-phonetic","ogham-translator","morse-code"]}]}]}]
 5:["$","script","script-0",{"src":"/_next/static/chunks/1269288e82030b4b.js","async":true}]
 6:["$","script","script-1",{"src":"/_next/static/chunks/19847245418af887.js","async":true}]
-7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
-d:null
+7:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null
