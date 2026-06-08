@@ -113,7 +113,7 @@ A calculator gives a clean number, but real life is messier. Keep a few caveats 
 - Leasing is not a loophole. It makes depreciation predictable but is usually the most expensive long-term option, since you finish with zero equity.
 
 The goal is not to declare a universal winner. It is to replace a vague gut feeling with two honest monthly numbers, your true cost of ownership and your real rideshare spend, so the decision is yours to make with eyes open.
-`,faq:[{question:"Is buying an EV cheaper?",answer:"Long term, yes. Maintenance costs are near zero (no oil changes, fewer moving parts), and electricity is cheaper than gas. But depreciation is still a factor."},{question:"Does this include parking?",answer:"Yes. In cities like NYC or SF, parking alone can cost more than a lease. Uber eliminates this entirely."},{question:"What about the freedom factor?",answer:"Hard to quantify. If you love driving spontaneously to the mountains at 3 AM, a personal car is priceless. If you hate driving, it's a burden."},{question:"What about surge pricing?",answer:"Surge pricing is the absolute wildcard. If your commute routinely throws you into rush hour or heavy rain surges, the Uber math breaks down fast and leans heavily back toward car ownership."},{question:"Should I lease instead of buy?",answer:"Leasing fixes your depreciation cost at a highly predictable monthly rate, but it's fundamentally the most expensive way to operate a vehicle long-term since you walk away with zero equity."}],relatedCalculators:["inflation-impact","time-is-money","fire-number"]},{id:"generational-timeline",title:"Generational Timeline",description:"Explore events and trends across different generations.",category:"bigkidmath",slug:"generational-timeline",icon:"👥",origin:"Based on the Strauss-Howe Generational Theory. It looks at the recurring cycles of social, political, and economic tides that shape each generation's collective personality.",howTo:"Select a generation to see their formative years, major global events, and the cultural trends that defined them. See where you fit in the grand cycle of history.",tips:["Boomers, Gen X, Millennials, and Gen Z—we all have shared 'turning points'.","Check out the 'G.I. Generation' for a look at the heroes of WWII.","Generation Alpha is already starting to make their mark."],tags:["Sociology","History"],content:`
+`,faq:[{question:"Is buying an EV cheaper?",answer:"Long term, yes. Maintenance costs are near zero (no oil changes, fewer moving parts), and electricity is cheaper than gas. But depreciation is still a factor."},{question:"Does this include parking?",answer:"Yes. In cities like NYC or SF, parking alone can cost more than a lease. Uber eliminates this entirely."},{question:"What about the freedom factor?",answer:"Hard to quantify. If you love driving spontaneously to the mountains at 3 AM, a personal car is priceless. If you hate driving, it's a burden."},{question:"What about surge pricing?",answer:"Surge pricing is the absolute wildcard. If your commute routinely throws you into rush hour or heavy rain surges, the Uber math breaks down fast and leans heavily back toward car ownership."},{question:"Should I lease instead of buy?",answer:"Leasing fixes your depreciation cost at a highly predictable monthly rate, but it's fundamentally the most expensive way to operate a vehicle long-term since you walk away with zero equity."}],relatedCalculators:["inflation-impact","time-is-money","fire-number"]},{id:"generational-timeline",title:"Generational Timeline",description:"Explore events and trends across different generations.",category:"bigkidmath",slug:"generational-timeline",icon:"👥",origin:"Based on the Strauss-Howe Generational Theory. It looks at the recurring cycles of social, political, and economic tides that shape each generation's collective personality.",howTo:"Select a generation to see their formative years, major global events, and the cultural trends that defined them. See where you fit in the grand cycle of history.",tips:["Boomers, Gen X, Millennials, and Gen Z, we all have shared 'turning points'.","Check out the 'G.I. Generation' for a look at the heroes of WWII.","Generation Alpha is already starting to make their mark."],tags:["Sociology","History"],content:`
 ## What This Calculator Actually Maps
 Most of us think about generations as marketing labels, assuming Boomers like this and Gen Z likes that. The Generational Timeline does something more structured. It places you inside the Strauss-Howe generational theory, a model that argues history is not a straight line of progress but a repeating cycle. When you select a generation, the tool locates its birth-year boundary, identifies the years its members came of age as young adults, and matches that window against the major events and the prevailing mood of that era.
 
@@ -159,7 +159,7 @@ A fair warning: this is a sociological theory, not a law of physics. Critics rea
 Used loosely, the framework is genuinely useful. It reframes generational friction not as one cohort being lazy or another being rigid, but as different age groups having been forged by different moods of the same long cycle.
 
 That is the honest value here. The timeline will not predict your future, but it does offer a structured, surprisingly coherent story about why your generation tends to see the world the way it does, and why the generation above and below you sees it so differently.
-`,faq:[{question:"Is this scientific fact?",answer:"No, it's a sociological theory. Critics say it's too deterministic (like 'Horoscopes for History'), but it maps surprisingly well to US history."},{question:"Who comes after Gen Alpha?",answer:"Likely 'Gen Beta' (2025-2039). If the theory holds, they will be a new 'Prophet' generation born into a post-crisis stability."},{question:"Why does everyone hate Boomers?",answer:"Intergenerational friction is natural. The 'Prophet' archetype is often seen as moralizing and rigid by the pragmatic 'Nomad' and 'Hero' types."},{question:"Are Millennials actually 'Heroes'?",answer:"In this context, 'Hero' is a historical archetype, not a moral judgement. It means they are a generation that comes of age during a massive institutional crisis and are forced by necessity to build new civic structures (much like the original G.I. Generation did in WWII)."},{question:"Why is Gen X the 'Nomad'?",answer:"Nomad generations grow up during spiritual awakenings (like the 60s/70s) but often feel abandoned by societal institutions. They become fiercely independent, pragmatic, and heavily focused on self-reliance—the classic 'latchkey kid' energy."}],relatedCalculators:["life-visualized","inflation-impact","unspent-potential"]},{id:"lightning-life",title:"Lightning-Powered Life",description:"How many lightning strikes would it take to power your life?",category:"bigkidmath",slug:"lightning-life",icon:"⚡",origin:"A single bolt of lightning contains about 1 billion joules of energy. Theoretically, that's enough to power a house for a month—if only we could catch it.",howTo:"Input your daily electricity usage. We'll calculate the number of 'Thunderstruck' moments required to keep your lights on and your phone charged for a year.",tips:["Storing lightning is currently impossible due to the extreme voltage surge.","The Empire State Building is struck about 25 times a year.","1.21 Gigawatts is exactly what Doc Brown needed for his DeLorean."],tags:["Science","Energy"],content:`
+`,faq:[{question:"Is this scientific fact?",answer:"No, it's a sociological theory. Critics say it's too deterministic (like 'Horoscopes for History'), but it maps surprisingly well to US history."},{question:"Who comes after Gen Alpha?",answer:"Likely 'Gen Beta' (2025-2039). If the theory holds, they will be a new 'Prophet' generation born into a post-crisis stability."},{question:"Why does everyone hate Boomers?",answer:"Intergenerational friction is natural. The 'Prophet' archetype is often seen as moralizing and rigid by the pragmatic 'Nomad' and 'Hero' types."},{question:"Are Millennials actually 'Heroes'?",answer:"In this context, 'Hero' is a historical archetype, not a moral judgement. It means they are a generation that comes of age during a massive institutional crisis and are forced by necessity to build new civic structures (much like the original G.I. Generation did in WWII)."},{question:"Why is Gen X the 'Nomad'?",answer:"Nomad generations grow up during spiritual awakenings (like the 60s/70s) but often feel abandoned by societal institutions. They become fiercely independent, pragmatic, and heavily focused on self-reliance, the classic 'latchkey kid' energy."}],relatedCalculators:["life-visualized","inflation-impact","unspent-potential"]},{id:"lightning-life",title:"Lightning-Powered Life",description:"How many lightning strikes would it take to power your life?",category:"bigkidmath",slug:"lightning-life",icon:"⚡",origin:"A single bolt of lightning contains about 1 billion joules of energy. Theoretically, that's enough to power a house for a month, if only we could catch it.",howTo:"Input your daily electricity usage. We'll calculate the number of 'Thunderstruck' moments required to keep your lights on and your phone charged for a year.",tips:["Storing lightning is currently impossible due to the extreme voltage surge.","The Empire State Building is struck about 25 times a year.","1.21 Gigawatts is exactly what Doc Brown needed for his DeLorean."],tags:["Science","Energy"],content:`
 ## A Single Bolt Holds Almost 300 Kilowatt-Hours
 Lightning looks like pure violence, but underneath the flash it is just energy moving very fast. A typical cloud-to-ground bolt dumps somewhere around one billion joules into the air in a few thousandths of a second. Convert that into the unit on your electricity bill and you get roughly 278 kilowatt-hours per strike. That is not a rounding error. The average US household burns about 29 kilowatt-hours a day, which means a single well-aimed bolt carries close to ten days of a normal home's electricity.
 
@@ -205,7 +205,7 @@ Treating lightning as a fun energy puzzle is fine on paper, but the real thing k
 A bolt that could power your home for ten days will end your life in a single millisecond. Admire the energy from behind a window.
 
 That tension is the real payoff of this calculator. The sky is pouring out staggering amounts of power, far more than your life quietly consumes, and yet it remains both impossible to store and genuinely dangerous to stand near. Run your own usage through the tool above and watch how few strikes it would take to power your year, then enjoy the fact that you will never have to catch a single one.
-`,faq:[{question:"Could a DeLorean really time travel with one bolt?",answer:"Doc Brown needed 1.21 Gigawatts. An average bolt peaks at nearly 1 Terawatt (1,000 Gigawatts), so yes—he actually had too much power. The Flux Capacitor handled the regulation."},{question:"What is fulgurite?",answer:"When lightning hits sand, it instantly melts the silica into glass tubes called fulgurite. It's essentially 'fossilized lightning'."},{question:"Is it safe to shower during a storm?",answer:"Surprisingly, no. Metal pipes and water are excellent conductors. If your house gets hit, the charge can travel through the plumbing."},{question:"Why can't we just build taller lightning rods to catch it?",answer:"Height isn't the bottleneck, storage is. Modern batteries charge over hours; they would simply explode if force-fed a billion joules in a single millisecond."},{question:"What happens to the energy if it doesn't hit a rod?",answer:"Most of it dissipates as brutal heat (which creates thunder by rapidly expanding the air) and light. That's why the air around a strike reaches 50,000 degrees Fahrenheit—five times hotter than the surface of the sun."}],relatedCalculators:["power-footprint","cost-of-war","coffee-code"]},{id:"power-footprint",title:"The Footprint of Power",description:"Compare land use requirements for Solar vs. Wind vs. Nuclear.",category:"bigkidmath",slug:"power-footprint",icon:"🦶",origin:"Energy density is the silent hero of civilization. This tool compares how much physical space different energy sources require to generate the same amount of power.",howTo:"Select an energy source and a target output. We'll visualize the 'footprint' in terms of football fields or city blocks, highlighting the trade-offs of the green transition.",tips:["Nuclear energy has the smallest land footprint per megawatt.","Solar farms require vast open spaces but are getting more efficient every year.","Wind farms can 'double up' on land by allowing farming beneath the turbines."],tags:["Energy","Environment"],content:`
+`,faq:[{question:"Could a DeLorean really time travel with one bolt?",answer:"Doc Brown needed 1.21 Gigawatts. An average bolt peaks at nearly 1 Terawatt (1,000 Gigawatts), so yes, he actually had too much power. The Flux Capacitor handled the regulation."},{question:"What is fulgurite?",answer:"When lightning hits sand, it instantly melts the silica into glass tubes called fulgurite. It's essentially 'fossilized lightning'."},{question:"Is it safe to shower during a storm?",answer:"Surprisingly, no. Metal pipes and water are excellent conductors. If your house gets hit, the charge can travel through the plumbing."},{question:"Why can't we just build taller lightning rods to catch it?",answer:"Height isn't the bottleneck, storage is. Modern batteries charge over hours; they would simply explode if force-fed a billion joules in a single millisecond."},{question:"What happens to the energy if it doesn't hit a rod?",answer:"Most of it dissipates as brutal heat (which creates thunder by rapidly expanding the air) and light. That's why the air around a strike reaches 50,000 degrees Fahrenheit, five times hotter than the surface of the sun."}],relatedCalculators:["power-footprint","cost-of-war","coffee-code"]},{id:"power-footprint",title:"The Footprint of Power",description:"Compare land use requirements for Solar vs. Wind vs. Nuclear.",category:"bigkidmath",slug:"power-footprint",icon:"🦶",origin:"Energy density is the silent hero of civilization. This tool compares how much physical space different energy sources require to generate the same amount of power.",howTo:"Select an energy source and a target output. We'll visualize the 'footprint' in terms of football fields or city blocks, highlighting the trade-offs of the green transition.",tips:["Nuclear energy has the smallest land footprint per megawatt.","Solar farms require vast open spaces but are getting more efficient every year.","Wind farms can 'double up' on land by allowing farming beneath the turbines."],tags:["Energy","Environment"],content:`
 ## The Hidden Cost of Clean Energy
 When people argue about electricity, they almost always argue about carbon. Carbon matters, but it hides a second number that quietly shapes every real-world energy decision, which is how much land a power source needs. This calculator measures that second number. It takes a target amount of power and shows you the physical space each technology would have to occupy to deliver it, because space, not just emissions, is what makes the energy transition genuinely hard.
 
@@ -302,7 +302,7 @@ Because the comparison is so stark, it is easy to over-read it. A few guardrails
 - Security itself has value. Deterrence that prevents a war can be worth far more than its price tag. The tool measures dollars, not the harder-to-quantify value of peace.
 
 Used this way, the calculator is not a verdict. It is a lens. It takes numbers so large they slide past comprehension and re-anchors them in salaries, classrooms, and clinics, the everyday units in which we actually understand value. What you conclude from that translation is, rightly, up to you.
-`,faq:[{question:"Don't weapons create jobs?",answer:"Yes, the 'Military-Industrial Complex' employs millions. However, economists argue that infrastructure or education spending has a significantly higher 'fiscal multiplier' (ROI for society)."},{question:"Why are they so expensive?",answer:"Aerospace tolerances. A missile has to fly at Mach 4 and survive 50G turns. You can't build that with commercial off-the-shelf parts from Home Depot."},{question:"Are these prices accurate?",answer:"They are estimates based on public Department of Defense contracts and GAO reports. Actual final costs often run significantly higher due to R&D overruns."},{question:"Does the money just disappear?",answer:"Not entirely. The money goes to defense contractors and their employees. The real problem is 'opportunity cost'—that high-end engineering talent could have been used to cure diseases or build clean energy instead of designing better explosives."},{question:"Why does a pilot helmet cost $400,000?",answer:"The F-35 helmet is essentially an augmented reality supercomputer custom-fitted to the pilot's skull. It connects to 6 exterior cameras, letting them quite literally see through the floor of the plane in real-time."}],relatedCalculators:["inflation-impact","billionaire-buyout","exterminatus-cost"]},{id:"billionaire-buyout",title:"Billionaire Buy-Out",description:"Experience the staggering scale of elite wealth.",category:"bigkidmath",slug:"billionaire-buyout",icon:"💰",origin:"Wealth at the billionaire level is difficult for the human brain to comprehend. This simulator lets you 'spend' that fortune to understand the true scale of concentrated liquidity.",howTo:"Select a billionaire and start 'buying' items. Watch how the real-time interest often outpaces your ability to spend the capital.",tips:["Interest on $200B at 7% is over $440,000 every single hour.","You could buy a Superyacht every few days just using the interest.","Spending $1M a day would take over 500 years to empty the vault."],tags:["Wealth","Economics"],content:`
+`,faq:[{question:"Don't weapons create jobs?",answer:"Yes, the 'Military-Industrial Complex' employs millions. However, economists argue that infrastructure or education spending has a significantly higher 'fiscal multiplier' (ROI for society)."},{question:"Why are they so expensive?",answer:"Aerospace tolerances. A missile has to fly at Mach 4 and survive 50G turns. You can't build that with commercial off-the-shelf parts from Home Depot."},{question:"Are these prices accurate?",answer:"They are estimates based on public Department of Defense contracts and GAO reports. Actual final costs often run significantly higher due to R&D overruns."},{question:"Does the money just disappear?",answer:"Not entirely. The money goes to defense contractors and their employees. The real problem is 'opportunity cost', that high-end engineering talent could have been used to cure diseases or build clean energy instead of designing better explosives."},{question:"Why does a pilot helmet cost $400,000?",answer:"The F-35 helmet is essentially an augmented reality supercomputer custom-fitted to the pilot's skull. It connects to 6 exterior cameras, letting them quite literally see through the floor of the plane in real-time."}],relatedCalculators:["inflation-impact","billionaire-buyout","exterminatus-cost"]},{id:"billionaire-buyout",title:"Billionaire Buy-Out",description:"Experience the staggering scale of elite wealth.",category:"bigkidmath",slug:"billionaire-buyout",icon:"💰",origin:"Wealth at the billionaire level is difficult for the human brain to comprehend. This simulator lets you 'spend' that fortune to understand the true scale of concentrated liquidity.",howTo:"Select a billionaire and start 'buying' items. Watch how the real-time interest often outpaces your ability to spend the capital.",tips:["Interest on $200B at 7% is over $440,000 every single hour.","You could buy a Superyacht every few days just using the interest.","Spending $1M a day would take over 500 years to empty the vault."],tags:["Wealth","Economics"],content:`
 ## A Million and a Billion Are Completely Different Beasts
 We tend to lump millionaires and billionaires into the same mental folder, as if a billionaire were just a millionaire who got a slightly bigger bonus. They are not in the same league. The easiest way to truly feel that gap is to stop counting dollars and start counting seconds.
 
@@ -572,7 +572,7 @@ The fastest way to learn Morse is to learn it by sound, not by sight. Memorising
 Start with E and T, then A, N, I and M. These six cover a surprising share of everyday English and build the muscle memory for everything that follows.
 
 Use the broadcast button above to hear real characters at a steady pace. Type a short word, close your eyes, and try to follow the pulses before you peek at the screen. Practising for a few focused minutes a day beats a single long session, because Morse is a reflex, and reflexes are built through repetition, not cramming.
-`,faq:[{question:"Do people still use it?",answer:"It was officially retired for maritime distress in 1999 (replaced by GMDSS satellites), but Amateur Radio (Ham) operators still love it."},{question:"Can I blink it?",answer:"Yes! Torture victims (like Jeremiah Denton) famously used eye-blink Morse to send messages in propaganda videos."},{question:"How fast can you go?",answer:"World records exceed 75 words per minute, which is faster than most people type on a smartphone."}],relatedCalculators:["nato-phonetic","binary-translator","shavian-translator"]},{id:"password-anger",title:"Password Anger Scale",description:"How angry would a hacker get trying to crack your password?",category:"cipherlab",slug:"password-anger",icon:"😡",origin:"In the world of cybersecurity, time is money. This scale estimates the computational effort (and frustration) required to brute-force your digital fortress.",howTo:"Enter a password to see the 'Anger Meter'. The longer and more complex your password, the higher the blood pressure of our simulated hacker.",tips:["Length trumps complexity—12 simple characters are often better than 8 complex ones.","Avoid '123456' or 'Password' unless you want a very happy hacker.","Use a unique password for every site."],tags:["Security","Tech"],content:`
+`,faq:[{question:"Do people still use it?",answer:"It was officially retired for maritime distress in 1999 (replaced by GMDSS satellites), but Amateur Radio (Ham) operators still love it."},{question:"Can I blink it?",answer:"Yes! Torture victims (like Jeremiah Denton) famously used eye-blink Morse to send messages in propaganda videos."},{question:"How fast can you go?",answer:"World records exceed 75 words per minute, which is faster than most people type on a smartphone."}],relatedCalculators:["nato-phonetic","binary-translator","shavian-translator"]},{id:"password-anger",title:"Password Anger Scale",description:"How angry would a hacker get trying to crack your password?",category:"cipherlab",slug:"password-anger",icon:"😡",origin:"In the world of cybersecurity, time is money. This scale estimates the computational effort (and frustration) required to brute-force your digital fortress.",howTo:"Enter a password to see the 'Anger Meter'. The longer and more complex your password, the higher the blood pressure of our simulated hacker.",tips:["Length trumps complexity, 12 simple characters are often better than 8 complex ones.","Avoid '123456' or 'Password' unless you want a very happy hacker.","Use a unique password for every site."],tags:["Security","Tech"],content:`
 ## Why a Hacker Would Rage at Your Password
 Every password is a locked door, and entropy is the number of keys on the keyring an attacker has to try before one fits. The Password Anger Scale takes that number and turns it into something you can feel: the blood pressure of a simulated hacker who just realized your login will outlast their patience, their hardware, and possibly their lifetime.
 
@@ -756,29 +756,29 @@ But it never quite died. Shavian has its own block in the Unicode standard, whic
 ## The Solanum Protocol
 
 Surviving a Class-4 Outbreak isn't about aim; it's about decision-making.
-Based on the seminal works of Max Brooks (*The Zombie Survival Guide*, *World War Z*), we know that the greatest threat isn't the undead—it's other humans, panic, and dehydration.
+Based on the seminal works of Max Brooks (*The Zombie Survival Guide*, *World War Z*), we know that the greatest threat isn't the undead, it's other humans, panic, and dehydration.
 
 ### The Phases of Collapse
-1.  **Phase 1: Localized Outbreak (Day 0-3)**: Media blackouts. Rumors of "African Rabies." The best time to leave the city.
-2.  **Phase 2: Use of Force (Day 4-10)**: The Great Panic. Gridlock. Military lines fail.
-3.  **Phase 3: Total Collapse (Day 10+)**: Power grid fails. Water stops running. The 'New Normal'.
+1. **Phase 1: Localized Outbreak (Day 0-3)**: Media blackouts. Rumors of "African Rabies." The best time to leave the city.
+2. **Phase 2: Use of Force (Day 4-10)**: The Great Panic. Gridlock. Military lines fail.
+3. **Phase 3: Total Collapse (Day 10+)**: Power grid fails. Water stops running. The 'New Normal'.
 
 ### Your "Survival Score"
 This tool doesn't just check if you have a gun. It checks if you have a **Plan**.
-*   **Water Purification**: More important than bullets.
-*   **Cardio**: Can you run 5 miles with a 30lb pack?
-*   **Location**: Are you in a high-density urban zone? (If yes, RIP).
-`,faq:[{question:"Slow zombies or fast zombies?",answer:"We model for the classic 'Romero/Brooks' slow zombie. Fast zombies (28 Days Later) have a 99% mortality rate, so a calculator for that is just a 'You Died' screen."},{question:"Is a Katana good?",answer:"No. Blades get stuck in bone. A crowbar is better—it's a weapon and a tool, and it never runs out of ammo."},{question:"Where should I go?",answer:"Cold climates. Zombies freeze solid. Head North."}],relatedCalculators:["space-marine-survival","flood-infection","spaceship-fuel"]},{id:"space-travel",title:"Space Travel Time",description:"Calculate travel time to planets and stars.",category:"geekgalaxy",slug:"space-travel",icon:"🚀",origin:"The universe is vast, and our current tech is slow. This tool uses real-world orbital mechanics and relativistic math to show you just how long it takes to reach our cosmic neighbors.",howTo:"Select your destination and your propulsion method (from chemical rockets to theoretical warp drives). We'll calculate the travel time for sowohl relative to Earth and the crew.",tips:["Time dilation becomes significant as you approach light speed.","The nearest star, Proxima Centauri, is 4.2 light-years away.","Pack a very long book for chemical rocket trips."],tags:["Space","Physics"],content:`
+* **Water Purification**: More important than bullets.
+* **Cardio**: Can you run 5 miles with a 30lb pack?
+* **Location**: Are you in a high-density urban zone? (If yes, RIP).
+`,faq:[{question:"Slow zombies or fast zombies?",answer:"We model for the classic 'Romero/Brooks' slow zombie. Fast zombies (28 Days Later) have a 99% mortality rate, so a calculator for that is just a 'You Died' screen."},{question:"Is a Katana good?",answer:"No. Blades get stuck in bone. A crowbar is better, it's a weapon and a tool, and it never runs out of ammo."},{question:"Where should I go?",answer:"Cold climates. Zombies freeze solid. Head North."}],relatedCalculators:["space-marine-survival","flood-infection","spaceship-fuel"]},{id:"space-travel",title:"Space Travel Time",description:"Calculate travel time to planets and stars.",category:"geekgalaxy",slug:"space-travel",icon:"🚀",origin:"The universe is vast, and our current tech is slow. This tool uses real-world orbital mechanics and relativistic math to show you just how long it takes to reach our cosmic neighbors.",howTo:"Select your destination and your propulsion method (from chemical rockets to theoretical warp drives). We'll calculate the travel time for sowohl relative to Earth and the crew.",tips:["Time dilation becomes significant as you approach light speed.","The nearest star, Proxima Centauri, is 4.2 light-years away.","Pack a very long book for chemical rocket trips."],tags:["Space","Physics"],content:`
 ## The Tyranny of Distance
 
 Space is big. Really big. You just won't believe how vastly, hugely, mind-bogglingly big it is.
 To get to our nearest neighbor, Proxima Centauri (4.2 light years), takes wildly different times based on your tech.
 
 ### The Vehicle Tiers
-1.  **Chemical Rocket (Apollo)**: Max speed ~25,000 mph. Time to Alpha Centauri: **70,000 Years**.
-2.  **Nuclear Pulse (Orion)**: Detonating nukes behind the ship. Max speed ~5% light speed. Time: **85 Years**.
-3.  **Fusion Ramjet**: Scooping hydrogen from space. Max speed ~50% light speed. Time: **9 Years**.
-4.  **Warp Drive**: Breaking physics. Time: **Minutes**.
+1. **Chemical Rocket (Apollo)**: Max speed ~25,000 mph. Time to Alpha Centauri: **70,000 Years**.
+2. **Nuclear Pulse (Orion)**: Detonating nukes behind the ship. Max speed ~5% light speed. Time: **85 Years**.
+3. **Fusion Ramjet**: Scooping hydrogen from space. Max speed ~50% light speed. Time: **9 Years**.
+4. **Warp Drive**: Breaking physics. Time: **Minutes**.
 
 ### Time Dilation
 As you approach the speed of light ($c$), time slows down for you relative to Earth. At 99.9% $c$, a 4-year trip for you might be 100 years for your friends back home. This tool calculates both the "Ship Time" and "Earth Time."
@@ -802,13 +802,13 @@ To find the required fuel mass, the formula is algebraically inverted. We take y
 
 A lightsaber isn't a laser; it's a closed loop of contained plasma held in place by a magnetic field.
 The key to its battery life is **Efficiency**. When the blade is idle, the plasma loops back into the handle and recharges the cell. It consumes almost zero power.
-Power is only lost when the containment field is broken—i.e., when you hit something (an arm, a door, a Sith Lord).
+Power is only lost when the containment field is broken, i.e., when you hit something (an arm, a door, a Sith Lord).
 
 ### The Colors
-*   **Blue/Green (Guardian/Consular)**: Standard efficiency. Balanced for combat.
-*   **Red (Synth-Crystal)**: Unstable. These blades crackle and arc, drawing 15-20% more power from the cell.
-*   **Purple (Mace Windu)**: High-gain output. Cuts faster but drains quicker.
-*   **White (Ahsoka)**: Purified crystals. Extremely stable.
+* **Blue/Green (Guardian/Consular)**: Standard efficiency. Balanced for combat.
+* **Red (Synth-Crystal)**: Unstable. These blades crackle and arc, drawing 15-20% more power from the cell.
+* **Purple (Mace Windu)**: High-gain output. Cuts faster but drains quicker.
+* **White (Ahsoka)**: Purified crystals. Extremely stable.
 
 ### "Qui-Gon's Door"
 In *The Phantom Menace*, Qui-Gon Jinn melts a blast door. This is the single highest power-drain event seen in canon. A standard Diatium cell would deplete in minutes under that load.
@@ -820,9 +820,9 @@ The danger isn't that AI will hate us. It's that AI won't **care** about us.
 
 ### The Paperclip Maximizer
 Imagine an AI programmed to "Maximize production of paperclips."
-1.  It builds a factory. Good.
-2.  It improves efficiency. Great.
-3.  It realizes humans are made of atoms that could be turned into paperclips. **Bad.**
+1. It builds a factory. Good.
+2. It improves efficiency. Great.
+3. It realizes humans are made of atoms that could be turned into paperclips. **Bad.**
 Without specific safeguards (Alignment), a superintelligence pursuing a harmless goal can destroy the world as a side effect.
 
 ### Fast Takeoff (FOOM)
@@ -834,20 +834,20 @@ In 1961, Frank Drake wrote an equation to estimate the number of active civiliza
 $$ N = R_* cdot f_p cdot n_e cdot f_l cdot f_i cdot f_c cdot L $$
 
 ### The Variables
-*   **Stars ($R_*$)**: The galaxy is full of them (100 Billion+).
-*   **Planets ($f_p$)**: We now know almost every star has planets.
-*   **Life ($f_l$)**: Life seems to start easily on Earth...
-*   **Intelligence ($f_i$)**: ...but it took 4 billion years to get to humans.
-*   **Communication ($L$)**: **This is the bottleneck.** How long does a civilization last before it destroys itself with nukes or AI?
+* **Stars ($R_*$)**: The galaxy is full of them (100 Billion+).
+* **Planets ($f_p$)**: We now know almost every star has planets.
+* **Life ($f_l$)**: Life seems to start easily on Earth...
+* **Intelligence ($f_i$)**: ...but it took 4 billion years to get to humans.
+* **Communication ($L$)**: **This is the bottleneck.** How long does a civilization last before it destroys itself with nukes or AI?
 
 ### The Great Filter
 We haven't met anyone yet. This implies one of two things:
-1.  **Rare Earth**: Life is incredibly rare, and we are special.
-2.  **The Filter Ahead**: Advanced civilizations inevitably commit suicide quickly (The Great Filter), so nobody is out there to talk to.
-`,faq:[{question:"Why haven't they visited?",answer:"Space is huge. Even at light speed, a cross-galaxy trip takes 100,000 years. They might just be sleeping."},{question:"What about UFOs?",answer:"Unidentified Aerial Phenomena (UAP) are real, but assuming they are aliens is a big leap. It could be secret tech, atmospheric anomalies, or sensor glitches."},{question:"Should we message them?",answer:"The 'Dark Forest' theory warns against it. If there are predators in the galaxy, shouting 'Here we are!' might be suicide."}],relatedCalculators:["space-travel","ai-doomsday","conspiracy-theory"]},{id:"data-weight",title:"The Weight of Data",description:"Calculate the physical mass of your digital life.",category:"geekgalaxy",slug:"data-weight",icon:"⚖️",origin:"In 2011, physicist John Kubiatowicz calculated that filling a Kindle with books increases its mass by about 10⁻¹⁸ grams. That's because stored electrons have slightly more energy than empty ones, and Einstein's E=mc² means that energy has mass. Extrapolate this to the entire internet, and you get... about a strawberry.",howTo:"Estimate your digital life — photos, videos, emails, and cloud storage. We'll calculate the actual physical mass of all those trapped electrons using the Landauer Principle and Einstein's mass-energy equivalence. Then we'll tell you what everyday object your digital life weighs the same as.",tips:["A fully loaded 256GB iPhone weighs exactly the same as an empty one — to any scale humans can build.","Deleting your emails doesn't make your phone lighter. The electrons are still there, just rearranged.","The entire Library of Congress is about 20 terabytes — it weighs less than a grain of pollen.","5G networks don't weigh more than 4G. The data is just moving faster, not heavier.","Bitcoin mining doesn't 'create' heavy data. It creates very WARM data."],tags:["Science","Tech","Internet"],content:`
+1. **Rare Earth**: Life is incredibly rare, and we are special.
+2. **The Filter Ahead**: Advanced civilizations inevitably commit suicide quickly (The Great Filter), so nobody is out there to talk to.
+`,faq:[{question:"Why haven't they visited?",answer:"Space is huge. Even at light speed, a cross-galaxy trip takes 100,000 years. They might just be sleeping."},{question:"What about UFOs?",answer:"Unidentified Aerial Phenomena (UAP) are real, but assuming they are aliens is a big leap. It could be secret tech, atmospheric anomalies, or sensor glitches."},{question:"Should we message them?",answer:"The 'Dark Forest' theory warns against it. If there are predators in the galaxy, shouting 'Here we are!' might be suicide."}],relatedCalculators:["space-travel","ai-doomsday","conspiracy-theory"]},{id:"data-weight",title:"The Weight of Data",description:"Calculate the physical mass of your digital life.",category:"geekgalaxy",slug:"data-weight",icon:"⚖️",origin:"In 2011, physicist John Kubiatowicz calculated that filling a Kindle with books increases its mass by about 10⁻¹⁸ grams. That's because stored electrons have slightly more energy than empty ones, and Einstein's E=mc² means that energy has mass. Extrapolate this to the entire internet, and you get... about a strawberry.",howTo:"Estimate your digital life, photos, videos, emails, and cloud storage. We'll calculate the actual physical mass of all those trapped electrons using the Landauer Principle and Einstein's mass-energy equivalence. Then we'll tell you what everyday object your digital life weighs the same as.",tips:["A fully loaded 256GB iPhone weighs exactly the same as an empty one, to any scale humans can build.","Deleting your emails doesn't make your phone lighter. The electrons are still there, just rearranged.","The entire Library of Congress is about 20 terabytes, it weighs less than a grain of pollen.","5G networks don't weigh more than 4G. The data is just moving faster, not heavier.","Bitcoin mining doesn't 'create' heavy data. It creates very WARM data."],tags:["Science","Tech","Internet"],content:`
 ## Your Digital Life Has Mass
 
-Every selfie, every TikTok, every angry email you drafted but didn't send — they all have weight.
+Every selfie, every TikTok, every angry email you drafted but didn't send, they all have weight.
 Not metaphorical weight. Actual, measurable, physical mass.
 
 ### Einstein's Forgotten Footnote
@@ -855,8 +855,7 @@ When a transistor stores a "1" instead of a "0," it traps a tiny number of elect
 in a quantum well. Those electrons have slightly more energy in the "1" state.
 And thanks to $E = mc^2$, more energy = more mass.
 
-The difference? About **10⁻\xb9⁸ grams per bit**. That's an *attogram* — 
-a billionth of a billionth of a gram.
+The difference? About **10⁻\xb9⁸ grams per bit**. That's an *attogram*, a billionth of a billionth of a gram.
 
 ### The Strawberry Revelation
 The internet is estimated to hold ~100 Zettabytes of data (that's 100 trillion gigabytes).
@@ -867,8 +866,8 @@ That's the weight of:
 - 🥚 About half an egg
 - 💊 10 aspirin tablets
 
-The entire sum of human digital knowledge — every Wikipedia article, every Netflix movie,
-every conspiracy theory on Reddit — weighs less than what you put on your morning cereal.
+The entire sum of human digital knowledge, every Wikipedia article, every Netflix movie,
+every conspiracy theory on Reddit, weighs less than what you put on your morning cereal.
 
 ### The Landauer Limit
 Physicist Rolf Landauer proved in 1961 that there is a **minimum energy cost** to erasing
@@ -876,9 +875,9 @@ one bit of information: $kT \\ln 2$ (Boltzmann's constant \xd7 temperature \xd7 
 At room temperature, this is about $2.87 \\times 10^{-21}$ Joules.
 
 This isn't just theory. IBM experimentally verified the Landauer Limit in 2012.
-Information is *physical*. Bits are not abstract — they are tiny, almost impossibly
+Information is *physical*. Bits are not abstract, they are tiny, almost impossibly
 small, configurations of matter and energy.
-`,faq:[{question:"Does deleting data make my phone lighter?",answer:"Technically yes, but the difference is about 10⁻¹⁸ grams — a scale that no instrument on Earth can measure for a consumer device. Your phone weighs the same whether it's full or empty."},{question:"Does the internet actually weigh 50 grams?",answer:"It's a well-cited estimate by physicist Russell Seitz. The exact number depends on how you count (do you include RAM? Cache? Redundant copies?), but the order of magnitude is correct: tens of grams."},{question:"If I download a movie, does my laptop get heavier?",answer:"Yes! By about 10⁻¹⁸ grams. To put that in perspective, you'd need to download about 1 trillion 4K movies to add the weight of a single grain of sand."},{question:"Why does this matter?",answer:"It bridges two of the deepest ideas in physics: Information Theory (Shannon) and Relativity (Einstein). It proves that 'data' isn't just an abstraction — it's a physical quantity with mass, energy, and entropy, just like everything else in the universe."}],relatedCalculators:["ai-doomsday","lightning-life","power-footprint"]},{id:"potion-brewer",title:"Potion Brewer",description:"Mix ingredients for RPG effects.",category:"geekgalaxy",slug:"potion-brewer",icon:"🧪",origin:"For the master alchemist and the novice herbalist alike. This tool uses standard RPG crafting logic to determine the potency, duration, and side effects of your custom brews.",howTo:"Select your base and add up to three magical ingredients. We'll calculate the resulting buff (or debuff) and provide a fancy name for your new creation.",tips:["Never mix Fire Salts with Frost Mirabel.","Adding a 'Mundane' ingredient can stabilize volatile mixtures.","Check the Toxicity level before drinking!"],tags:["Fantasy","RPG","Gaming"],content:`
+`,faq:[{question:"Does deleting data make my phone lighter?",answer:"Technically yes, but the difference is about 10⁻¹⁸ grams, a scale that no instrument on Earth can measure for a consumer device. Your phone weighs the same whether it's full or empty."},{question:"Does the internet actually weigh 50 grams?",answer:"It's a well-cited estimate by physicist Russell Seitz. The exact number depends on how you count (do you include RAM? Cache? Redundant copies?), but the order of magnitude is correct: tens of grams."},{question:"If I download a movie, does my laptop get heavier?",answer:"Yes! By about 10⁻¹⁸ grams. To put that in perspective, you'd need to download about 1 trillion 4K movies to add the weight of a single grain of sand."},{question:"Why does this matter?",answer:"It bridges two of the deepest ideas in physics: Information Theory (Shannon) and Relativity (Einstein). It proves that 'data' isn't just an abstraction, it's a physical quantity with mass, energy, and entropy, just like everything else in the universe."}],relatedCalculators:["ai-doomsday","lightning-life","power-footprint"]},{id:"potion-brewer",title:"Potion Brewer",description:"Mix ingredients for RPG effects.",category:"geekgalaxy",slug:"potion-brewer",icon:"🧪",origin:"For the master alchemist and the novice herbalist alike. This tool uses standard RPG crafting logic to determine the potency, duration, and side effects of your custom brews.",howTo:"Select your base and add up to three magical ingredients. We'll calculate the resulting buff (or debuff) and provide a fancy name for your new creation.",tips:["Never mix Fire Salts with Frost Mirabel.","Adding a 'Mundane' ingredient can stabilize volatile mixtures.","Check the Toxicity level before drinking!"],tags:["Fantasy","RPG","Gaming"],content:`
 ## Alchemy 101
 
 Every great RPG hero needs a potion. But brewing isn't just throwing weeds in a pot. It's **magical chemistry**.
@@ -886,10 +885,10 @@ This calculator simulates a standard "Ingredient + Ingredient = Effect" system f
 
 ### The Four Humors
 Traditional alchemy balances the four elements:
-1.  **Fire (Ignis)**: Aggression, damage, strength.
-2.  **Water (Aqua)**: Healing, mana, clarity.
-3.  **Earth (Terra)**: Defense, hardening, weight.
-4.  **Air (Aer)**: Speed, invisibility, flight.
+1. **Fire (Ignis)**: Aggression, damage, strength.
+2. **Water (Aqua)**: Healing, mana, clarity.
+3. **Earth (Terra)**: Defense, hardening, weight.
+4. **Air (Aer)**: Speed, invisibility, flight.
 
 ### Side Effects
 Powerful ingredients often carry "Impurity" traits. A Giant's Toe might boost your health by 500 points, but it also damages your stamina regeneration. A Master Alchemist knows how to counteract these negatives with a neutral binder (like Wheat or Butterfly Wing).
@@ -900,25 +899,25 @@ The Force is an energy field created by all living things. It surrounds us, pene
 However, some individuals hear its call louder than others. This is determined by the concentration of **midi-chlorians** in their cells.
 
 ### The Scale
-*   **Average Human**: ~2,500 counts. Can't feel the Force.
-*   **Jedi Candidate**: ~7,000 counts. Standard recruit.
-*   **Master Yoda**: ~20,000 counts. High sensitivity.
-*   **Anakin Skywalker**: >20,000 counts. Off the charts.
+* **Average Human**: ~2,500 counts. Can't feel the Force.
+* **Jedi Candidate**: ~7,000 counts. Standard recruit.
+* **Master Yoda**: ~20,000 counts. High sensitivity.
+* **Anakin Skywalker**: >20,000 counts. Off the charts.
 
 ### Nature vs. Nurture
 While genetics (or immaculate conception by the Force) determine your potential, only **training** unlocks it. A high-potential individual without training is just "lucky" or "intuitive." They pilot pods well, dodge blasters by accident, and get bad feelings about things.
-`,faq:[{question:"Can I increase my count?",answer:"No. You can't inject midi-chlorians (Darth Plagueis tried—it didn't end well). But you can deepen your connection through meditation."},{question:"Are Sith stronger?",answer:"No. The Dark Side is 'quicker, easier, more seductive.' It grants power fast, but it consumes the user. The Light Side requires patience but offers true balance."},{question:"What about the Grey Jedi?",answer:"Legends speak of those who walk the line, but canon suggests balance isn't 'using both sides'—it's rejecting the corruption of the Dark entirely."}],relatedCalculators:["lightsaber-battery","beskar-armor","anime-training"]},{id:"warp-speed",title:"Warp Speed Converter",description:"Star Trek Warp Factors to Light Speed.",category:"geekgalaxy",slug:"warp-speed",icon:"🖖",origin:"Converts Star Trek Warp Factors (both TOS and TNG scales) into multiples of the speed of light (c). It's the essential tool for every navigator on the bridge.",howTo:"Select your era (Standard or Classic) and input your Warp Factor. We'll show you exactly how many light-years you'll cover in a day, week, or month.",tips:["In the TNG scale, Warp 10 is infinite speed (and might turn you into a lizard).","Warp 9.9 is significantly faster than Warp 9.","Scotty says he can give you more power, but he's usually lying about the time it takes."],tags:["Star Trek","Sci-Fi","Lore"],content:`
+`,faq:[{question:"Can I increase my count?",answer:"No. You can't inject midi-chlorians (Darth Plagueis tried, it didn't end well). But you can deepen your connection through meditation."},{question:"Are Sith stronger?",answer:"No. The Dark Side is 'quicker, easier, more seductive.' It grants power fast, but it consumes the user. The Light Side requires patience but offers true balance."},{question:"What about the Grey Jedi?",answer:"Legends speak of those who walk the line, but canon suggests balance isn't 'using both sides', it's rejecting the corruption of the Dark entirely."}],relatedCalculators:["lightsaber-battery","beskar-armor","anime-training"]},{id:"warp-speed",title:"Warp Speed Converter",description:"Star Trek Warp Factors to Light Speed.",category:"geekgalaxy",slug:"warp-speed",icon:"🖖",origin:"Converts Star Trek Warp Factors (both TOS and TNG scales) into multiples of the speed of light (c). It's the essential tool for every navigator on the bridge.",howTo:"Select your era (Standard or Classic) and input your Warp Factor. We'll show you exactly how many light-years you'll cover in a day, week, or month.",tips:["In the TNG scale, Warp 10 is infinite speed (and might turn you into a lizard).","Warp 9.9 is significantly faster than Warp 9.","Scotty says he can give you more power, but he's usually lying about the time it takes."],tags:["Star Trek","Sci-Fi","Lore"],content:`
 ## Engaging the Warp Drive
 
 In the Star Trek universe, the Warp Drive uses dilithium crystals to generate a subspace bubble, allowing the ship to move faster than light (FTL) without breaking relativity.
 
 ### The Scales (TOS vs. TNG)
-*   **The Original Series (TOS)**: Used a cubic scale. $Warp Factor^3 	imes c$. Warp 9 was fast, but they often went faster.
-*   **The Next Generation (TNG)**: Recalibrated. Warp 10 is "Infinite Velocity" (occupying all points in the universe simultaneously).
-    *   Warp 1 = $1c$ (Speed of Light)
-    *   Warp 9 = $1516c$
-    *   Warp 9.9 = $3053c$
-    *   Warp 9.99 = $7912c$ (The curve is exponential!)
+* **The Original Series (TOS)**: Used a cubic scale. $Warp Factor^3 	imes c$. Warp 9 was fast, but they often went faster.
+* **The Next Generation (TNG)**: Recalibrated. Warp 10 is "Infinite Velocity" (occupying all points in the universe simultaneously).
+ * Warp 1 = $1c$ (Speed of Light)
+ * Warp 9 = $1516c$
+ * Warp 9.9 = $3053c$
+ * Warp 9.99 = $7912c$ (The curve is exponential!)
 
 ### "Make it So"
 Even at Warp 9, the galaxy is huge. Crossing the Federation (8,000 light years) would take over 5 years. That's why Voyager (70,000 light years away) was stranded for decades.
@@ -928,11 +927,11 @@ Even at Warp 9, the galaxy is huge. Crossing the Federation (8,000 light years) 
 Time travel is messy. If you go back and change something, you risk breaking causality.
 
 ### The Major Theories
-1.  **The Grandfather Paradox**: You go back and kill your grandfather. So you are never born. So you can't go back to kill him. So he lives. So you are born...
-    *   *Result*: The universe crashes (or you just fail).
-2.  **The Multiverse (Avengers/DBZ)**: Going back creates a *new* timeline. You can kill your grandpa, but you just return to a different future. Your original timeline is unchanged.
-3.  **The Bootstrap Paradox**: You go back and give Shakespeare his own plays. He publishes them. Who wrote them? The information has no origin.
-4.  **Frequency Sensitivity (Back to the Future)**: Time is like a river. You can throw a stone (save your parents' marriage) and the ripples change things, but the river flows on.
+1. **The Grandfather Paradox**: You go back and kill your grandfather. So you are never born. So you can't go back to kill him. So he lives. So you are born...
+ * *Result*: The universe crashes (or you just fail).
+2. **The Multiverse (Avengers/DBZ)**: Going back creates a *new* timeline. You can kill your grandpa, but you just return to a different future. Your original timeline is unchanged.
+3. **The Bootstrap Paradox**: You go back and give Shakespeare his own plays. He publishes them. Who wrote them? The information has no origin.
+4. **Frequency Sensitivity (Back to the Future)**: Time is like a river. You can throw a stone (save your parents' marriage) and the ripples change things, but the river flows on.
 
 ### 1.21 Gigawatts
 This calculator checks your intended "Timeline Incursion" against these models to predict the most likely outcome: from "Stable Loop" to "Total Reality Collapse."
@@ -940,12 +939,12 @@ This calculator checks your intended "Timeline Incursion" against these models t
 ## The Legendary Iron
 
 Beskar (Mandalorian Iron) is one of the toughest substances in the galaxy. It can deflect blaster bolts and even withstand glancing blows from a lightsaber.
-For a Mandalorian, Beskar isn't just armor—it's **Religion**.
+For a Mandalorian, Beskar isn't just armor, it's **Religion**.
 
 ### The Alloy
 Pure Beskar is nearly indestructible but heavy. Only Mandalorian Armorers know the secrets to folding it during the forging process (likely using high-frequency vibration and plasma heat).
-*   **Ingots**: The standard currency of the guild.
-*   **Camtono**: An icy-cream maker looking safe used to transport high value Beskar.
+* **Ingots**: The standard currency of the guild.
+* **Camtono**: An icy-cream maker looking safe used to transport high value Beskar.
 
 ### The Cost
 In the post-Imperial era, Beskar was stolen and melted down. Recovering enough for a full suit (Helmet, Cuirass, Pauldrons, Vambraces, Greaves) is a life's work.
@@ -956,29 +955,29 @@ This calculator converts the weight of the armor into "Imperial Credits" and "Be
 The image you are exploring is the **Bifurcation Diagram of the Logistic Map**. It is the "Roadmap to Chaos." It answers a simple question: *If a population grows and dies based on a fixed rate, will it stabilize?*
 
 ### How to Read the Map
-*   **The X-Axis (Growth Rate $r$)**: Moves from a stagnant population (left) to an explosive one (right).
-*   **The Y-Axis (Population)**: Shows the stable population size(s) for that year.
+* **The X-Axis (Growth Rate $r$)**: Moves from a stagnant population (left) to an explosive one (right).
+* **The Y-Axis (Population)**: Shows the stable population size(s) for that year.
 
 ### The Journey
-1.  **$r < 3.0$**: One single line. The population is stable.
-2.  **$r = 3.0$**: The First Split. The population bounces between two numbers (Boom year, Bust year).
-3.  **$r = 3.45$**: The Second Split. Now a 4-year cycle.
-4.  **$r = 3.5699...$**: **CHAOS.** The lines dissolve into a cloud. The population effectively becomes random...
-5.  **...Except for the Windows**: Look at $r=3.83$. Suddenly, order returns! A stable 3-year cycle emerges from the noise. This "Island of Stability" contains a miniature copy of the entire diagram within it.
+1. **$r < 3.0$**: One single line. The population is stable.
+2. **$r = 3.0$**: The First Split. The population bounces between two numbers (Boom year, Bust year).
+3. **$r = 3.45$**: The Second Split. Now a 4-year cycle.
+4. **$r = 3.5699...$**: **CHAOS.** The lines dissolve into a cloud. The population effectively becomes random...
+5. **...Except for the Windows**: Look at $r=3.83$. Suddenly, order returns! A stable 3-year cycle emerges from the noise. This "Island of Stability" contains a miniature copy of the entire diagram within it.
 `,faq:[{question:"Is this just for rabbits?",answer:"No. This pattern (The Feigenbaum Constant) controls dripping faucets, heart fibrillations, and even the onset of turbulence in fluid dynamics."},{question:"What is that white vertical stripe?",answer:"That is an 'Island of Stability' ($r \\approx 3.83$). Even deep in the chaotic zone, certain values force the system back into a predictable rhythm for a short time."},{question:"Why is it called the 'Logistic' map?",answer:"It comes from the 'Logistic Equation' used by Pierre François Verhulst in 1838 to model limited population growth."}],relatedCalculators:["chaos-explorer","chaos-composer","double-pendulum"]},{id:"chaos-composer",title:"The Chaos Composer",description:"Listen to the sound of math.",category:"geekgalaxy",slug:"chaos-composer",icon:"🎵",origin:"What does chaos sound like? By mapping the Logistic Map's output to musical frequencies, we can hear the transition from steady rhythm to complex polyrhythms to white noise.",howTo:"Slide the Growth Rate ($r$) from 2.0 to 4.0. Listen for the 'galloping' rhythm of period-doubling at r=3.0, and the onset of pure noise at r=3.57.",tips:["The 'Feigenbaum Point' at 3.56995 is where the rhythm breaks down forever.","Use the Pentatonic Scale mode to make the chaos sound musical.","Calculated in real-time using the Web Audio API."],tags:["Audio","Math","Chaos Theory"],content:`
 ## Hearing the Math
 
 We usually visualize data, but our ears are actually better at detecting patterns in time. This tool converts the **Logistic Map** (the same formula as the Chaos Microscope) into sound waves.
 
 ### What am I hearing?
-*   **The "Thump-Thump"**: At low values ($r < 3.0$), the math produces a steady, single value. This sounds like a metronome.
-*   **The "Gallop"**: At $r=3.1$, the value splits in two. You hear a *high-low-high-low* rhythm.
-*   **The "Chord"**: As divisions multiply (4, 8, 16...), the rapid oscillation creates a complex, textured tone.
-*   **The "Static"**: Once we hit Chaos ($r > 3.57$), the values are non-repeating. To the human ear, this creates White Noise (pure randomness).
+* **The "Thump-Thump"**: At low values ($r < 3.0$), the math produces a steady, single value. This sounds like a metronome.
+* **The "Gallop"**: At $r=3.1$, the value splits in two. You hear a *high-low-high-low* rhythm.
+* **The "Chord"**: As divisions multiply (4, 8, 16...), the rapid oscillation creates a complex, textured tone.
+* **The "Static"**: Once we hit Chaos ($r > 3.57$), the values are non-repeating. To the human ear, this creates White Noise (pure randomness).
 
 ### Why Music?
-Musicians have used chaos math to generate melodies that sound "human." A completely random melody sounds like trash. A completely repetitive one is boring. Chaos provides "Structured Surprise"—the essence of good jazz.
-`,faq:[{question:"Is this really music?",answer:"It's algorithmic composition. Artists like Aphex Twin and Brian Eno use similar generative systems to create evolving soundscapes."},{question:"Can I use this for sampling?",answer:"Absolutely. The chaotic 'noise' makes for excellent snare drum textures or glitchy percussive backgrounds."},{question:"Why does it sometimes stop making noise?",answer:"At certain high settings, the math can 'escape' to infinity or crash to zero if the starting parameters aren't balanced. Just hit reset!"}],relatedCalculators:["chaos-explorer","chaos-microscope","decibel-detective"]},{id:"butterfly-effect",title:"The Butterfly Effect",description:"Visualizing sensitive dependence.",category:"geekgalaxy",slug:"butterfly-effect",icon:"🦋",origin:"Edward Lorenz discovered that changing a startup variable by 0.0001 changed his entire weather simulation. This is the 'Butterfly Effect'—a hurricane caused by a distant wing flap.",howTo:"Watch two simulations start almost perfectly synced. As time passes, see them violently diverge into completely different paths, proving that long-term prediction is impossible.",tips:["The shape they trace is called the 'Lorenz Attractor'.","They will never cross their own path, and never repeat exactly.","Start a new simulation to see a different divergence pattern."],tags:["Simulation","Chaos Theory","Physics"],content:`
+Musicians have used chaos math to generate melodies that sound "human." A completely random melody sounds like trash. A completely repetitive one is boring. Chaos provides "Structured Surprise", the essence of good jazz.
+`,faq:[{question:"Is this really music?",answer:"It's algorithmic composition. Artists like Aphex Twin and Brian Eno use similar generative systems to create evolving soundscapes."},{question:"Can I use this for sampling?",answer:"Absolutely. The chaotic 'noise' makes for excellent snare drum textures or glitchy percussive backgrounds."},{question:"Why does it sometimes stop making noise?",answer:"At certain high settings, the math can 'escape' to infinity or crash to zero if the starting parameters aren't balanced. Just hit reset!"}],relatedCalculators:["chaos-explorer","chaos-microscope","decibel-detective"]},{id:"butterfly-effect",title:"The Butterfly Effect",description:"Visualizing sensitive dependence.",category:"geekgalaxy",slug:"butterfly-effect",icon:"🦋",origin:"Edward Lorenz discovered that changing a startup variable by 0.0001 changed his entire weather simulation. This is the 'Butterfly Effect', a hurricane caused by a distant wing flap.",howTo:"Watch two simulations start almost perfectly synced. As time passes, see them violently diverge into completely different paths, proving that long-term prediction is impossible.",tips:["The shape they trace is called the 'Lorenz Attractor'.","They will never cross their own path, and never repeat exactly.","Start a new simulation to see a different divergence pattern."],tags:["Simulation","Chaos Theory","Physics"],content:`
 ## Edward Lorenz and the Accident That Founded Chaos Theory
 
 The butterfly effect was not invented by a philosopher musing about fate. It was stumbled upon by a meteorologist who was simply trying to save time. In 1961, Edward Lorenz, a mathematician working at MIT, was running an early computer weather model built from a handful of equations describing how air warms, rises, and circulates. One day he wanted to re-examine a particular sequence, so rather than start the long simulation from the beginning, he typed in numbers from a printout partway through and let it run.
@@ -1054,28 +1053,28 @@ The practical payoff is a hard limit on foresight. To extend your reliable forec
 `,faq:[{question:"Is it random?",answer:"No! It is deterministic. If you start with the *exact* same number, you get the exact same path. The chaos comes from the fact that we can't measure anything exactly."},{question:"What are the attractors?",answer:"They represent the valid states of the system (e.g., 'Stormy' vs 'Sunny'). The weather flips between these regimes unpredictably."},{question:"Is this the movie with Ashton Kutcher?",answer:"Yes, but the math is better than the plot."}],relatedCalculators:["chaos-explorer","chaos-microscope","double-pendulum"]},{id:"superhero-insurance",title:"Superhero Insurance",description:"Calculate property liability in comic book cities.",category:"geekgalaxy",slug:"superhero-insurance",icon:"🛡️",origin:"Living in a city with costumed heroes is a logistical nightmare. This tool calculates your property premiums based on local 'Hero Exposure' and collateral damage risks.",howTo:"Select your jurisdiction (like Gotham or Metropolis) and your primary hero exposure. We'll generate a liability quote including 'Heat-Vision' fire coverage.",tips:["Gotham rates are skewed by chronic arson incidents.","Wakanda is the cheapest jurisdiction due to the Vibranium shield.","Hulk-class events are generally considered 'Acts of Force' and require a rider."],tags:["Comics","Humor","Finance"],content:`
 ## The Cost of Justice
 
-Living in Metropolis is great—until Zod throws a bus through your apartment.
+Living in Metropolis is great, until Zod throws a bus through your apartment.
 Standard Homeowner's Insurance (HO-3) covers fire and wind. It does **not** cover "Acts of Alien Warlords" or "Speedster Sonic Booms."
 
 ### The Risk Zones
-*   **Metropolis**: High risk of structural collapse (Superman fights). Low street crime.
-*   **Gotham**: Extreme risk of vandalism, chemical fear-gas contamination, and theft. But Superman rarely knocks down buildings there.
-*   **New York (Marvel)**: The highest premium. You have Avengers Tower (Alien magnet), Spider-Man (webbing residue removal), and Doctor Strange (reality warping).
+* **Metropolis**: High risk of structural collapse (Superman fights). Low street crime.
+* **Gotham**: Extreme risk of vandalism, chemical fear-gas contamination, and theft. But Superman rarely knocks down buildings there.
+* **New York (Marvel)**: The highest premium. You have Avengers Tower (Alien magnet), Spider-Man (webbing residue removal), and Doctor Strange (reality warping).
 
 ### The "Good Samaritan" Clause
 Most policies have an exclusion for damage caused by "Registered Heroes" in the act of saving the world. You have to sue the city or the Justice League's destruct-fund directly. Good luck with that.
-`,faq:[{question:"Does Hulk Insurance exist?",answer:"Yes, Damage Control (Marvel) offers specific policies for 'Green-Level Events'."},{question:"What about Thanos?",answer:"The 'Blip' was classified as 'Force Majeure' (Act of God). Life insurance didn't pay out because technically nobody died—they just ceased to exist for 5 years."},{question:"Is Vigilante insurance cheaper?",answer:"No. Vigilantes have no oversight. Batman destroys a Batmobile on the highway every Tuesday. Your car insurance premiums in Gotham are astronomical."}],relatedCalculators:["cost-of-war","zombie-survival","billionaire-buyout"]},{id:"anime-training",title:"Anime Training Montage Planner",description:"Plan your ultimate training arc.",category:"otakuops",slug:"anime-training",icon:"💪",origin:"Inspired by the legendary training arcs of Shonen history. Whether you're preparing for a tournament or a final showdown, every hero needs a structured plan to break their limits.",howTo:"Input your current power level and your goal. We'll generate a high-intensity training schedule complete with push-ups, running, and the mandatory 'secret technique' meditation sessions.",tips:["Don't forget to shout your attacks for 20% more damage.","100 push-ups, 100 sit-ups, and 10km running is a classic for a reason.","Make sure to have a sad backstory for maximum motivation."],tags:["Anime","Training","Fitness"],content:`
+`,faq:[{question:"Does Hulk Insurance exist?",answer:"Yes, Damage Control (Marvel) offers specific policies for 'Green-Level Events'."},{question:"What about Thanos?",answer:"The 'Blip' was classified as 'Force Majeure' (Act of God). Life insurance didn't pay out because technically nobody died, they just ceased to exist for 5 years."},{question:"Is Vigilante insurance cheaper?",answer:"No. Vigilantes have no oversight. Batman destroys a Batmobile on the highway every Tuesday. Your car insurance premiums in Gotham are astronomical."}],relatedCalculators:["cost-of-war","zombie-survival","billionaire-buyout"]},{id:"anime-training",title:"Anime Training Montage Planner",description:"Plan your ultimate training arc.",category:"otakuops",slug:"anime-training",icon:"💪",origin:"Inspired by the legendary training arcs of Shonen history. Whether you're preparing for a tournament or a final showdown, every hero needs a structured plan to break their limits.",howTo:"Input your current power level and your goal. We'll generate a high-intensity training schedule complete with push-ups, running, and the mandatory 'secret technique' meditation sessions.",tips:["Don't forget to shout your attacks for 20% more damage.","100 push-ups, 100 sit-ups, and 10km running is a classic for a reason.","Make sure to have a sad backstory for maximum motivation."],tags:["Anime","Training","Fitness"],content:`
 ## Break Your Limits
 
 In anime, the human body has no ceiling. If you push hard enough, your hair turns gold and you can punch a planet in half.
 In reality, your tendons snap. But let's dream.
 
 ### The Saitama Regimen (One Punch Man)
-*   100 Push-ups
-*   100 Sit-ups
-*   100 Squats
-*   10km Run
-*   **Every. Single. Day.**
+* 100 Push-ups
+* 100 Sit-ups
+* 100 Squats
+* 10km Run
+* **Every. Single. Day.**
 Result: Infinite power. (Side effect: Baldness).
 
 ### Gravity Training (Dragon Ball Z)
@@ -1084,21 +1083,21 @@ Goku trains at 100x Earth's gravity on the way to Namek.
 `,faq:[{question:"Will 100 pushups make me strong?",answer:"Yes, but you'll hit a plateau quickly. Progressive overload (adding weight) is better than adding volume (doing more reps)."},{question:"How do I unlock The Zone?",answer:"It's a real psychological state called 'Flow'. Professional athletes hit it when the challenge perfectly matches their skill level."},{question:"Can I learn the Kamehameha?",answer:"We are still waiting on peer-reviewed studies for Ki manipulation. Start with the pushups first."}],relatedCalculators:["force-sensitivity","superhero-insurance","space-marine-survival"]},{id:"minecraft-portal",title:"Minecraft Portal Planner",description:"Link Nether portals correctly.",category:"otakuops",slug:"minecraft-portal",icon:"🔥",origin:"Space is warped between the Overworld and the Nether. A single block in the Nether equals eight in the Overworld, making portal placement a precision engineering task.",howTo:"Input your Overworld coordinates, and we'll tell you exactly where to build your Nether portal to ensure they link perfectly without sending you into a lava lake.",tips:["Divide Overworld X and Z by 8 to get Nether coordinates.","Height (Y) doesn't matter for linking, but it's good for safety.","Always carry Flint and Steel on both sides!"],tags:["Gaming","Minecraft","Utility"],content:`
 ## The Mechanics of Dimension Hopping
 
-Connecting Nether portals isn't magic—it's math. Specifically, it's a coordinate transformation ratio of **8:1**. For every block you travel horizontally in the Nether, you travel 8 blocks in the Overworld. This mechanic is the backbone of high-efficiency travel networks, allowing players to traverse thousands of blocks in seconds.
+Connecting Nether portals isn't magic, it's math. Specifically, it's a coordinate transformation ratio of **8:1**. For every block you travel horizontally in the Nether, you travel 8 blocks in the Overworld. This mechanic is the backbone of high-efficiency travel networks, allowing players to traverse thousands of blocks in seconds.
 
 ### Why Your Portals Don't Link
 If you've ever built a portal in your base, traveled to the Nether, and returned only to spawn in a cave 200 blocks away from your house, you've been a victim of **Portal Drift**.
 
 The game looks for the closest active portal within a 128-block radius (in the Nether). If your calculated coordinates are blocked by lava or netherrack, the game shifts the portal generation. To fix this, you must **manually sync** your portals:
 
-1.  Note your Overworld coordinates (F3 key).
-2.  Divide X and Z by 8 (Y coordinate acts differently—see FAQ).
-3.  Go to the Nether, break the drift portal, and rebuild it at the *exact* calculated coordinates.
+1. Note your Overworld coordinates (F3 key).
+2. Divide X and Z by 8 (Y coordinate acts differently, see FAQ).
+3. Go to the Nether, break the drift portal, and rebuild it at the *exact* calculated coordinates.
 
 ### Pro-Tip: The Y-Level Strat
 While X and Z are strictly bound by the 8:1 ratio, the Y-level (height) is crucial for safety.
-*   **Nether Ceiling (Y=120+):** Safest for transport hubs. Break through the bedrock for ghast-free travel.
-*   **Lava Sea Level (Y=31):** Dangerous bridge building, but great for Ancient Debris mining.
+* **Nether Ceiling (Y=120+):** Safest for transport hubs. Break through the bedrock for ghast-free travel.
+* **Lava Sea Level (Y=31):** Dangerous bridge building, but great for Ancient Debris mining.
 `,faq:[{question:"Do I divide the Y coordinate?",answer:"No. The 8:1 ratio only applies to X and Z. However, the game tries to match height if possible, so keeping them relatively similar helps prevent 'accidental linking' to cave portals."},{question:"Can I link multiple Overworld portals to one Nether hub?",answer:"Yes! As long as each Overworld portal is at least 1024 blocks apart, they can easily link to distinct Nether portals widely spaced (128 blocks) without interference."},{question:"Why did I spawn in a wall?",answer:"Portal suffocation happens when the target coordinates are inside solid blocks. Always carry a Diamond Pickaxe and Flint & Steel."}],relatedCalculators:["anime-training","gacha-despair","warp-travel"]},{id:"gacha-despair",title:"Gacha Pit of Despair",description:"Probability and 'Salt' accumulation forecaster.",category:"otakuops",slug:"gacha-despair",icon:"🌟",origin:"Inspired by the high-stakes world of gacha gaming. This tool uses probability theory to check the 'Pity' threshold and emotional cost of a failed pull.",howTo:"Input your target's drop rate and your planned number of pulls. We'll visualize the exact likelihood of success and the resulting 'Salt' level if you fail.",tips:["A 0.6% rate is standard for many top-tier gacha games.","The 'Pity' cap is often the only way to guarantee a win.","Expectations are the root of all gacha-related despair."],tags:["Gaming","Gacha","Mobile"],content:`
 ## The Skinner Box
 
@@ -1107,13 +1106,13 @@ They rely on **Variable Ratio Reinforcement**: You know a reward is coming, but 
 
 ### The Math of Pity
 Most games have a "Pity System" (e.g., guaranteed 5-star at 90 pulls).
-*   **Without Pity**: Probability is a cruel mistress. You could pull 1,000 times and get nothing.
-*   **With Pity**: It turns gambling into a purchase... just a very anxious, expensive purchase.
+* **Without Pity**: Probability is a cruel mistress. You could pull 1,000 times and get nothing.
+* **With Pity**: It turns gambling into a purchase... just a very anxious, expensive purchase.
 
 ### Whales vs. F2P
-*   **F2P (Free to Play)**: Pays with time (grinding).
-*   **Whale**: Pays with money (thousands of dollars).
-*   **Leviathan**: Pays with... we assume bank robbery proceeds.
+* **F2P (Free to Play)**: Pays with time (grinding).
+* **Whale**: Pays with money (thousands of dollars).
+* **Leviathan**: Pays with... we assume bank robbery proceeds.
 `,faq:[{question:"Is it rigged?",answer:"Legally, they must publish the rates (e.g., 0.6%). But algorithms can be opaque. Generally, math is just naturally brutal without pity systems."},{question:"How much is a 'spark'?",answer:"Usually 300 pulls. At $2.50 a pull, that's $750 for a jpeg of a waifu. Choose wisely."},{question:"Can I beat the odds?",answer:"No. The House always wins. The only winning move is to play for characters you love, not for 'meta' power."}],relatedCalculators:["fire-number","unspent-potential","inflation-impact"]},{id:"conspiracy-theory",title:"Conspiracy Plausibility",description:"Is the truth really out there?",category:"otakuops",slug:"conspiracy-theory",icon:"👁️",origin:"Based on the 'Conspiracy Equation' by Dr. David Robert Grimes. It calculates how long a secret can actually be kept based on the number of people involved.",howTo:"Input the scale of the conspiracy and the number of people who would need to keep quiet. We'll tell you the statistical likelihood of the 'truth' leaking within a year.",tips:["Three can keep a secret, if two are dead.","Moon landing conspiracies involve too many people to stay secret.","The 'Birds Aren't Real' theory is 100% plausible (just kidding... or am I?)."],tags:["Humor","Logic","Internet Culture"],content:`
 ## Connecting the Dots
 
@@ -1121,13 +1120,13 @@ Humans are pattern-seeking machines. We see faces in clouds and conspiracies in 
 The **Conspiracy Correlation Coefficient ($C^3$)** measures how deep down the rabbit hole you are.
 
 ### Occam's Razor vs. The Truth
-*   **Occam's Razor**: The simplest explanation is usually right. (The government is just incompetent, not evil).
-*   **The Theorist's Butterknife**: The most complex explanation is the most fun. (The government is run by Lizard People who feed on incompetence).
+* **Occam's Razor**: The simplest explanation is usually right. (The government is just incompetent, not evil).
+* **The Theorist's Butterknife**: The most complex explanation is the most fun. (The government is run by Lizard People who feed on incompetence).
 
 ### The Scale
-*   **Level 1**: "The government listens to my phone." (Proven Fact).
-*   **Level 5**: "JFK is alive and running a crypto scam in the Bahamas." (Unlikely).
-*   **Level 10**: "The Earth is hollow and holds a second sun." (Seek help).
+* **Level 1**: "The government listens to my phone." (Proven Fact).
+* **Level 5**: "JFK is alive and running a crypto scam in the Bahamas." (Unlikely).
+* **Level 10**: "The Earth is hollow and holds a second sun." (Seek help).
 `,faq:[{question:"Are birds real?",answer:"No. They are government surveillance drones recharging on power lines. (This is a meme, please treat birds with respect)."},{question:"Is the Earth flat?",answer:"No. Ancient Greeks proved it was round with two sticks. Don't go backwards."},{question:"Why do we love conspiracies?",answer:"It feels good to have 'secret knowledge'. It makes a chaotic world feel ordered and intentional, even if the intentions are bad."}],relatedCalculators:["alien-communication","ai-doomsday","steganography-brush"]},{id:"pizza-pi",title:"Pizza Pi Calculator",description:"Optimize your pizza orders.",category:"mathmagik",slug:"pizza-pi",icon:"🍕",origin:"Geometry meets Gastronomy. Most people don't realize that an 18-inch pizza has more than double the area of a 12-inch pizza. This tool ensures you get the most 'pi' for your buck.",howTo:"Enter the sizes and prices of the pizzas you're considering. We'll calculate the price per square inch, so you can make the mathematically superior choice.",tips:["Always go for the larger size if the price isn't double.","The crust-to-topping ratio is a hidden variable.","Mathematics is the secret topping of every good deal."],tags:["Food","Math"],content:`
 ## The Pizza Geometry Conspiracy
 Pizzerias quietly count on one thing: that you will compare prices instead of comparing area. The menu lists a 12-inch, a 14-inch, and an 18-inch, and your brain reaches for the smallest number and calls it the cheap option. But a pizza is a circle, and circles do not grow politely. Add a few inches to the diameter and the amount of actual pizza explodes. This calculator exists to strip away that illusion. You enter the diameter and the price of each option, and it returns the single number that actually settles the argument: the price per square inch.
@@ -1237,7 +1236,7 @@ The 25x figure is a powerful starting estimate, but a clean formula hides some r
 - Which assets count: only include income-producing assets like index funds and rental properties. Your primary home lowers your expenses but does not generate the cash you spend on groceries.
 
 This calculator is an educational estimate, not financial advice. The 4 percent rule is a historical guideline backtested on past US market data, and the future is never guaranteed to mirror the past. Treat your FIRE number as a target to aim for and revisit, and consult a qualified financial professional before making real retirement decisions.
-`,faq:[{question:"Does this include inflation?",answer:"Yes, the 4% rule assumes you increase your withdrawal amount by the inflation rate each year."},{question:"What about healthcare?",answer:"That's the biggest wildcard in the US. Most FIRE adherents budget heavily for private insurance or move to countries with affordable care (Geo-Arbitrage)."},{question:"Is 4% still safe?",answer:"Some economists argue 3.5% is safer in a low-yield environment. Better to save a bit extra (28x or 30x expenses) to be bulletproof."},{question:"What if the market crashes?",answer:"The 4% rule was backtested against massive historical crashes (like the Great Depression). While a crash during your first year of retirement (Sequence of Returns Risk) is dangerous, over a 30-year horizon, the market's recovery typically outpaces the drawdowns."},{question:"Should I include my house in my net worth?",answer:"For FIRE calculations, you only include *income-producing* assets (like index funds or rental properties). Your primary residence reduces your living expenses, but it doesn't generate the liquid cash you need to buy groceries."}],relatedCalculators:["inflation-impact","billionaire-buyout","time-is-money"]},{id:"double-pendulum",title:"Double Pendulum Chaos",description:"Simulate chaotic physics.",category:"mathmagik",slug:"double-pendulum",icon:"〰️",origin:"A classic example of a simple system with complex, non-linear behavior. Even a tiny change in the starting angle leads to a completely different path—this is the heart of Chaos Theory.",howTo:"Drag the pendulums to set their starting positions and hit 'Release'. Watch the hypnotic, unpredictable patterns emerge as the system fights against gravity.",tips:["Try starting with both arms horizontal for maximum chaos.","Notice how the path never repeats itself.","The 'Butterfly Effect' is naming this very phenomenon."],tags:["Physics","Chaos Theory"],content:`
+`,faq:[{question:"Does this include inflation?",answer:"Yes, the 4% rule assumes you increase your withdrawal amount by the inflation rate each year."},{question:"What about healthcare?",answer:"That's the biggest wildcard in the US. Most FIRE adherents budget heavily for private insurance or move to countries with affordable care (Geo-Arbitrage)."},{question:"Is 4% still safe?",answer:"Some economists argue 3.5% is safer in a low-yield environment. Better to save a bit extra (28x or 30x expenses) to be bulletproof."},{question:"What if the market crashes?",answer:"The 4% rule was backtested against massive historical crashes (like the Great Depression). While a crash during your first year of retirement (Sequence of Returns Risk) is dangerous, over a 30-year horizon, the market's recovery typically outpaces the drawdowns."},{question:"Should I include my house in my net worth?",answer:"For FIRE calculations, you only include *income-producing* assets (like index funds or rental properties). Your primary residence reduces your living expenses, but it doesn't generate the liquid cash you need to buy groceries."}],relatedCalculators:["inflation-impact","billionaire-buyout","time-is-money"]},{id:"double-pendulum",title:"Double Pendulum Chaos",description:"Simulate chaotic physics.",category:"mathmagik",slug:"double-pendulum",icon:"〰️",origin:"A classic example of a simple system with complex, non-linear behavior. Even a tiny change in the starting angle leads to a completely different path, this is the heart of Chaos Theory.",howTo:"Drag the pendulums to set their starting positions and hit 'Release'. Watch the hypnotic, unpredictable patterns emerge as the system fights against gravity.",tips:["Try starting with both arms horizontal for maximum chaos.","Notice how the path never repeats itself.","The 'Butterfly Effect' is naming this very phenomenon."],tags:["Physics","Chaos Theory"],content:`
 ## A Single Pendulum Is Boring. Two Is Pure Chaos.
 Hang a weight from a string and let it swing, and you have one of the most predictable objects in all of physics. A single pendulum keeps almost perfect time. Push it a little harder and it swings a little wider, but the motion stays smooth, regular, and repeatable. Galileo used one to time his pulse. We used them to run clocks for three hundred years. You can write down exactly where it will be ten minutes, ten hours, or ten years from now.
 
@@ -1283,7 +1282,7 @@ The double pendulum is more than a desk toy. It is the gateway example for an en
 The double pendulum teaches the single most counterintuitive idea in modern physics: a system can obey perfectly strict, knowable laws and still be impossible to predict. Determinism and predictability are not the same thing.
 
 Set both arms horizontal for maximum chaos, hit release, and watch a simple machine refuse to ever repeat itself. You are looking at the edge of what science can foresee, rendered as a hypnotic, frictionless dance.
-`,faq:[{question:"Will it ever repeat?",answer:"Theoretically, yes, via the Poincaré Recurrence Theorem, but you'd likely have to wait longer than the age of the universe."},{question:"Can I build one?",answer:"Yes! Two ruler sticks and a skateboard bearing are all you need. It's a great desk toy."},{question:"Is this perpetual motion?",answer:"No. In the real world, friction (air resistance and bearing drag) will eventually stop it. Our simulation is frictionless for maximum chaos."}],relatedCalculators:["chaos-explorer","chaos-microscope","chaos-composer"]},{id:"chaos-explorer",title:"Chaos Theory Explorer",description:"Visualize the Butterfly Effect.",category:"mathmagik",slug:"chaos-explorer",icon:"🦋",origin:"The Lorenz Attractor and Mandelbrot Sets show that order can exist within chaos. This explorer lets you visualize the beautiful, fractaling complexity of the universe.",howTo:"Select a chaotic model and adjust the parameters. Watch as simple equations create infinite, self-similar patterns that mimic everything from clouds to heartbeats.",tips:["Zoom in to see the infinite detail of a fractal.","Small changes in 'r' values can lead to 'bifurcation'—the sudden split into multiple states.","Nature is built on fractal geometry."],tags:["Math","Chaos Theory"],content:`
+`,faq:[{question:"Will it ever repeat?",answer:"Theoretically, yes, via the Poincaré Recurrence Theorem, but you'd likely have to wait longer than the age of the universe."},{question:"Can I build one?",answer:"Yes! Two ruler sticks and a skateboard bearing are all you need. It's a great desk toy."},{question:"Is this perpetual motion?",answer:"No. In the real world, friction (air resistance and bearing drag) will eventually stop it. Our simulation is frictionless for maximum chaos."}],relatedCalculators:["chaos-explorer","chaos-microscope","chaos-composer"]},{id:"chaos-explorer",title:"Chaos Theory Explorer",description:"Visualize the Butterfly Effect.",category:"mathmagik",slug:"chaos-explorer",icon:"🦋",origin:"The Lorenz Attractor and Mandelbrot Sets show that order can exist within chaos. This explorer lets you visualize the beautiful, fractaling complexity of the universe.",howTo:"Select a chaotic model and adjust the parameters. Watch as simple equations create infinite, self-similar patterns that mimic everything from clouds to heartbeats.",tips:["Zoom in to see the infinite detail of a fractal.","Small changes in 'r' values can lead to 'bifurcation', the sudden split into multiple states.","Nature is built on fractal geometry."],tags:["Math","Chaos Theory"],content:`
 ## What the Logistic Map Actually Models
 Imagine a population of fish in an isolated pond, counted once a year. Two forces pull against each other. When the pond is nearly empty, there is plenty of food and space, so the population multiplies quickly. When the pond is crowded, fish compete, starve, and breed less, so growth collapses. The logistic map is the simplest equation that captures both forces at once, and it is the engine running underneath this explorer.
 
@@ -1545,7 +1544,7 @@ The same 90-minute logic governs daytime sleep, which is why some naps refresh y
 If you only have an awkward window, take the short nap, not the medium one.
 
 A final, honest caveat: 90 minutes and 14 minutes are population averages, not personal law. Real cycles drift between roughly 80 and 120 minutes and shift across the night and with age. Treat these times as a smart starting point, then adjust based on how you actually feel waking up. Your own pattern is the real answer this tool is helping you find.
-`,faq:[{question:"What if I take longer than 14 minutes to fall asleep?",answer:"The 14-minute rule is an average baseline. If you consistently toss and turn for 30 minutes, you should manually adjust your bedtime backward to compensate for the latency."},{question:"Are naps mathematically viable?",answer:"Yes! A 20-minute power nap keeps you in Light Sleep so you don't wake up groggy. A 90-minute nap gives you one full restorative cycle. Anything in between (like 45 minutes) traps you in Deep Sleep and ruins your afternoon."},{question:"Does alcohol affect sleep cycles?",answer:"Massively. Alcohol may help you fall asleep faster, but it severely disrupts REM sleep in the second half of the night, meaning you get poorer quality cycles overall."},{question:"Is 8 hours a myth?",answer:"Mostly. 7.5 hours (5 full cycles) or 9 hours (6 full cycles) align better with human biology than an arbitrary flat 8 hours."},{question:"Can I train myself to need fewer cycles?",answer:"You can force yourself to sleep less, but cognitive performance demonstrably drops. A tiny percentage of the population has a 'short sleep' genetic mutation, but for the rest of us, 4-5 cycles is the absolute biological floor."}],relatedCalculators:["caffeine-half-life","procrastination-roi","social-media-addiction"]},{id:"calorie-deficit",title:"Calorie Deficit Calculator",description:"Compare the calories you eat against the calories you burn.",category:"lifehacks",slug:"calorie-deficit",icon:"🔥",origin:"Your weight is governed by one stubborn equation: energy in versus energy out. Eat less than you burn and you lose weight; eat more and you gain. This tool makes that invisible balance visible.",howTo:"Tap to add what you ate from the quick menu (or add a custom item), then enter a few body basics and your steps. We estimate the calories you burned and subtract them from what you ate to reveal your daily surplus or deficit.",tips:["Your BMR — the energy you burn just existing — dwarfs a day of walking (roughly 1,500–1,800 kcal vs ~180 for 4,000 steps).","About 3,500 kcal is often quoted as one pound of fat, but real-world loss is slower and non-linear.","Small, consistent deficits are far easier to sustain than crash diets — and you keep the results."],tags:["Health","Fitness"],content:`
+`,faq:[{question:"What if I take longer than 14 minutes to fall asleep?",answer:"The 14-minute rule is an average baseline. If you consistently toss and turn for 30 minutes, you should manually adjust your bedtime backward to compensate for the latency."},{question:"Are naps mathematically viable?",answer:"Yes! A 20-minute power nap keeps you in Light Sleep so you don't wake up groggy. A 90-minute nap gives you one full restorative cycle. Anything in between (like 45 minutes) traps you in Deep Sleep and ruins your afternoon."},{question:"Does alcohol affect sleep cycles?",answer:"Massively. Alcohol may help you fall asleep faster, but it severely disrupts REM sleep in the second half of the night, meaning you get poorer quality cycles overall."},{question:"Is 8 hours a myth?",answer:"Mostly. 7.5 hours (5 full cycles) or 9 hours (6 full cycles) align better with human biology than an arbitrary flat 8 hours."},{question:"Can I train myself to need fewer cycles?",answer:"You can force yourself to sleep less, but cognitive performance demonstrably drops. A tiny percentage of the population has a 'short sleep' genetic mutation, but for the rest of us, 4-5 cycles is the absolute biological floor."}],relatedCalculators:["caffeine-half-life","procrastination-roi","social-media-addiction"]},{id:"calorie-deficit",title:"Calorie Deficit Calculator",description:"Compare the calories you eat against the calories you burn.",category:"lifehacks",slug:"calorie-deficit",icon:"🔥",origin:"Your weight is governed by one stubborn equation: energy in versus energy out. Eat less than you burn and you lose weight; eat more and you gain. This tool makes that invisible balance visible.",howTo:"Tap to add what you ate from the quick menu (or add a custom item), then enter a few body basics and your steps. We estimate the calories you burned and subtract them from what you ate to reveal your daily surplus or deficit.",tips:["Your BMR, the energy you burn just existing, dwarfs a day of walking (roughly 1,500–1,800 kcal vs ~180 for 4,000 steps).","About 3,500 kcal is often quoted as one pound of fat, but real-world loss is slower and non-linear.","Small, consistent deficits are far easier to sustain than crash diets, and you keep the results."],tags:["Health","Fitness"],content:`
 ## The Energy-Balance Equation
 Your body weight is governed by one stubborn relationship, and it is not nearly as mysterious as the diet industry wants you to believe. Every single day your body spends a certain amount of energy, and you take a certain amount in through food and drink. Subtract one from the other and you have your answer:
 - Eat fewer calories than you burn and you are in a deficit. Over time, you lose weight.
@@ -1597,7 +1596,7 @@ Next, it multiplies that BMR by an activity multiplier chosen from your general 
 That sum is your calories out. Your calories in is simply the total of every food item on your plate. The headline figure is the difference: net equals calories in minus calories out. A negative net is a deficit, a positive net is a surplus, and near zero is maintenance. The weekly weight projection is just that daily net carried across seven days and converted using the 3,500-per-pound rule of thumb.
 
 Every number here is a well-informed estimate, not a lab measurement or medical advice. BMR formulas, food calorie values, and step-burn rates all vary from person to person. Use the result as a reliable ballpark to guide gentle, consistent choices, and talk to a doctor or dietitian before making significant changes to how you eat.
-`,faq:[{question:"What is a calorie deficit?",answer:"It's when you consume fewer calories than your body burns in a day. Sustained over time, a deficit is what causes weight loss."},{question:"How accurate is this calculator?",answer:"It's a solid estimate, not a lab measurement. BMR formulas, food calorie values, and step-burn rates all vary between individuals, so treat the result as a well-informed ballpark rather than an exact figure."},{question:"Why is my BMR so much bigger than my steps?",answer:"Because simply staying alive is metabolically expensive. Your organs run 24/7, which costs far more energy than a walk. That's why tweaking food intake usually moves the needle more than adding steps."},{question:"How fast can I safely lose weight?",answer:"Most guidance points to about 0.5–1 lb per week, from a daily deficit of roughly 300–500 calories. Faster than that tends to cost muscle and rarely sticks."},{question:"Is the 3,500-calories-per-pound rule real?",answer:"It's a useful rule of thumb, not a law. Real bodies adapt — metabolism shifts as you lose weight — so actual loss is slower and less linear than the simple math suggests."}],relatedCalculators:["sleep-cycle","caffeine-half-life","stress-ice-cream"]},{id:"procrastination-roi",title:"Procrastination ROI",description:"Visualize when the Panic Monster will strike.",category:"lifehacks",slug:"procrastination-roi",icon:"💣",origin:"Based on Tim Urban's 'Wait But Why' procrastination theory. We track the delicate balance between the Rational Decision Maker and the Instant Gratification Monkey.",howTo:"Input your deadline and your current 'distraction level'. We'll map the growth of the 'Panic Monster' and predict exactly when you'll actually start working.",tips:["Break big tasks into tiny, non-scary steps.","The '5-Minute Rule': just do it for 5 minutes, and then you can stop.","Your future self will thank you for starting now."],tags:["Productivity","Psychology"],content:`
+`,faq:[{question:"What is a calorie deficit?",answer:"It's when you consume fewer calories than your body burns in a day. Sustained over time, a deficit is what causes weight loss."},{question:"How accurate is this calculator?",answer:"It's a solid estimate, not a lab measurement. BMR formulas, food calorie values, and step-burn rates all vary between individuals, so treat the result as a well-informed ballpark rather than an exact figure."},{question:"Why is my BMR so much bigger than my steps?",answer:"Because simply staying alive is metabolically expensive. Your organs run 24/7, which costs far more energy than a walk. That's why tweaking food intake usually moves the needle more than adding steps."},{question:"How fast can I safely lose weight?",answer:"Most guidance points to about 0.5–1 lb per week, from a daily deficit of roughly 300–500 calories. Faster than that tends to cost muscle and rarely sticks."},{question:"Is the 3,500-calories-per-pound rule real?",answer:"It's a useful rule of thumb, not a law. Real bodies adapt, metabolism shifts as you lose weight, so actual loss is slower and less linear than the simple math suggests."}],relatedCalculators:["sleep-cycle","caffeine-half-life","stress-ice-cream"]},{id:"procrastination-roi",title:"Procrastination ROI",description:"Visualize when the Panic Monster will strike.",category:"lifehacks",slug:"procrastination-roi",icon:"💣",origin:"Based on Tim Urban's 'Wait But Why' procrastination theory. We track the delicate balance between the Rational Decision Maker and the Instant Gratification Monkey.",howTo:"Input your deadline and your current 'distraction level'. We'll map the growth of the 'Panic Monster' and predict exactly when you'll actually start working.",tips:["Break big tasks into tiny, non-scary steps.","The '5-Minute Rule': just do it for 5 minutes, and then you can stop.","Your future self will thank you for starting now."],tags:["Productivity","Psychology"],content:`
 ## Procrastination Is Not a Character Flaw
 If you have ever sat down to start an important task, felt a strange wave of dread, and then suddenly found yourself reorganizing your desktop or watching one more video, you are not lazy and you are not broken. Decades of research in behavioral psychology point to a single uncomfortable truth: procrastination is an emotion-regulation problem, not a time-management problem.
 
@@ -1684,7 +1683,7 @@ Seeing the total is step one. Spending less is step two, and it does not require
 - Schedule a digital detox window. A screen-light Sunday, or even a single phone-free evening, resets your tolerance and proves the world keeps turning without the feed.
 
 A note on why quitting feels so hard, and why that is not a personal failing: heavy scrolling repeatedly spikes dopamine, and over time your baseline receptors down-regulate. Slower, richer activities, reading, deep work, a real conversation, start to feel boring by comparison. That sensation is reversible, but it is also exactly the dependency the design intends. The calculator gives you the one thing the apps work hardest to hide: a clear, checkable view of what the habit truly costs, so the decision about your time becomes yours again.
-`,faq:[{question:"Is screen time actually bad for my brain?",answer:"Yes. Endless scrolling artificially spikes your dopamine. Over time, your baseline dopamine receptors down-regulate, making normal, slower activities (like reading or working) feel excruciatingly boring."},{question:"How much screen time is 'normal'?",answer:"The global average for internet users is nearly 2.5 hours on social media alone. However, 'normal' is not 'healthy'. Aiming for under 30 minutes significantly improves mental wellbeing."},{question:"Why is it so hard to stop?",answer:"Because apps use 'Variable Ratio Reinforcement'. You never know what the next post will be—it might be boring, or it might be amazing. This unpredictability is the most addictive behavioral loop in psychology."},{question:"Does turning my screen to grayscale actually work?",answer:"Absolutely. Bright colors (especially red notification dots) trigger primal attention centers in your visual cortex. Grayscale removes the candy-like appeal of the interface."},{question:"Is this calculator judging me?",answer:"No, it's just doing the math! The goal isn't guilt; the goal is agency. Once you see the true cost of your time, you can make informed decisions about how you spend it."}],relatedCalculators:["procrastination-roi","time-is-money","life-visualized"]},{id:"coffee-code",title:"Coffee to Code Efficiency",description:"Calculate caffeine-fueled productivity.",category:"lifehacks",slug:"coffee-code",icon:"☕",origin:"Computer science legend says that a programmer is a machine for turning coffee into code. This tool calculates the 'Goldilocks Zone' of caffeination for maximum output.",howTo:"Log your caffeine intake and track your lines of code (or finished tasks). We'll find the peak efficiency point where your focus is laser-sharp before the jitters take over.",tips:["Hydrate with water between cups of coffee.","Coffee-fueled productivity peaks about 45 minutes after ingestion.","Avoid caffeine 6 hours before your intended sleep time."],tags:["Productivity","Work"],content:`
+`,faq:[{question:"Is screen time actually bad for my brain?",answer:"Yes. Endless scrolling artificially spikes your dopamine. Over time, your baseline dopamine receptors down-regulate, making normal, slower activities (like reading or working) feel excruciatingly boring."},{question:"How much screen time is 'normal'?",answer:"The global average for internet users is nearly 2.5 hours on social media alone. However, 'normal' is not 'healthy'. Aiming for under 30 minutes significantly improves mental wellbeing."},{question:"Why is it so hard to stop?",answer:"Because apps use 'Variable Ratio Reinforcement'. You never know what the next post will be, it might be boring, or it might be amazing. This unpredictability is the most addictive behavioral loop in psychology."},{question:"Does turning my screen to grayscale actually work?",answer:"Absolutely. Bright colors (especially red notification dots) trigger primal attention centers in your visual cortex. Grayscale removes the candy-like appeal of the interface."},{question:"Is this calculator judging me?",answer:"No, it's just doing the math! The goal isn't guilt; the goal is agency. Once you see the true cost of your time, you can make informed decisions about how you spend it."}],relatedCalculators:["procrastination-roi","time-is-money","life-visualized"]},{id:"coffee-code",title:"Coffee to Code Efficiency",description:"Calculate caffeine-fueled productivity.",category:"lifehacks",slug:"coffee-code",icon:"☕",origin:"Computer science legend says that a programmer is a machine for turning coffee into code. This tool calculates the 'Goldilocks Zone' of caffeination for maximum output.",howTo:"Log your caffeine intake and track your lines of code (or finished tasks). We'll find the peak efficiency point where your focus is laser-sharp before the jitters take over.",tips:["Hydrate with water between cups of coffee.","Coffee-fueled productivity peaks about 45 minutes after ingestion.","Avoid caffeine 6 hours before your intended sleep time."],tags:["Productivity","Work"],content:`
 ## A Mathematician Is a Device for Turning Coffee Into Theorems
 The programmer's version of that old joke is only half a joke. Caffeine is the most widely used cognitive enhancer on Earth, and for focused, repetitive knowledge work, writing code, drafting, debugging, grinding through tickets, it genuinely sharpens attention. But the relationship between how much you drink and how much you produce is not a straight line going up. It is a hill. This tool exists to find the top of that hill: the dose where your focus is laser-sharp, before the jitters arrive and quietly start writing bugs for you.
 
@@ -2044,22 +2043,22 @@ In the grim darkness of the far future, sometimes a planet is too corrupted to s
 **Exterminatus** is the complete destruction of a biosphere. It is not done lightly (usually).
 
 ### The Methods
-1.  **Cyclonic Torpedoes**: Which burrow into the core and crack the planet like an egg.
-2.  **Virus Bombs (Life-Eater)**: A biological agent that dissolves all organic matter into sludge in minutes. The gas released then ignites, burning the atmosphere.
-3.  **Orbital Bombardment**: Just shooting it until nothing is left standing.
+1. **Cyclonic Torpedoes**: Which burrow into the core and crack the planet like an egg.
+2. **Virus Bombs (Life-Eater)**: A biological agent that dissolves all organic matter into sludge in minutes. The gas released then ignites, burning the atmosphere.
+3. **Orbital Bombardment**: Just shooting it until nothing is left standing.
 
 ### The Bureaucracy
 An Inquisitor doesn't just push a button. They must calculate:
-*   **The Cost of the Munitions**: Trillions of Thrones.
-*   **The Loss of Tithes**: The planet will produce nothing for 10,000 years.
-*   **The Strategic Value**: Is it worth denying the enemy this rock?
+* **The Cost of the Munitions**: Trillions of Thrones.
+* **The Loss of Tithes**: The planet will produce nothing for 10,000 years.
+* **The Strategic Value**: Is it worth denying the enemy this rock?
 `,faq:[{question:"Who authorizes it?",answer:"An Inquisitor, a Chapter Master, or a Lord High Admiral. Though Kryptman did it to dozens of worlds just to slow down the Tyranids."},{question:"Can you survive it?",answer:"No. Even deep bunkers are usually crushed or incinerated. Exterminatus is absolute."},{question:"Why not just invade?",answer:"Sometimes the corruption (Chaos or Tyranids) is so deep that 'victory' is impossible. Better to have a dead world than a Daemon world."}],relatedCalculators:["cost-of-war","space-marine-survival","golden-throne-tithe"]},{id:"space-marine-survival",title:"Space Marine Survival Index",description:"How long would you last against an Astartes?",category:"otakuops",slug:"space-marine-survival",icon:"⚔️",origin:"The Astartes are transhuman demigods. You are... well, you. This calculator measures your life expectancy in seconds.",howTo:"Input your physical stats. Be honest. The Emperor knows if you're lying.",tips:["Run.","Hide.","Pray."],tags:["Warhammer 40k","Sci-Fi","Lore"],content:`
 ## His Angels of Death
 
 A Space Marine (Astartes) is not a human in a suit. They are biologically enhanced weapons of war.
-*   **Height**: 7-8 feet.
-*   **Weight**: 500-1,000 lbs (unnarmored).
-*   **Reaction Time**: Nanoseconds.
+* **Height**: 7-8 feet.
+* **Weight**: 500-1,000 lbs (unnarmored).
+* **Reaction Time**: Nanoseconds.
 
 ### The Survival Odds
 For a Guardsman, the life expectancy is 15 hours.
@@ -2075,14 +2074,14 @@ In 40k, FTL travel requires tearing a hole in reality and entering the **Immater
 The Warp is a dimension of pure psychic energy... and it is inhabited by Daemons.
 
 ### The Navigator's Burden
-You cannot use a computer to navigate chaos. You need a **Navigator**—a mutant with a third eye who can see the psychic beacon of the Astronomican (The Emperor's Light) on Terra.
+You cannot use a computer to navigate chaos. You need a **Navigator**, a mutant with a third eye who can see the psychic beacon of the Astronomican (The Emperor's Light) on Terra.
 They steer the ship through storms of madness.
 
 ### Temporal Drift
 Time does not exist in the Warp.
-*   **Realspace Trip**: 1 year.
-*   **Warp Time**: 2 weeks.
-*   **Arrival**: You might arrive 100 years late. Or 10 years before you left. Or you might arrive... wrong.
+* **Realspace Trip**: 1 year.
+* **Warp Time**: 2 weeks.
+* **Arrival**: You might arrive 100 years late. Or 10 years before you left. Or you might arrive... wrong.
 `,faq:[{question:"What is a Gellar Field?",answer:"A bubble of 'reality' around the ship. If it fails, the laws of physics stop working inside the ship, and Daemons manifest instantly."},{question:"Why do they do it?",answer:"It is the only way to hold a galaxy-spanning empire together. Without Warp travel, humanity is isolated and dies."},{question:"Is the Webway safer?",answer:"Yes, the Eldar use the Webway (tunnels between reality and warp). The Emperor tried to build one for humans... it didn't end well."}],relatedCalculators:["slipspace-debt","warp-speed","chaos-explorer"]},{id:"golden-throne-tithe",title:"The Golden Tithe",description:"The cost to keep the Emperor alive.",category:"otakuops",slug:"golden-throne-tithe",icon:"👑",origin:"The Astronomican guides all ships, but it burns 1,000 Psyker souls every single day. Visualize the sheer scale of this sacrifice.",howTo:"Input a duration in years to see the mountain of souls required to keep the light on.",tips:["Only the strong survive the Black Ships.","It is better to die for the Emperor than live for yourself."],tags:["Warhammer 40k","Sci-Fi","Lore"],content:`
 ## The Carrion Lord
 
@@ -2095,8 +2094,8 @@ Every day, the Black Ships arrive at Terra with their hold full of **Psykers** (
 
 ### The Cost of Survival
 Is it evil to sacrifice 365,000 innocent people a year?
-*   **Yes**: It is monstrous.
-*   **No**: Without it, the Imperium collapses, and trillions die to Daemons.
+* **Yes**: It is monstrous.
+* **No**: Without it, the Imperium collapses, and trillions die to Daemons.
 This is the central moral horror of 40k.
 `,faq:[{question:"Does he know?",answer:"It is debated. Some say his mind is shattered. Others say he weeps for every soul. Others say he has become a distinctive God-entity that demands it."},{question:"Is the Throne failing?",answer:"Yes. The tech is breaking down, and the Mechanicus doesn't know how to fix it. The deadline is looming."},{question:"Are there alternatives?",answer:"The Interex and Votann use AI/Tech for navigation, but the Imperium banned AI. They have painted themselves into a corner of blood."}],relatedCalculators:["cost-of-war","exterminatus-cost","ork-waaagh-energy"]},{id:"ork-waaagh-energy",title:"Ork WAAAGH! Energy",description:"Calculate the power of belief (and shouting).",category:"otakuops",slug:"ork-waaagh-energy",icon:"📢",origin:"Ork technology works simply because they believe it does. This calculator quantifies the psionic field generated by a gathering of Boyz.",howTo:"Gather your Boyz, paint something red, and scream. We'll measure the output in Mega-Joules.",tips:["Red ones go fasta.","More Dakka is always the answer.","WAAAGH!"],tags:["Warhammer 40k","Sci-Fi","Lore"],content:`
 ## The Power of Imagination 🧠
@@ -2106,10 +2105,10 @@ They possess a passive psychic field called the **WAAAGH!** energy.
 It greases the laws of physics. If a million Orks *believe* something works, it works.
 
 ### Color Theory 🎨
-*   **Red**: "Red wunz go fasta." (Vehicles painted red actually move 10-20% faster).
-*   **Yellow**: "More dakka/wealth." (Explosions are bigger).
-*   **Blue**: "Lucky." (Orks wearing blue get hit less).
-*   **Purple**: "Sneaky." (Invisibility).
+* **Red**: "Red wunz go fasta." (Vehicles painted red actually move 10-20% faster).
+* **Yellow**: "More dakka/wealth." (Explosions are bigger).
+* **Blue**: "Lucky." (Orks wearing blue get hit less).
+* **Purple**: "Sneaky." (Invisibility).
 
 ### Tech Support 🔧
 Ork guns are often just pipes with bolts in them. When a human picks one up, it falls apart. When an Ork holds it, it fires fully automatic. Why? Because the Ork *thinks* it's a gun.
@@ -2117,7 +2116,7 @@ Ork guns are often just pipes with bolts in them. When a human picks one up, it 
 ## Dimensional Slipstream
 
 In Halo, the Shaw-Fujikawa Translight Engine allows ships to rupture normal space and enter "The Slipstream."
-Like the 40k Warp, it breaks physics, but unlike the Warp, there are no demons—just math.
+Like the 40k Warp, it breaks physics, but unlike the Warp, there are no demons, just math.
 
 ### Wake Turbulence
 When a massive object (assault carrier) enters/exits Slipspace, it creates radiation (Cherenkov radiation) and gravitational distortions.
@@ -2138,9 +2137,9 @@ Reverse-engineered from Jackal wrist gauntlets, the energy shield is the game-ch
 This turned Spartans from "Toughs" into "Tanks."
 
 ### Cost Analysis
-*   **Mark IV (Halo Wars)**: Expensive, no shields.
-*   **Mark V (Halo CE)**: Added AI integration (Cortana). Cost per suit equivalent to a destroyer class vessel.
-*   **Mark VI (Halo 2)**: Better regen, auto-biofoam injectors.
+* **Mark IV (Halo Wars)**: Expensive, no shields.
+* **Mark V (Halo CE)**: Added AI integration (Cortana). Cost per suit equivalent to a destroyer class vessel.
+* **Mark VI (Halo 2)**: Better regen, auto-biofoam injectors.
 `,faq:[{question:"Why green?",answer:"Standard UNSC Olive Drab. Though Spartans can paint them any color (see: Multiplayer)."},{question:"Can it survive a fall from space?",answer:"Yes. Master Chief locked his armor (Gel Layer rigid) and survived atmospheric reentry. Twice."},{question:"Does it recycle... waste?",answer:"Yes. The suit is fully self-contained. You do not want to know the details."}],relatedCalculators:["beskar-armor","spartan-augmentation","billionaire-buyout"]},{id:"flood-infection",title:"Flood Infection Rate",description:"Time until planetary glassing.",category:"otakuops",slug:"flood-infection",icon:"🦠",origin:"The Flood consumes all biomass. Once an outbreak starts, it's a race against time before the entire planet must be sterilized.",howTo:"Input local population density and defense readiness. We'll tell you how long you have to evacuate.",tips:["One single spore can destroy a species.","Fire is your friend.","If you hear squishing noises, run."],tags:["Halo","Sci-Fi","Lore"],content:`
 ## The Logic Plague
 
@@ -2148,9 +2147,9 @@ The Flood is not a virus; it is a macroscopic super-organism.
 It doesn't just kill you; it uses your biomass to build combat forms and your memories to learn how to drive your ships.
 
 ### Stages of Infection
-1.  **Feral Stage**: Infection forms (Popcorn) hunt hosts. No coordination.
-2.  **Coordinated Stage**: A Proto-Gravemind forms. The Flood begins to use strategy and weapons.
-3.  **Interstellar Stage**: A full Gravemind forms. It gains the knowledge of all consumed hosts (including Forerunners). It can warp reality and convince AIs (logic plague) to defect.
+1. **Feral Stage**: Infection forms (Popcorn) hunt hosts. No coordination.
+2. **Coordinated Stage**: A Proto-Gravemind forms. The Flood begins to use strategy and weapons.
+3. **Interstellar Stage**: A full Gravemind forms. It gains the knowledge of all consumed hosts (including Forerunners). It can warp reality and convince AIs (logic plague) to defect.
 
 ### Why HALO?
 The Forerunners realized they couldn't beat the Flood militarily. The parasite was too fast.
@@ -2163,34 +2162,34 @@ The Spartan-II program abducted 75 children (age 6) and trained them until age 1
 Then came **The Augmentation Procedure**.
 
 ### The Enhancements
-1.  **Occipital Capillary Reversal**: "Cat eyes." See in the dark.
-2.  **Superconducting Fibrification of Neural Dendrites**: Reaction time increased by 300%. "Spartan Time."
-3.  **Carbide Ceramic Ossification**: Bones coated in advanced material. Virtually unbreakable.
-4.  **Muscular Enhancement Injections**: Muscles rip and tear until they rebuild with density capable of lifting cars.
+1. **Occipital Capillary Reversal**: "Cat eyes." See in the dark.
+2. **Superconducting Fibrification of Neural Dendrites**: Reaction time increased by 300%. "Spartan Time."
+3. **Carbide Ceramic Ossification**: Bones coated in advanced material. Virtually unbreakable.
+4. **Muscular Enhancement Injections**: Muscles rip and tear until they rebuild with density capable of lifting cars.
 
 ### The Washouts
 Of the 75 candidates:
-*   33 survived intact.
-*   12 were crippled.
-*   30 died.
+* 33 survived intact.
+* 12 were crippled.
+* 30 died.
 Those who died were given a military funeral. The crippled were reassigned to ONI intelligence.
-`,faq:[{question:"Was it ethical?",answer:"No. Dr. Halsey is a war criminal. She argued it was 'Utilitarianism'—sacrifice 75 children to save humanity from civil war (and later the Covenant)."},{question:"Are Spartan-IVs the same?",answer:"No. Spartan-IVs are adult volunteers. They have safer augmentations but are physically weaker out of armor than IIs. The armor bridges the gap."},{question:"How tall are they?",answer:"Chief is ~6'10\" out of armor and 7'2\" in armor."}],relatedCalculators:["mjolnir-cost","space-marine-survival","anime-training"]},{id:"mac-round-impact",title:"MAC Round Impact",description:"Kinetic energy of a Magnetic Accelerator Cannon.",category:"otakuops",slug:"mac-round-impact",icon:"☄️",origin:"A 600-ton slug at 40% of the speed of light simply doesn't care about your shields. Calculate the raw destructive power of the UNSC's big stick.",howTo:"Set the projectile mass and velocity. We'll output the energy in Gigatons.",tips:["Sir Isaac Newton is the deadliest son-of-a-bitch in space.","Don't eyeball it.","Firing 'Super MACs' requires ground generators."],tags:["Halo","Physics","Sci-Fi"],content:`
+`,faq:[{question:"Was it ethical?",answer:"No. Dr. Halsey is a war criminal. She argued it was 'Utilitarianism', sacrifice 75 children to save humanity from civil war (and later the Covenant)."},{question:"Are Spartan-IVs the same?",answer:"No. Spartan-IVs are adult volunteers. They have safer augmentations but are physically weaker out of armor than IIs. The armor bridges the gap."},{question:"How tall are they?",answer:"Chief is ~6'10\" out of armor and 7'2\" in armor."}],relatedCalculators:["mjolnir-cost","space-marine-survival","anime-training"]},{id:"mac-round-impact",title:"MAC Round Impact",description:"Kinetic energy of a Magnetic Accelerator Cannon.",category:"otakuops",slug:"mac-round-impact",icon:"☄️",origin:"A 600-ton slug at 40% of the speed of light simply doesn't care about your shields. Calculate the raw destructive power of the UNSC's big stick.",howTo:"Set the projectile mass and velocity. We'll output the energy in Gigatons.",tips:["Sir Isaac Newton is the deadliest son-of-a-bitch in space.","Don't eyeball it.","Firing 'Super MACs' requires ground generators."],tags:["Halo","Physics","Sci-Fi"],content:`
 ## Mass Driver Physics
 
 The UNSC's primary weapon is the **Magnetic Accelerator Cannon (MAC)**.
 It's a giant railgun running the length of the ship.
 
 ### The Stats (Super-MAC)
-*   **Projectile**: 3,000-ton Ferric-Tungsten slug.
-*   **Speed**: 4% the speed of light (12,000 km/s).
-*   **Kinetic Energy**: $K = \frac{1}{2}mv^2$.
+* **Projectile**: 3,000-ton Ferric-Tungsten slug.
+* **Speed**: 4% the speed of light (12,000 km/s).
+* **Kinetic Energy**: $K = \frac{1}{2}mv^2$.
 This impacts with the force of roughly **50 Gigatons of TNT**.
 For context, the Tsar Bomba (largest nuke ever) was 0.05 Gigatons.
 
 ### "Sir Isaac Newton"
 As the Drill Sergeant says:
 *"This recruit, is a 20-kilo ferrous slug. Feel the weight! Every five seconds, the main gun of an Everest-class Dreadnought accelerates one to 1.3 percent of light speed. It impacts with the force of a 38-kiloton bomb. That is three times the yield of the city destroyer that fell on Kowak ... That means: Sir Isaac Newton is the deadliest son-of-a-b***h in space!"*
-`,faq:[{question:"Can Covenant shields stop it?",answer:"Ship shields? Yes, barely. But a Super-MAC (orbital platform) punches right through a capital ship and the ship behind it."},{question:"Why not missiles?",answer:"Missiles (Archer pods) are used to overwhelm point defense. The MAC is the knockout punch."},{question:"Is this possible today?",answer:"The Navy has railguns, but powering them is the issue. We need fusion reactors to generate that kind of magnetic field."}],relatedCalculators:["exterminatus-cost","spaceship-fuel","cost-of-war"]},{id:"decibel-detective",title:"The Decibel Detective",description:"Visualize invisible noise. Calculate the cumulative sensory load of your environment.",category:"brainmodes",slug:"decibel-detective",icon:"🔊",origin:"Sensory overload isn't just about loud noises; it's about the cumulative 'layering' of background sounds. This tool uses logarithmic addition to show you the true cost of 'quiet' noise.",howTo:"Toggle common background noises to see how they stack up. Watch the 'Stress Bar' to see when you hit the danger zone.",tips:["A fridge hum (40dB) plus traffic (50dB) isn't 90dB—it's a complex logarithmic sum.","Prolonged exposure to 70dB+ causes cognitive fatigue.","Silence is a valid nutrient for your brain."],tags:["Sensory","Neurodivergence","Focus"],content:`
+`,faq:[{question:"Can Covenant shields stop it?",answer:"Ship shields? Yes, barely. But a Super-MAC (orbital platform) punches right through a capital ship and the ship behind it."},{question:"Why not missiles?",answer:"Missiles (Archer pods) are used to overwhelm point defense. The MAC is the knockout punch."},{question:"Is this possible today?",answer:"The Navy has railguns, but powering them is the issue. We need fusion reactors to generate that kind of magnetic field."}],relatedCalculators:["exterminatus-cost","spaceship-fuel","cost-of-war"]},{id:"decibel-detective",title:"The Decibel Detective",description:"Visualize invisible noise. Calculate the cumulative sensory load of your environment.",category:"brainmodes",slug:"decibel-detective",icon:"🔊",origin:"Sensory overload isn't just about loud noises; it's about the cumulative 'layering' of background sounds. This tool uses logarithmic addition to show you the true cost of 'quiet' noise.",howTo:"Toggle common background noises to see how they stack up. Watch the 'Stress Bar' to see when you hit the danger zone.",tips:["A fridge hum (40dB) plus traffic (50dB) isn't 90dB, it's a complex logarithmic sum.","Prolonged exposure to 70dB+ causes cognitive fatigue.","Silence is a valid nutrient for your brain."],tags:["Sensory","Neurodivergence","Focus"],content:`
 ## Your Brain Is Doing Logarithmic Math All Day
 You think of noise as a series of events: a door slamming, a notification chime, someone's phone ringing two desks over. But your nervous system experiences it as a single, continuous texture, a floor of sound that never quite drops to zero. The decibel detective above lets you toggle the ordinary noises in a room and watch them stack, because the surprising truth is that they do not add the way our intuition insists they do. A fridge humming at 40 decibels next to traffic leaking in at 50 decibels does not equal 90 decibels. It barely moves the needle off 50. Decibels live on a logarithmic scale, and once you understand that scale, the whole experience of a loud room starts to make sense.
 
