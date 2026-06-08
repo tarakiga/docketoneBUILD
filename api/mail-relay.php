@@ -56,6 +56,11 @@ if ($type === 'bug') {
             "Title: " . ($input['title'] ?? 'N/A') . "\n" .
             "Priority: " . ($input['priority'] ?? 'N/A') . "\n\n" .
             "Details:\n" . ($input['description'] ?? '');
+} elseif ($type === 'newsletter') {
+    $subject = "📬 Newsletter signup: " . ($input['email'] ?? 'unknown');
+    $body = "New newsletter subscriber\n-------------------------\n" .
+            "Email: " . ($input['email'] ?? 'N/A') . "\n" .
+            "Source: " . ($input['source'] ?? 'website');
 } else {
     $subject = "New Contact Submission from " . ($input['name'] ?? 'Visitor');
     $body = "Contact Form Message\n--------------------\n" .
