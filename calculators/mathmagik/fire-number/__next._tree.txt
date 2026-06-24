@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/2289bb73fbefb195.css","style"]
-:HL["/_next/static/chunks/3cd584db83c7674c.css","style"]
+:HL["/_next/static/chunks/1706bd31a2238d55.css","style"]
 :HL["/_next/static/media/03bda585a99c6450-s.p.ad37b9d9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/3c7c6164b2587822-s.p.7f689f7d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 :HL["/_next/static/media/c47649aa31f9e140-s.p.7e59dfd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/dc0d9adbac686440-s.p.3b382e45.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/de161955856a921d-s.p.25da2b95.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"sV145AzfVlxbjJSxAOgta","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"calculators","paramType":null,"paramKey":"calculators","hasRuntimePrefetch":false,"slots":{"children":{"name":"category","paramType":"d","paramKey":"mathmagik","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"fire-number","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"SAvJM8WTEEW9S5xo5hBJA","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"calculators","paramType":null,"paramKey":"calculators","hasRuntimePrefetch":false,"slots":{"children":{"name":"category","paramType":"d","paramKey":"mathmagik","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"fire-number","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
