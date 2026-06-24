@@ -1,6 +1,6 @@
 # Docket One
 
-> Free online calculators that are smart, fun, and genuinely useful — from real adulting decisions to math, codes, and everyday life optimization. No sign-up, no paywall.
+> Free online calculators that are smart, fun, and genuinely useful - from real adulting decisions to math, codes, and everyday life optimization. No sign-up, no paywall.
 
 Docket One is a collection of free, single-purpose web calculators. Each tool shows its working and the formula behind the result, alongside a plain-language explainer and FAQ. The site is static and ad-supported; some playful novelty tools are intentionally excluded from this list.
 
@@ -8,7 +8,7 @@ Docket One is a collection of free, single-purpose web calculators. Each tool sh
 
 Real adulting decisions focused calculators.
 
-- [Big Kid Math — all tools](https://docket.one/calculators/bigkidmath/): Adult Life Tools
+- [Big Kid Math - all tools](https://docket.one/calculators/bigkidmath/): Adult Life Tools
 - [Caffeine Half-Life Calculator](https://docket.one/calculators/bigkidmath/caffeine-half-life/): Track your caffeine metabolism with scientific accuracy.
 - [Car vs. EV vs. Uber](https://docket.one/calculators/bigkidmath/car-vs-uber/): Compare the true cost of owning a Gas Car vs. an EV vs. using Rideshare.
 - [Generational Timeline](https://docket.one/calculators/bigkidmath/generational-timeline/): Explore events and trends across different generations.
@@ -21,7 +21,7 @@ Real adulting decisions focused calculators.
 
 Tools for encryption, codes, and digital security.
 
-- [Cipher Lab — all tools](https://docket.one/calculators/cipherlab/): Codes & Security
+- [Cipher Lab - all tools](https://docket.one/calculators/cipherlab/): Codes & Security
 - [Caesar Cipher](https://docket.one/calculators/cipherlab/caesar-cipher/): Encrypt messages with the ancient Roman shift cipher.
 - [NATO Phonetic Alphabet](https://docket.one/calculators/cipherlab/nato-phonetic/): Convert text to Alpha, Bravo, Charlie used by pilots.
 - [Pigpen Cipher](https://docket.one/calculators/cipherlab/pigpen-cipher/): Visual geometric cipher used by Freemasons.
@@ -35,7 +35,7 @@ Tools for encryption, codes, and digital security.
 
 Optimization tools for everyday efficiency.
 
-- [Life Hacks — all tools](https://docket.one/calculators/lifehacks/): Optimize Life
+- [Life Hacks - all tools](https://docket.one/calculators/lifehacks/): Optimize Life
 - [Sleep Cycle Optimizer](https://docket.one/calculators/lifehacks/sleep-cycle/): Plan your sleep around 90-minute REM cycles.
 - [Calorie Deficit Calculator](https://docket.one/calculators/lifehacks/calorie-deficit/): Compare the calories you eat against the calories you burn.
 - [Procrastination ROI](https://docket.one/calculators/lifehacks/procrastination-roi/): Visualize when the Panic Monster will strike.
@@ -52,7 +52,7 @@ Optimization tools for everyday efficiency.
 
 Playful exploration of numbers and patterns.
 
-- [Math Magik — all tools](https://docket.one/calculators/mathmagik/): Fun with Numbers
+- [Math Magik - all tools](https://docket.one/calculators/mathmagik/): Fun with Numbers
 - [Pizza Pi Calculator](https://docket.one/calculators/mathmagik/pizza-pi/): Optimize your pizza orders.
 - [FIRE Number Calculator](https://docket.one/calculators/mathmagik/fire-number/): Financial Independence, Retire Early.
 - [Double Pendulum Chaos](https://docket.one/calculators/mathmagik/double-pendulum/): Simulate chaotic physics.
@@ -64,7 +64,7 @@ Playful exploration of numbers and patterns.
 
 Calculators used to validate your neurodivergent experience.
 
-- [Brain Modes — all tools](https://docket.one/calculators/brainmodes/): Neurodivergence
+- [Brain Modes - all tools](https://docket.one/calculators/brainmodes/): Neurodivergence
 - [The Decibel Detective](https://docket.one/calculators/brainmodes/decibel-detective/): Visualize invisible noise. Calculate the cumulative sensory load of your environment.
 - [Bio-Frequency Ear Test](https://docket.one/calculators/brainmodes/bio-frequency-test/): How old are your ears? Test your sensitivity to high-frequency sounds.
 
