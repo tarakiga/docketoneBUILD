@@ -1,0 +1,77 @@
+# Docket One
+
+> Free online calculators that are smart, fun, and genuinely useful — from real adulting decisions to math, codes, and everyday life optimization. No sign-up, no paywall.
+
+Docket One is a collection of free, single-purpose web calculators. Each tool shows its working and the formula behind the result, alongside a plain-language explainer and FAQ. The site is static and ad-supported; some playful novelty tools are intentionally excluded from this list.
+
+## Big Kid Math
+
+Real adulting decisions focused calculators.
+
+- [Big Kid Math — all tools](https://docket.one/calculators/bigkidmath/): Adult Life Tools
+- [Caffeine Half-Life Calculator](https://docket.one/calculators/bigkidmath/caffeine-half-life/): Track your caffeine metabolism with scientific accuracy.
+- [Car vs. EV vs. Uber](https://docket.one/calculators/bigkidmath/car-vs-uber/): Compare the true cost of owning a Gas Car vs. an EV vs. using Rideshare.
+- [Generational Timeline](https://docket.one/calculators/bigkidmath/generational-timeline/): Explore events and trends across different generations.
+- [Lightning-Powered Life](https://docket.one/calculators/bigkidmath/lightning-life/): How many lightning strikes would it take to power your life?
+- [The Footprint of Power](https://docket.one/calculators/bigkidmath/power-footprint/): Compare land use requirements for Solar vs. Wind vs. Nuclear.
+- [The Cost of War](https://docket.one/calculators/bigkidmath/cost-of-war/): Contrast military munitions with societal opportunity costs.
+- [Billionaire Buy-Out](https://docket.one/calculators/bigkidmath/billionaire-buyout/): Experience the staggering scale of elite wealth.
+
+## Cipher Lab
+
+Tools for encryption, codes, and digital security.
+
+- [Cipher Lab — all tools](https://docket.one/calculators/cipherlab/): Codes & Security
+- [Caesar Cipher](https://docket.one/calculators/cipherlab/caesar-cipher/): Encrypt messages with the ancient Roman shift cipher.
+- [NATO Phonetic Alphabet](https://docket.one/calculators/cipherlab/nato-phonetic/): Convert text to Alpha, Bravo, Charlie used by pilots.
+- [Pigpen Cipher](https://docket.one/calculators/cipherlab/pigpen-cipher/): Visual geometric cipher used by Freemasons.
+- [Morse Code Broadcast](https://docket.one/calculators/cipherlab/morse-code/): Translate text to audible Morse Code dits and dahs.
+- [Password Anger Scale](https://docket.one/calculators/cipherlab/password-anger/): How angry would a hacker get trying to crack your password?
+- [Ogham Translator](https://docket.one/calculators/cipherlab/ogham-translator/): Convert text to Ancient Irish tree alphabet.
+- [Steganography Brush](https://docket.one/calculators/cipherlab/steganography-brush/): Hide secret intent within digital noise.
+- [Shavian Alphabet](https://docket.one/calculators/cipherlab/shavian-translator/): George Bernard Shaw's phonetic alphabet for English.
+
+## Life Hacks
+
+Optimization tools for everyday efficiency.
+
+- [Life Hacks — all tools](https://docket.one/calculators/lifehacks/): Optimize Life
+- [Sleep Cycle Optimizer](https://docket.one/calculators/lifehacks/sleep-cycle/): Plan your sleep around 90-minute REM cycles.
+- [Calorie Deficit Calculator](https://docket.one/calculators/lifehacks/calorie-deficit/): Compare the calories you eat against the calories you burn.
+- [Procrastination ROI](https://docket.one/calculators/lifehacks/procrastination-roi/): Visualize when the Panic Monster will strike.
+- [Social Media Addiction](https://docket.one/calculators/lifehacks/social-media-addiction/): How many years of your life are spent scrolling?
+- [Coffee to Code Efficiency](https://docket.one/calculators/lifehacks/coffee-code/): Calculate caffeine-fueled productivity.
+- [Unspent Potential Tax](https://docket.one/calculators/lifehacks/unspent-potential/): Quantify the hidden cost of procrastination.
+- [Stress-to-Ice-Cream Ratio](https://docket.one/calculators/lifehacks/stress-ice-cream/): Emotional support dairy calculator.
+- [Time is Money](https://docket.one/calculators/lifehacks/time-is-money/): Convert purchase costs into hours of your life.
+- [How Hot Is That Pepper?](https://docket.one/calculators/lifehacks/pepper-scale/): Scoville scale visualizer & survival guide.
+- [Should I Engage?](https://docket.one/calculators/lifehacks/should-i-engage/): Strategic decision tree for conversations.
+- [The Elevator Dilemma](https://docket.one/calculators/lifehacks/elevator-dilemma/): Wait for the lift or take the stairs? Optimization for the impatient.
+
+## Math Magik
+
+Playful exploration of numbers and patterns.
+
+- [Math Magik — all tools](https://docket.one/calculators/mathmagik/): Fun with Numbers
+- [Pizza Pi Calculator](https://docket.one/calculators/mathmagik/pizza-pi/): Optimize your pizza orders.
+- [FIRE Number Calculator](https://docket.one/calculators/mathmagik/fire-number/): Financial Independence, Retire Early.
+- [Double Pendulum Chaos](https://docket.one/calculators/mathmagik/double-pendulum/): Simulate chaotic physics.
+- [Chaos Theory Explorer](https://docket.one/calculators/mathmagik/chaos-explorer/): Visualize the logistic-map bifurcation diagram.
+- [Inflation Impact](https://docket.one/calculators/mathmagik/inflation-impact/): Historical purchasing power.
+- [Your Life Visualized](https://docket.one/calculators/mathmagik/life-visualized/): Memento Mori weeks grid.
+
+## Brain Modes
+
+Calculators used to validate your neurodivergent experience.
+
+- [Brain Modes — all tools](https://docket.one/calculators/brainmodes/): Neurodivergence
+- [The Decibel Detective](https://docket.one/calculators/brainmodes/decibel-detective/): Visualize invisible noise. Calculate the cumulative sensory load of your environment.
+- [Bio-Frequency Ear Test](https://docket.one/calculators/brainmodes/bio-frequency-test/): How old are your ears? Test your sensitivity to high-frequency sounds.
+
+## About
+
+- [About Docket One](https://docket.one/about/): What the site is and who builds it
+- [Help & FAQ](https://docket.one/help/): How the calculators work
+- [Accessibility](https://docket.one/accessibility/): Accessibility statement
+- [Privacy Policy](https://docket.one/privacy/): How data and cookies are handled
+- [Terms of Service](https://docket.one/terms/)
