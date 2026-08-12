@@ -15,7 +15,6 @@ Real adulting decisions focused calculators.
 - [Lightning-Powered Life](https://docket.one/calculators/bigkidmath/lightning-life/): How many lightning strikes would it take to power your life?
 - [The Footprint of Power](https://docket.one/calculators/bigkidmath/power-footprint/): Compare land use requirements for Solar vs. Wind vs. Nuclear.
 - [The Cost of War](https://docket.one/calculators/bigkidmath/cost-of-war/): Contrast military munitions with societal opportunity costs.
-- [Billionaire Buy-Out](https://docket.one/calculators/bigkidmath/billionaire-buyout/): Experience the staggering scale of elite wealth.
 
 ## Cipher Lab
 
