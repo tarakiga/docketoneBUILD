@@ -725,7 +725,7 @@ To get to our nearest neighbor, Proxima Centauri (4.2 light years), takes wildly
 4. **Warp Drive**: Breaking physics. Time: **Minutes**.
 
 ### Time Dilation
-As you approach the speed of light ($c$), time slows down for you relative to Earth. At 99.9% $c$, a 4-year trip for you might be 100 years for your friends back home. This tool calculates both the "Ship Time" and "Earth Time."
+As you approach the speed of light (*c*), time slows down for you relative to Earth. At 99.9% of *c* the Lorentz factor is about 22, so a 4 year trip for you is about 89 years for the friends you left behind. This tool calculates both the "Ship Time" and "Earth Time."
 `,faq:[{question:"Is Warp Drive possible?",answer:"Theoretically, yes (Alcubierre Drive), but it requires 'negative mass' which might not exist in our universe."},{question:"Why not just freeze people?",answer:"Cyrosleep prevents aging and boredom, but the radiation shielding required for a 100-year trip is massive."},{question:"What is 1 AU?",answer:"The distance from Earth to the Sun (93 million miles). It's the standard ruler for solar system travel."}],relatedCalculators:["spaceship-fuel","warp-speed","alien-communication"]},{id:"spaceship-fuel",title:"Spaceship Fuel Planner",description:"Plan your interstellar fuel loadout.",category:"geekgalaxy",slug:"spaceship-fuel",icon:"⛽",origin:"Tsiolkovsky's Rocket Equation is a cruel mistress. The more fuel you carry, the more fuel you need just to move that fuel. This planner helps you find the 'sweet spot' for your mission.",howTo:"Input your ship's dry mass and your target Delta-V (change in velocity). We'll tell you exactly how much fuel you need to reach your destination without becoming a permanent satellite.",tips:["Staging your rocket is the most efficient way to gain velocity.","Vacuum engines have much higher efficiency than sea-level ones.","Always leave 5% extra for maneuvers."],tags:["Space","Physics"],content:`
 ## The Tyranny of the Rocket Equation
 
@@ -738,9 +738,9 @@ If you want to go faster, you need more fuel. But adding more fuel makes the shi
 ## How the Math Works
 
 The calculator implements the ideal Tsiolkovsky rocket equation:
-$$ \\Delta v = v_e \\ln \\left( \\frac{m_0}{m_f} \\right) $$
+**delta-v = exhaust velocity \xd7 ln(wet mass / dry mass)**
 
-To find the required fuel mass, the formula is algebraically inverted. We take your target $ \\Delta v $ (Delta-V) and your engine's exhaust velocity (derived from Specific Impulse or $I_{sp}$). We calculate the mass ratio using an exponential function $ e^{\\Delta v / v_e} $. By subtracting the wet mass from your inputted dry mass, the script outputs the exact metric tonnage of propellant required to achieve the maneuver.
+To find the required fuel mass, the formula is algebraically inverted. We take your target delta-v and your engine's exhaust velocity (derived from specific impulse, Isp). We calculate the mass ratio as e raised to the power of delta-v divided by exhaust velocity. By subtracting the wet mass from your inputted dry mass, the script outputs the exact metric tonnage of propellant required to achieve the maneuver.
 `,faq:[{question:"What is Delta-V?",answer:"Delta-V literally translates to 'change in velocity'. In space, distances don't matter as much as energy. You budget your trips based on how much speed you need to change (to enter orbit, leave orbit, or land)."},{question:"Why do rockets drop stages?",answer:"Because hauling empty fuel tanks into space is a massive waste of energy. 'Staging' lets you throw away dead weight, drastically improving the mass ratio for the remaining journey."},{question:"What is Specific Impulse (Isp)?",answer:"It's a measure of fuel efficiency for rocket engines. Higher Isp means you get more thrust per kilogram of fuel, similar to MPG in a car."},{question:"Is this how Kerbal Space Program works?",answer:"Yes! KSP relies entirely on this exact mathematically simulated equation to dictate whether your rocket makes it to the Mun or crashes back into the ocean."},{question:"Why can't we just build one giant rocket to reach lightspeed?",answer:"Because of the exponential nature of the equation. Getting to lightspeed would require a fuel tank larger than the observable universe just to push the mass of the fuel itself."}],relatedCalculators:["alien-communication","time-paradox","cost-of-war"]},{id:"lightsaber-battery",title:"Lightsaber Battery Life",description:"Don't run out of charge mid-duel.",category:"geekgalaxy",slug:"lightsaber-battery",icon:"⚔️",origin:"A Jedi's weapon is their life, but even Diatium power cells have limits. Plasma containment and blade length draw significant power, especially during heavy combat or 'door-melting' scenarios.",howTo:"Adjust your blade color (certain crystals draw more power!) and estimated combat intensity. We'll show you how many minutes of active use you have left before you're holding a fancy flashlight.",tips:["Blue and green are the most efficient colors.","Holding a blade in 'deflection mode' drains battery 3x faster.","Keep a spare power cell in your utility belt."],tags:["Star Wars","Sci-Fi","Lore"],content:`
 ## The Elegance of Diatium
 
@@ -774,15 +774,15 @@ This model (popularized by Eliezer Yudkowsky) suggests that once an AI becomes s
 `,faq:[{question:"Can we just unplug it?",answer:"A superintelligence would likely anticipate that and copy itself to the cloud before you reached the plug."},{question:"Is this real?",answer:"Experts disagree. Leaders at OpenAI and Anthropic treat 'x-risk' (existential risk) seriously, while others think it's sci-fi fearmongering."},{question:"How close are we?",answer:"Some predict AGI by 2029. Others say 2050. The timeline is compressing every year."}],relatedCalculators:["alien-communication","time-paradox","conspiracy-theory"]},{id:"alien-communication",title:"Alien Communication Probability",description:"Drake Equation visualizer.",category:"geekgalaxy",slug:"alien-communication",icon:"👽",origin:"A visual deep-dive into the Drake Equation, formulated by Frank Drake in 1961 to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way.",howTo:"Adjust the sliders for star formation, habitable planets, and the 'Great Filter' variables. Watch as the number of potential neighbors in our galaxy shifts from zero to millions.",tips:["The 'L' factor (civilization longevity) is the biggest unknown.","We've only been 'listening' for about 60 years.","The Fermi Paradox asks: 'Where is everybody?'"],tags:["Space","Statistics","Aliens"],content:`
 ## The Great Silence
 
-In 1961, Frank Drake wrote an equation to estimate the number of active civilizations ($N$) in our galaxy.
-$$ N = R_* cdot f_p cdot n_e cdot f_l cdot f_i cdot f_c cdot L $$
+In 1961, Frank Drake wrote an equation to estimate the number of active civilizations (*N*) in our galaxy.
+**N = R \xd7 fp \xd7 ne \xd7 fl \xd7 fi \xd7 fc \xd7 L**
 
 ### The Variables
-* **Stars ($R_*$)**: The galaxy is full of them (100 Billion+).
-* **Planets ($f_p$)**: We now know almost every star has planets.
-* **Life ($f_l$)**: Life seems to start easily on Earth...
-* **Intelligence ($f_i$)**: ...but it took 4 billion years to get to humans.
-* **Communication ($L$)**: **This is the bottleneck.** How long does a civilization last before it destroys itself with nukes or AI?
+* **Stars (R)**: The galaxy is full of them (100 Billion+).
+* **Planets (fp)**: We now know almost every star has planets.
+* **Life (fl)**: Life seems to start easily on Earth...
+* **Intelligence (fi)**: ...but it took 4 billion years to get to humans.
+* **Communication (L)**: **This is the bottleneck.** How long does a civilization last before it destroys itself with nukes or AI?
 
 ### The Great Filter
 We haven't met anyone yet. This implies one of two things:
@@ -797,7 +797,7 @@ Not metaphorical weight. Actual, measurable, physical mass.
 ### Einstein's Forgotten Footnote
 When a transistor stores a "1" instead of a "0," it traps a tiny number of electrons
 in a quantum well. Those electrons have slightly more energy in the "1" state.
-And thanks to $E = mc^2$, more energy = more mass.
+And thanks to E = mc\xb2, more energy means more mass.
 
 The difference? About **10⁻\xb9⁸ grams per bit**. That's an *attogram*, a billionth of a billionth of a gram.
 
@@ -815,8 +815,8 @@ every conspiracy theory on Reddit, weighs less than what you put on your morning
 
 ### The Landauer Limit
 Physicist Rolf Landauer proved in 1961 that there is a **minimum energy cost** to erasing
-one bit of information: $kT \\ln 2$ (Boltzmann's constant \xd7 temperature \xd7 ln(2)).
-At room temperature, this is about $2.87 \\times 10^{-21}$ Joules.
+one bit of information: kT ln 2 (Boltzmann's constant \xd7 temperature \xd7 ln(2)).
+At room temperature, this is about 2.87 \xd7 10⁻\xb2\xb9 Joules.
 
 This isn't just theory. IBM experimentally verified the Landauer Limit in 2012.
 Information is *physical*. Bits are not abstract, they are tiny, almost impossibly
@@ -856,12 +856,12 @@ While genetics (or immaculate conception by the Force) determine your potential,
 In the Star Trek universe, the Warp Drive uses dilithium crystals to generate a subspace bubble, allowing the ship to move faster than light (FTL) without breaking relativity.
 
 ### The Scales (TOS vs. TNG)
-* **The Original Series (TOS)**: Used a cubic scale. $Warp Factor^3 	imes c$. Warp 9 was fast, but they often went faster.
+* **The Original Series (TOS)**: Used a cubic scale: warp factor cubed, times c. Warp 9 was fast, but they often went faster.
 * **The Next Generation (TNG)**: Recalibrated. Warp 10 is "Infinite Velocity" (occupying all points in the universe simultaneously).
- * Warp 1 = $1c$ (Speed of Light)
- * Warp 9 = $1516c$
- * Warp 9.9 = $3053c$
- * Warp 9.99 = $7912c$ (The curve is exponential!)
+ * Warp 1 = 1c (Speed of Light)
+ * Warp 9 = 1516c
+ * Warp 9.9 = 3053c
+ * Warp 9.99 = 7912c (The curve is exponential!)
 
 ### "Make it So"
 Even at Warp 9, the galaxy is huge. Crossing the Federation (8,000 light years) would take over 5 years. That's why Voyager (70,000 light years away) was stranded for decades.
@@ -904,25 +904,25 @@ This calculator converts the weight of the armor into "Imperial Credits" and "Be
 The image you are exploring is the **Bifurcation Diagram of the Logistic Map**. It is the "Roadmap to Chaos." It answers a simple question: *If a population grows and dies based on a fixed rate, will it stabilize?*
 
 ### How to Read the Map
-* **The X-Axis (Growth Rate $r$)**: Moves from a stagnant population (left) to an explosive one (right).
+* **The X-Axis (Growth Rate *r*)**: Moves from a stagnant population (left) to an explosive one (right).
 * **The Y-Axis (Population)**: Shows the stable population size(s) for that year.
 
 ### The Journey
-1. **$r < 3.0$**: One single line. The population is stable.
-2. **$r = 3.0$**: The First Split. The population bounces between two numbers (Boom year, Bust year).
-3. **$r = 3.45$**: The Second Split. Now a 4-year cycle.
-4. **$r = 3.5699...$**: **CHAOS.** The lines dissolve into a cloud. The population effectively becomes random...
-5. **...Except for the Windows**: Look at $r=3.83$. Suddenly, order returns! A stable 3-year cycle emerges from the noise. This "Island of Stability" contains a miniature copy of the entire diagram within it.
-`,faq:[{question:"Is this just for rabbits?",answer:"No. This pattern (The Feigenbaum Constant) controls dripping faucets, heart fibrillations, and even the onset of turbulence in fluid dynamics."},{question:"What is that white vertical stripe?",answer:"That is an 'Island of Stability' ($r \\approx 3.83$). Even deep in the chaotic zone, certain values force the system back into a predictable rhythm for a short time."},{question:"Why is it called the 'Logistic' map?",answer:"It comes from the 'Logistic Equation' used by Pierre François Verhulst in 1838 to model limited population growth."}],relatedCalculators:["chaos-explorer","chaos-composer","double-pendulum"]},{id:"chaos-composer",title:"The Chaos Composer",description:"Listen to the sound of math.",category:"geekgalaxy",slug:"chaos-composer",icon:"🎵",origin:"What does chaos sound like? By mapping the Logistic Map's output to musical frequencies, we can hear the transition from steady rhythm to complex polyrhythms to white noise.",howTo:"Slide the Growth Rate ($r$) from 2.0 to 4.0. Listen for the 'galloping' rhythm of period-doubling at r=3.0, and the onset of pure noise at r=3.57.",tips:["The 'Feigenbaum Point' at 3.56995 is where the rhythm breaks down forever.","Use the Pentatonic Scale mode to make the chaos sound musical.","Calculated in real-time using the Web Audio API."],tags:["Audio","Math","Chaos Theory"],content:`
+1. **r < 3.0**: One single line. The population is stable.
+2. **r = 3.0**: The First Split. The population bounces between two numbers (Boom year, Bust year).
+3. **r = 3.45**: The Second Split. Now a 4-year cycle.
+4. **r = 3.5699...**: **CHAOS.** The lines dissolve into a cloud. The population effectively becomes random...
+5. **...Except for the Windows**: Look at r = 3.83. Suddenly, order returns! A stable 3-year cycle emerges from the noise. This "Island of Stability" contains a miniature copy of the entire diagram within it.
+`,faq:[{question:"Is this just for rabbits?",answer:"No. This pattern (The Feigenbaum Constant) controls dripping faucets, heart fibrillations, and even the onset of turbulence in fluid dynamics."},{question:"What is that white vertical stripe?",answer:"That is an 'Island of Stability', r of about 3.83. Even deep in the chaotic zone, certain values force the system back into a predictable rhythm for a short time."},{question:"Why is it called the 'Logistic' map?",answer:"It comes from the 'Logistic Equation' used by Pierre François Verhulst in 1838 to model limited population growth."}],relatedCalculators:["chaos-explorer","chaos-composer","double-pendulum"]},{id:"chaos-composer",title:"The Chaos Composer",description:"Listen to the sound of math.",category:"geekgalaxy",slug:"chaos-composer",icon:"🎵",origin:"What does chaos sound like? By mapping the Logistic Map's output to musical frequencies, we can hear the transition from steady rhythm to complex polyrhythms to white noise.",howTo:"Slide the Growth Rate (r) from 2.0 to 4.0. Listen for the 'galloping' rhythm of period-doubling at r=3.0, and the onset of pure noise at r=3.57.",tips:["The 'Feigenbaum Point' at 3.56995 is where the rhythm breaks down forever.","Use the Pentatonic Scale mode to make the chaos sound musical.","Calculated in real-time using the Web Audio API."],tags:["Audio","Math","Chaos Theory"],content:`
 ## Hearing the Math
 
 We usually visualize data, but our ears are actually better at detecting patterns in time. This tool converts the **Logistic Map** (the same formula as the Chaos Microscope) into sound waves.
 
 ### What am I hearing?
-* **The "Thump-Thump"**: At low values ($r < 3.0$), the math produces a steady, single value. This sounds like a metronome.
-* **The "Gallop"**: At $r=3.1$, the value splits in two. You hear a *high-low-high-low* rhythm.
+* **The "Thump-Thump"**: At low values (r < 3.0), the math produces a steady, single value. This sounds like a metronome.
+* **The "Gallop"**: At r = 3.1, the value splits in two. You hear a *high-low-high-low* rhythm.
 * **The "Chord"**: As divisions multiply (4, 8, 16...), the rapid oscillation creates a complex, textured tone.
-* **The "Static"**: Once we hit Chaos ($r > 3.57$), the values are non-repeating. To the human ear, this creates White Noise (pure randomness).
+* **The "Static"**: Once we hit Chaos (r > 3.57), the values are non-repeating. To the human ear, this creates White Noise (pure randomness).
 
 ### Why Music?
 Musicians have used chaos math to generate melodies that sound "human." A completely random melody sounds like trash. A completely repetitive one is boring. Chaos provides "Structured Surprise", the essence of good jazz.
@@ -1066,7 +1066,7 @@ Most games have a "Pity System" (e.g., guaranteed 5-star at 90 pulls).
 ## Connecting the Dots
 
 Humans are pattern-seeking machines. We see faces in clouds and conspiracies in coincidence.
-The **Conspiracy Correlation Coefficient ($C^3$)** measures how deep down the rabbit hole you are.
+The **Conspiracy Correlation Coefficient (C\xb3)** measures how deep down the rabbit hole you are.
 
 ### Occam's Razor vs. The Truth
 * **Occam's Razor**: The simplest explanation is usually right. (The government is just incompetent, not evil).
@@ -1131,7 +1131,7 @@ A formula this clean still meets a messier world, and a few honest caveats keep 
 - Coupons and deals can flip the ranking instantly. Always run the actual prices on offer through the tool, because a two for one medium promotion can briefly out-math the large.
 
 The takeaway is simple: never trust the sticker price alone. Enter the sizes and prices above, let the area formula do the squaring, and order the pizza that wins on price per square inch. Mathematics, as the tip says, is the secret topping of every good deal.
-`,faq:[{question:"What if I'm not that hungry?",answer:"Cold pizza is a breakfast superfood. Buy the large, save the rest. It's fiscally responsible leftovers."},{question:"Does this work for square pizzas?",answer:"Square pizza math is easier ($L 	imes W$), but the principle holds: larger sizes almost always offer better volume-per-dollar."},{question:"Is deep dish considered pizza?",answer:"Legally, yes. Mathematically, it's a casserole. The volume calculation requires a depth variable ($V = pi r^2 h$)."}],relatedCalculators:["time-is-money","pepper-scale","stress-ice-cream"]},{id:"fire-number",title:"FIRE Number Calculator",description:"Financial Independence, Retire Early.",category:"mathmagik",slug:"fire-number",icon:"🔥",origin:"The FIRE movement isn't about being rich; it's about freedom. This tool uses the '4% Rule' from the Trinity Study to calculate exactly how much you need to never work again.",howTo:"Input your annual expenses and your current savings. We'll show you your 'FIRE Number' and estimate how many years of freedom you've already 'bought'.",tips:["Lowering your expenses is more effective than raising your income.","Index funds are the engine of FIRE.","Your 'LeanFIRE' number is your absolute survival minimum."],tags:["Finance","Wealth"],content:`
+`,faq:[{question:"What if I'm not that hungry?",answer:"Cold pizza is a breakfast superfood. Buy the large, save the rest. It's fiscally responsible leftovers."},{question:"Does this work for square pizzas?",answer:"Square pizza math is easier (length × width), but the principle holds: larger sizes almost always offer better volume-per-dollar."},{question:"Is deep dish considered pizza?",answer:"Legally, yes. Mathematically, it's a casserole. The volume calculation requires a depth variable, V = π r² h."}],relatedCalculators:["time-is-money","pepper-scale","stress-ice-cream"]},{id:"fire-number",title:"FIRE Number Calculator",description:"Financial Independence, Retire Early.",category:"mathmagik",slug:"fire-number",icon:"🔥",origin:"The FIRE movement isn't about being rich; it's about freedom. This tool uses the '4% Rule' from the Trinity Study to calculate exactly how much you need to never work again.",howTo:"Input your annual expenses and your current savings. We'll show you your 'FIRE Number' and estimate how many years of freedom you've already 'bought'.",tips:["Lowering your expenses is more effective than raising your income.","Index funds are the engine of FIRE.","Your 'LeanFIRE' number is your absolute survival minimum."],tags:["Finance","Wealth"],content:`
 ## What the FIRE Number Really Means
 FIRE stands for Financial Independence, Retire Early. The number this calculator produces is the size of an invested portfolio large enough that its returns can cover your living costs indefinitely, meaning a paycheck becomes optional, not mandatory. It is the dividing line between working because you have to and working because you want to.
 
@@ -2071,7 +2071,7 @@ It's a giant railgun running the length of the ship.
 ### The Stats (Super-MAC)
 * **Projectile**: 3,000-ton Ferric-Tungsten slug.
 * **Speed**: 4% the speed of light (12,000 km/s).
-* **Kinetic Energy**: $K = \frac{1}{2}mv^2$.
+* **Kinetic Energy**: K = \xbdmv\xb2.
 This impacts with the force of roughly **50 Gigatons of TNT**.
 For context, the Tsar Bomba (largest nuke ever) was 0.05 Gigatons.
 
